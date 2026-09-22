@@ -1,0 +1,2321 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "429383",
+                "event": {
+                    "name": "VCT 2025: EMEA Kickoff Main Event: Upper Quarterfinals",
+                    "series": "Main Event: Upper Quarterfinals",
+                    "logo": "https://owcdn.net/img/65ab59620a233.png"
+                },
+                "date": "January 23, 2025 1:00 AM PST Patch 10.0",
+                "map_vetos": "FUT ban Bind; TL ban Lotus; FUT pick Pearl; TL pick Fracture; FUT ban Abyss; TL ban Haven; Split remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "1184",
+                        "name": "FUT Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/632be9976b8fe.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "474",
+                        "name": "Team Liquid",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/640c381f0603f.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/TcuAcsRBXUM?t=1410"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/ZTzdP_rx6tY?t=477"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "PearlPICK",
+                        "picked_by": "",
+                        "duration": "56:58",
+                        "score": {
+                            "team1": 13,
+                            "team2": 7
+                        },
+                        "score_ct": {
+                            "team1": "9",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "qRaxs",
+                                    "agent": "Fade",
+                                    "rating": "1.23",
+                                    "acs": "253",
+                                    "kills": "19",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "+6",
+                                    "kast": "85%",
+                                    "adr": "167",
+                                    "hs_pct": "59%",
+                                    "fk": "4",
+                                    "fd": "0",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "yetujey",
+                                    "agent": "Cypher",
+                                    "rating": "1.23",
+                                    "acs": "222",
+                                    "kills": "15",
+                                    "deaths": "13",
+                                    "assists": "6",
+                                    "kd_diff": "+2",
+                                    "kast": "75%",
+                                    "adr": "160",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "xeus",
+                                    "agent": "Yoru",
+                                    "rating": "1.13",
+                                    "acs": "193",
+                                    "kills": "16",
+                                    "deaths": "12",
+                                    "assists": "3",
+                                    "kd_diff": "+4",
+                                    "kast": "75%",
+                                    "adr": "113",
+                                    "hs_pct": "42%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "MrFaliN",
+                                    "agent": "Tejo",
+                                    "rating": "1.04",
+                                    "acs": "191",
+                                    "kills": "15",
+                                    "deaths": "13",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "75%",
+                                    "adr": "123",
+                                    "hs_pct": "18%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "AtaKaptan",
+                                    "agent": "Astra",
+                                    "rating": "1.01",
+                                    "acs": "179",
+                                    "kills": "12",
+                                    "deaths": "13",
+                                    "assists": "9",
+                                    "kd_diff": "-1",
+                                    "kast": "80%",
+                                    "adr": "117",
+                                    "hs_pct": "14%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "kamyk",
+                                    "agent": "Sova",
+                                    "rating": "1.10",
+                                    "acs": "213",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-1",
+                                    "kast": "80%",
+                                    "adr": "148",
+                                    "hs_pct": "30%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "keiko",
+                                    "agent": "Astra",
+                                    "rating": "1.09",
+                                    "acs": "198",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "7",
+                                    "kd_diff": "0",
+                                    "kast": "80%",
+                                    "adr": "140",
+                                    "hs_pct": "59%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "nAts",
+                                    "agent": "Cypher",
+                                    "rating": "1.05",
+                                    "acs": "243",
+                                    "kills": "17",
+                                    "deaths": "16",
+                                    "assists": "6",
+                                    "kd_diff": "+1",
+                                    "kast": "80%",
+                                    "adr": "161",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "paTiTek",
+                                    "agent": "Kayo",
+                                    "rating": "0.64",
+                                    "acs": "109",
+                                    "kills": "7",
+                                    "deaths": "15",
+                                    "assists": "10",
+                                    "kd_diff": "-8",
+                                    "kast": "60%",
+                                    "adr": "83",
+                                    "hs_pct": "22%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "kamo",
+                                    "agent": "Jett",
+                                    "rating": "0.53",
+                                    "acs": "160",
+                                    "kills": "11",
+                                    "deaths": "16",
+                                    "assists": "3",
+                                    "kd_diff": "-5",
+                                    "kast": "55%",
+                                    "adr": "93",
+                                    "hs_pct": "37%",
+                                    "fk": "4",
+                                    "fd": "7",
+                                    "fk_diff": "-3"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "kamyk TL",
+                                        "2": "nAts TL",
+                                        "3": "keiko TL",
+                                        "4": "kamo TL",
+                                        "5": "paTiTek TL"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "8 6 +2",
+                                        "2": "5 8 -3",
+                                        "3": "6 3 +3",
+                                        "4": "7 6 +1",
+                                        "5": "11 5 +6"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "6 7 -1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "4 3 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "6 4 +2",
+                                        "2": "8 7 +1",
+                                        "3": "5 3 +2",
+                                        "4": "5 10 -5",
+                                        "5": "4 1 +3"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "6 2 +4",
+                                        "3": "7 8 -1",
+                                        "4": "7 4 +3",
+                                        "5": "8 3 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "5 7 -2",
+                                        "3": "6 6 +0",
+                                        "4": "9 3 +6",
+                                        "5": "4 4 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "9",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "3",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "paTiTek TL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nAts TL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kamyk TL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kamo TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUT",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "13 (11)"
+                            },
+                            {
+                                "0": "TL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "11 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "FracturePICK",
+                        "picked_by": "",
+                        "duration": "42:06",
+                        "score": {
+                            "team1": 13,
+                            "team2": 6
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "3"
+                        },
+                        "score_t": {
+                            "team1": "9",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "qRaxs",
+                                    "agent": "Kayo",
+                                    "rating": "1.27",
+                                    "acs": "267",
+                                    "kills": "18",
+                                    "deaths": "15",
+                                    "assists": "12",
+                                    "kd_diff": "+3",
+                                    "kast": "84%",
+                                    "adr": "175",
+                                    "hs_pct": "21%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "AtaKaptan",
+                                    "agent": "Astra",
+                                    "rating": "1.25",
+                                    "acs": "245",
+                                    "kills": "17",
+                                    "deaths": "13",
+                                    "assists": "9",
+                                    "kd_diff": "+4",
+                                    "kast": "89%",
+                                    "adr": "153",
+                                    "hs_pct": "31%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "yetujey",
+                                    "agent": "Cypher",
+                                    "rating": "1.12",
+                                    "acs": "206",
+                                    "kills": "15",
+                                    "deaths": "12",
+                                    "assists": "8",
+                                    "kd_diff": "+3",
+                                    "kast": "84%",
+                                    "adr": "148",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "xeus",
+                                    "agent": "Raze",
+                                    "rating": "0.93",
+                                    "acs": "231",
+                                    "kills": "16",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "84%",
+                                    "adr": "164",
+                                    "hs_pct": "38%",
+                                    "fk": "5",
+                                    "fd": "3",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "MrFaliN",
+                                    "agent": "Breach",
+                                    "rating": "0.87",
+                                    "acs": "187",
+                                    "kills": "13",
+                                    "deaths": "12",
+                                    "assists": "5",
+                                    "kd_diff": "+1",
+                                    "kast": "68%",
+                                    "adr": "123",
+                                    "hs_pct": "29%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "kamyk",
+                                    "agent": "Sage",
+                                    "rating": "1.28",
+                                    "acs": "294",
+                                    "kills": "20",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "+4",
+                                    "kast": "84%",
+                                    "adr": "192",
+                                    "hs_pct": "22%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "kamo",
+                                    "agent": "Gekko",
+                                    "rating": "1.09",
+                                    "acs": "248",
+                                    "kills": "17",
+                                    "deaths": "17",
+                                    "assists": "5",
+                                    "kd_diff": "0",
+                                    "kast": "79%",
+                                    "adr": "161",
+                                    "hs_pct": "29%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "nAts",
+                                    "agent": "Cypher",
+                                    "rating": "0.99",
+                                    "acs": "208",
+                                    "kills": "14",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "0",
+                                    "kast": "84%",
+                                    "adr": "150",
+                                    "hs_pct": "33%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "paTiTek",
+                                    "agent": "Breach",
+                                    "rating": "0.71",
+                                    "acs": "168",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "10",
+                                    "kd_diff": "-7",
+                                    "kast": "74%",
+                                    "adr": "114",
+                                    "hs_pct": "23%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "keiko",
+                                    "agent": "Brimstone",
+                                    "rating": "0.63",
+                                    "acs": "146",
+                                    "kills": "8",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "-8",
+                                    "kast": "63%",
+                                    "adr": "109",
+                                    "hs_pct": "28%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "kamyk TL",
+                                        "2": "nAts TL",
+                                        "3": "keiko TL",
+                                        "4": "kamo TL",
+                                        "5": "paTiTek TL"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "8 6 +2",
+                                        "2": "5 8 -3",
+                                        "3": "6 3 +3",
+                                        "4": "7 6 +1",
+                                        "5": "11 5 +6"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "6 7 -1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "4 3 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "6 4 +2",
+                                        "2": "8 7 +1",
+                                        "3": "5 3 +2",
+                                        "4": "5 10 -5",
+                                        "5": "4 1 +3"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "6 2 +4",
+                                        "3": "7 8 -1",
+                                        "4": "7 4 +3",
+                                        "5": "8 3 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "5 7 -2",
+                                        "3": "6 6 +0",
+                                        "4": "9 3 +6",
+                                        "5": "4 4 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "9",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "3",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "paTiTek TL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nAts TL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kamyk TL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kamo TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUT",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "13 (11)"
+                            },
+                            {
+                                "0": "TL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "11 (5)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/11/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "T1",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/424006/t1-vs-fut-esports-red-bull-home-ground-5-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/11/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Karmine Corp",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/423975/fut-esports-vs-karmine-corp-red-bull-home-ground-5-r2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/11/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "T1",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 1",
+                        "url": "https://www.vlr.gg/423623/fut-esports-vs-t1-red-bull-home-ground-5-r1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/11/21",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/421599/g2-esports-vs-fut-esports-red-bull-home-ground-5-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/11/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Permitta Unicorns",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/421598/permitta-unicorns-vs-fut-esports-red-bull-home-ground-5-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/01/17",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KOI",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/429379/team-liquid-vs-koi-champions-tour-2025-emea-kickoff-ur1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/12/01",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "GIANTX",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/425017/team-liquid-vs-giantx-monsters-reloaded-2024-main-event-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/07/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/353174/fnatic-vs-team-liquid-champions-tour-2024-emea-stage-2-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/07/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Karmine Corp",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/353169/team-liquid-vs-karmine-corp-champions-tour-2024-emea-stage-2-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "BBL Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/353162/bbl-esports-vs-team-liquid-champions-tour-2024-emea-stage-2-w2"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "kamyk TL",
+                                "2": "nAts TL",
+                                "3": "keiko TL",
+                                "4": "kamo TL",
+                                "5": "paTiTek TL"
+                            }
+                        },
+                        {
+                            "player": "qRaxs FUT",
+                            "kills_vs": {
+                                "1": "8 6 +2",
+                                "2": "5 8 -3",
+                                "3": "6 3 +3",
+                                "4": "7 6 +1",
+                                "5": "11 5 +6"
+                            }
+                        },
+                        {
+                            "player": "yetujey FUT",
+                            "kills_vs": {
+                                "1": "8 7 +1",
+                                "2": "6 7 -1",
+                                "3": "7 3 +4",
+                                "4": "5 5 +0",
+                                "5": "4 3 +1"
+                            }
+                        },
+                        {
+                            "player": "MrFaliN FUT",
+                            "kills_vs": {
+                                "1": "6 4 +2",
+                                "2": "8 7 +1",
+                                "3": "5 3 +2",
+                                "4": "5 10 -5",
+                                "5": "4 1 +3"
+                            }
+                        },
+                        {
+                            "player": "xeus FUT",
+                            "kills_vs": {
+                                "1": "4 11 -7",
+                                "2": "6 2 +4",
+                                "3": "7 8 -1",
+                                "4": "7 4 +3",
+                                "5": "8 3 +5"
+                            }
+                        },
+                        {
+                            "player": "AtaKaptan FUT",
+                            "kills_vs": {
+                                "1": "5 6 -1",
+                                "2": "5 7 -2",
+                                "3": "6 6 +0",
+                                "4": "9 3 +6",
+                                "5": "4 4 +0"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "qRaxs FUT",
+                            "1": "",
+                            "2": "8",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "69",
+                            "12": "0",
+                            "13": "3"
+                        },
+                        {
+                            "player": "AtaKaptan FUT",
+                            "1": "",
+                            "2": "4",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "2",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "MrFaliN FUT",
+                            "1": "",
+                            "2": "3",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "9",
+                            "13": "3"
+                        },
+                        {
+                            "player": "yetujey FUT",
+                            "1": "",
+                            "2": "5",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "3",
+                            "9": "",
+                            "10": "",
+                            "11": "59",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "xeus FUT",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "53",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "paTiTek TL",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "40",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "nAts TL",
+                            "1": "",
+                            "2": "3",
+                            "3": "",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "kamyk TL",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "65",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "keiko TL",
+                            "1": "",
+                            "2": "4",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "kamo TL",
+                            "1": "",
+                            "2": "4",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "51",
+                            "12": "6",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "196079",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "kamyk TL",
+                                        "2": "nAts TL",
+                                        "3": "keiko TL",
+                                        "4": "kamo TL",
+                                        "5": "paTiTek TL"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "8 6 +2",
+                                        "2": "5 8 -3",
+                                        "3": "6 3 +3",
+                                        "4": "7 6 +1",
+                                        "5": "11 5 +6"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "6 7 -1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "4 3 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "6 4 +2",
+                                        "2": "8 7 +1",
+                                        "3": "5 3 +2",
+                                        "4": "5 10 -5",
+                                        "5": "4 1 +3"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "6 2 +4",
+                                        "3": "7 8 -1",
+                                        "4": "7 4 +3",
+                                        "5": "8 3 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "5 7 -2",
+                                        "3": "6 6 +0",
+                                        "4": "9 3 +6",
+                                        "5": "4 4 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "9",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "3",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "paTiTek TL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nAts TL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kamyk TL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kamo TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "196080",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "kamyk TL",
+                                        "2": "nAts TL",
+                                        "3": "keiko TL",
+                                        "4": "kamo TL",
+                                        "5": "paTiTek TL"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "8 6 +2",
+                                        "2": "5 8 -3",
+                                        "3": "6 3 +3",
+                                        "4": "7 6 +1",
+                                        "5": "11 5 +6"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "6 7 -1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "4 3 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "6 4 +2",
+                                        "2": "8 7 +1",
+                                        "3": "5 3 +2",
+                                        "4": "5 10 -5",
+                                        "5": "4 1 +3"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "6 2 +4",
+                                        "3": "7 8 -1",
+                                        "4": "7 4 +3",
+                                        "5": "8 3 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "5 7 -2",
+                                        "3": "6 6 +0",
+                                        "4": "9 3 +6",
+                                        "5": "4 4 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "9",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "3",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "paTiTek TL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nAts TL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kamyk TL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kamo TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "196081",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "kamyk TL",
+                                        "2": "nAts TL",
+                                        "3": "keiko TL",
+                                        "4": "kamo TL",
+                                        "5": "paTiTek TL"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "8 6 +2",
+                                        "2": "5 8 -3",
+                                        "3": "6 3 +3",
+                                        "4": "7 6 +1",
+                                        "5": "11 5 +6"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "6 7 -1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "4 3 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "6 4 +2",
+                                        "2": "8 7 +1",
+                                        "3": "5 3 +2",
+                                        "4": "5 10 -5",
+                                        "5": "4 1 +3"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "6 2 +4",
+                                        "3": "7 8 -1",
+                                        "4": "7 4 +3",
+                                        "5": "8 3 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "5 7 -2",
+                                        "3": "6 6 +0",
+                                        "4": "9 3 +6",
+                                        "5": "4 4 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "9",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "3",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "paTiTek TL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nAts TL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kamyk TL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kamo TL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "FUT",
+                        "1": "1",
+                        "2": "4 (1)",
+                        "3": "0 (0)",
+                        "4": "3 (1)",
+                        "5": "13 (11)"
+                    },
+                    {
+                        "0": "TL",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "5 (1)",
+                        "5": "11 (5)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "196079",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "13 (11)"
+                            },
+                            {
+                                "0": "TL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "11 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "196080",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "13 (11)"
+                            },
+                            {
+                                "0": "TL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "11 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "196081",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "13 (11)"
+                            },
+                            {
+                                "0": "TL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "11 (5)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

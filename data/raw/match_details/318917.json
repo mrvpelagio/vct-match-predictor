@@ -1,0 +1,2321 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "318917",
+                "event": {
+                    "name": "Champions Tour 2024: EMEA Stage 1 Regular Season: Week 1",
+                    "series": "Regular Season: Week 1",
+                    "logo": "https://owcdn.net/img/65ab59620a233.png"
+                },
+                "date": "April 6, 2024 1:00 AM PST Patch 8.05",
+                "map_vetos": "BBL ban Lotus; M8 ban Bind; BBL pick Ascent; M8 pick Sunset; BBL ban Breeze; M8 ban Split; Icebox remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "397",
+                        "name": "BBL Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "12694",
+                        "name": "Gentle Mates",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6670153fa9120.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/yBXGFKLg24Y?list=PLTlFZO3kdyGCRN24RN-shqG__nPjkdast&t=1064"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/M6rUYhfFSLM?list=PLTlFZO3kdyGCRN24RN-shqG__nPjkdast&t=435"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "AscentPICK",
+                        "picked_by": "",
+                        "duration": "55:02",
+                        "score": {
+                            "team1": 7,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "3",
+                            "team2": "8"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "pAura",
+                                    "agent": "Kayo",
+                                    "rating": "1.18",
+                                    "acs": "244",
+                                    "kills": "17",
+                                    "deaths": "14",
+                                    "assists": "13",
+                                    "kd_diff": "+3",
+                                    "kast": "65%",
+                                    "adr": "139",
+                                    "hs_pct": "26%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Elite",
+                                    "agent": "Killjoy",
+                                    "rating": "1.12",
+                                    "acs": "271",
+                                    "kills": "18",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+3",
+                                    "kast": "80%",
+                                    "adr": "171",
+                                    "hs_pct": "38%",
+                                    "fk": "5",
+                                    "fd": "2",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "QutionerX",
+                                    "agent": "Jett",
+                                    "rating": "0.71",
+                                    "acs": "115",
+                                    "kills": "8",
+                                    "deaths": "14",
+                                    "assists": "2",
+                                    "kd_diff": "-6",
+                                    "kast": "70%",
+                                    "adr": "81",
+                                    "hs_pct": "48%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Brave",
+                                    "agent": "Omen",
+                                    "rating": "0.65",
+                                    "acs": "161",
+                                    "kills": "12",
+                                    "deaths": "16",
+                                    "assists": "3",
+                                    "kd_diff": "-4",
+                                    "kast": "60%",
+                                    "adr": "100",
+                                    "hs_pct": "19%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "reazy",
+                                    "agent": "Sova",
+                                    "rating": "0.58",
+                                    "acs": "133",
+                                    "kills": "7",
+                                    "deaths": "16",
+                                    "assists": "6",
+                                    "kd_diff": "-9",
+                                    "kast": "40%",
+                                    "adr": "100",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "nataNk",
+                                    "agent": "Phoenix",
+                                    "rating": "1.83",
+                                    "acs": "347",
+                                    "kills": "25",
+                                    "deaths": "12",
+                                    "assists": "6",
+                                    "kd_diff": "+13",
+                                    "kast": "80%",
+                                    "adr": "209",
+                                    "hs_pct": "43%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Wailers",
+                                    "agent": "Omen",
+                                    "rating": "1.24",
+                                    "acs": "155",
+                                    "kills": "13",
+                                    "deaths": "10",
+                                    "assists": "9",
+                                    "kd_diff": "+3",
+                                    "kast": "85%",
+                                    "adr": "104",
+                                    "hs_pct": "36%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "beyAz",
+                                    "agent": "Sova",
+                                    "rating": "1.12",
+                                    "acs": "205",
+                                    "kills": "13",
+                                    "deaths": "13",
+                                    "assists": "8",
+                                    "kd_diff": "0",
+                                    "kast": "85%",
+                                    "adr": "136",
+                                    "hs_pct": "17%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "logaN",
+                                    "agent": "Cypher",
+                                    "rating": "0.86",
+                                    "acs": "136",
+                                    "kills": "11",
+                                    "deaths": "11",
+                                    "assists": "3",
+                                    "kd_diff": "0",
+                                    "kast": "80%",
+                                    "adr": "92",
+                                    "hs_pct": "35%",
+                                    "fk": "1",
+                                    "fd": "4",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "TakaS",
+                                    "agent": "Yoru",
+                                    "rating": "0.74",
+                                    "acs": "206",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "8",
+                                    "kd_diff": "-3",
+                                    "kast": "65%",
+                                    "adr": "132",
+                                    "hs_pct": "19%",
+                                    "fk": "3",
+                                    "fd": "5",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nataNk M8",
+                                        "2": "TakaS M8",
+                                        "3": "logaN M8",
+                                        "4": "beyAz M8",
+                                        "5": "Wailers M8"
+                                    }
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "2 8 -6",
+                                        "3": "2 4 -2",
+                                        "4": "5 10 -5",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "pAura BBL",
+                                    "kills_vs": {
+                                        "1": "1 10 -9",
+                                        "2": "11 6 +5",
+                                        "3": "8 1 +7",
+                                        "4": "7 9 -2",
+                                        "5": "8 6 +2"
+                                    }
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "kills_vs": {
+                                        "1": "10 9 +1",
+                                        "2": "10 5 +5",
+                                        "3": "3 3 +0",
+                                        "4": "12 7 +5",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "kills_vs": {
+                                        "1": "6 11 -5",
+                                        "2": "5 10 -5",
+                                        "3": "6 4 +2",
+                                        "4": "1 6 -5",
+                                        "5": "4 5 -1"
+                                    }
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "kills_vs": {
+                                        "1": "7 8 -1",
+                                        "2": "6 8 -2",
+                                        "3": "6 8 -2",
+                                        "4": "3 6 -3",
+                                        "5": "5 2 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "pAura BBL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "66",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "beyAz M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "TakaS M8",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "logaN M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nataNk M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Wailers M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "4 (1)",
+                                "5": "12 (5)"
+                            },
+                            {
+                                "0": "M8",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (3)",
+                                "5": "13 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SunsetPICK",
+                        "picked_by": "",
+                        "duration": "53:00",
+                        "score": {
+                            "team1": 11,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "7"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Elite",
+                                    "agent": "Cypher",
+                                    "rating": "1.39",
+                                    "acs": "258",
+                                    "kills": "23",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "+8",
+                                    "kast": "71%",
+                                    "adr": "177",
+                                    "hs_pct": "41%",
+                                    "fk": "4",
+                                    "fd": "0",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "QutionerX",
+                                    "agent": "Neon",
+                                    "rating": "1.08",
+                                    "acs": "226",
+                                    "kills": "19",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "+1",
+                                    "kast": "88%",
+                                    "adr": "165",
+                                    "hs_pct": "26%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "pAura",
+                                    "agent": "Kayo",
+                                    "rating": "0.97",
+                                    "acs": "216",
+                                    "kills": "18",
+                                    "deaths": "18",
+                                    "assists": "6",
+                                    "kd_diff": "0",
+                                    "kast": "58%",
+                                    "adr": "132",
+                                    "hs_pct": "30%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "reazy",
+                                    "agent": "Sova",
+                                    "rating": "0.75",
+                                    "acs": "137",
+                                    "kills": "12",
+                                    "deaths": "17",
+                                    "assists": "4",
+                                    "kd_diff": "-5",
+                                    "kast": "58%",
+                                    "adr": "112",
+                                    "hs_pct": "34%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Brave",
+                                    "agent": "Omen",
+                                    "rating": "0.49",
+                                    "acs": "115",
+                                    "kills": "10",
+                                    "deaths": "20",
+                                    "assists": "6",
+                                    "kd_diff": "-10",
+                                    "kast": "71%",
+                                    "adr": "78",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "beyAz",
+                                    "agent": "Kayo",
+                                    "rating": "1.59",
+                                    "acs": "278",
+                                    "kills": "25",
+                                    "deaths": "15",
+                                    "assists": "17",
+                                    "kd_diff": "+10",
+                                    "kast": "92%",
+                                    "adr": "169",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "TakaS",
+                                    "agent": "Neon",
+                                    "rating": "1.34",
+                                    "acs": "301",
+                                    "kills": "24",
+                                    "deaths": "18",
+                                    "assists": "11",
+                                    "kd_diff": "+6",
+                                    "kast": "79%",
+                                    "adr": "195",
+                                    "hs_pct": "19%",
+                                    "fk": "7",
+                                    "fd": "2",
+                                    "fk_diff": "+5"
+                                },
+                                {
+                                    "name": "nataNk",
+                                    "agent": "Raze",
+                                    "rating": "0.98",
+                                    "acs": "236",
+                                    "kills": "20",
+                                    "deaths": "20",
+                                    "assists": "6",
+                                    "kd_diff": "0",
+                                    "kast": "75%",
+                                    "adr": "159",
+                                    "hs_pct": "16%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "logaN",
+                                    "agent": "Omen",
+                                    "rating": "0.82",
+                                    "acs": "105",
+                                    "kills": "9",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "-5",
+                                    "kast": "79%",
+                                    "adr": "76",
+                                    "hs_pct": "28%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Wailers",
+                                    "agent": "Cypher",
+                                    "rating": "0.69",
+                                    "acs": "132",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "-5",
+                                    "kast": "63%",
+                                    "adr": "90",
+                                    "hs_pct": "22%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team2",
+                                "side": "ct"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nataNk M8",
+                                        "2": "TakaS M8",
+                                        "3": "logaN M8",
+                                        "4": "beyAz M8",
+                                        "5": "Wailers M8"
+                                    }
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "2 8 -6",
+                                        "3": "2 4 -2",
+                                        "4": "5 10 -5",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "pAura BBL",
+                                    "kills_vs": {
+                                        "1": "1 10 -9",
+                                        "2": "11 6 +5",
+                                        "3": "8 1 +7",
+                                        "4": "7 9 -2",
+                                        "5": "8 6 +2"
+                                    }
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "kills_vs": {
+                                        "1": "10 9 +1",
+                                        "2": "10 5 +5",
+                                        "3": "3 3 +0",
+                                        "4": "12 7 +5",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "kills_vs": {
+                                        "1": "6 11 -5",
+                                        "2": "5 10 -5",
+                                        "3": "6 4 +2",
+                                        "4": "1 6 -5",
+                                        "5": "4 5 -1"
+                                    }
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "kills_vs": {
+                                        "1": "7 8 -1",
+                                        "2": "6 8 -2",
+                                        "3": "6 8 -2",
+                                        "4": "3 6 -3",
+                                        "5": "5 2 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "pAura BBL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "66",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "beyAz M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "TakaS M8",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "logaN M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nataNk M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Wailers M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "4 (1)",
+                                "5": "12 (5)"
+                            },
+                            {
+                                "0": "M8",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (3)",
+                                "5": "13 (9)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/02/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KOI",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/297409/bbl-esports-vs-koi-champions-tour-2024-emea-kickoff-elim-b"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/21",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Natus Vincere",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/297406/natus-vincere-vs-bbl-esports-champions-tour-2024-emea-kickoff-opening-b"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/01/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Falcons",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/294165/team-falcons-vs-bbl-esports-superdome-2023-egypt-main-event-gf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/01/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Apeks",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 1",
+                        "url": "https://www.vlr.gg/294164/bbl-esports-vs-apeks-superdome-2023-egypt-main-event-round-robin"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/01/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "NASR Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/294163/bbl-esports-vs-nasr-esports-superdome-2023-egypt-main-event-round-robin"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Vitality",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/297416/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-decider-c"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Vitality",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/297412/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-opening-c"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/07/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Apeks",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/237652/apeks-vs-gentle-mates-champions-tour-2023-emea-ascension-gf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/07/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Acend",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/237655/acend-vs-gentle-mates-champions-tour-2023-emea-ascension-lbf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/07/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "SAW",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/237654/gentle-mates-vs-saw-champions-tour-2023-emea-ascension-lr1"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "nataNk M8",
+                                "2": "TakaS M8",
+                                "3": "logaN M8",
+                                "4": "beyAz M8",
+                                "5": "Wailers M8"
+                            }
+                        },
+                        {
+                            "player": "reazy BBL",
+                            "kills_vs": {
+                                "1": "8 7 +1",
+                                "2": "2 8 -6",
+                                "3": "2 4 -2",
+                                "4": "5 10 -5",
+                                "5": "2 4 -2"
+                            }
+                        },
+                        {
+                            "player": "pAura BBL",
+                            "kills_vs": {
+                                "1": "1 10 -9",
+                                "2": "11 6 +5",
+                                "3": "8 1 +7",
+                                "4": "7 9 -2",
+                                "5": "8 6 +2"
+                            }
+                        },
+                        {
+                            "player": "Elite BBL",
+                            "kills_vs": {
+                                "1": "10 9 +1",
+                                "2": "10 5 +5",
+                                "3": "3 3 +0",
+                                "4": "12 7 +5",
+                                "5": "6 6 +0"
+                            }
+                        },
+                        {
+                            "player": "Brave BBL",
+                            "kills_vs": {
+                                "1": "6 11 -5",
+                                "2": "5 10 -5",
+                                "3": "6 4 +2",
+                                "4": "1 6 -5",
+                                "5": "4 5 -1"
+                            }
+                        },
+                        {
+                            "player": "QutionerX BBL",
+                            "kills_vs": {
+                                "1": "7 8 -1",
+                                "2": "6 8 -2",
+                                "3": "6 8 -2",
+                                "4": "3 6 -3",
+                                "5": "5 2 +3"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "pAura BBL",
+                            "1": "",
+                            "2": "3",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "4",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Brave BBL",
+                            "1": "",
+                            "2": "4",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "33",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "reazy BBL",
+                            "1": "",
+                            "2": "4",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "42",
+                            "12": "4",
+                            "13": "1"
+                        },
+                        {
+                            "player": "QutionerX BBL",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "48",
+                            "12": "2",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Elite BBL",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "66",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "beyAz M8",
+                            "1": "",
+                            "2": "8",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "4",
+                            "13": "1"
+                        },
+                        {
+                            "player": "TakaS M8",
+                            "1": "",
+                            "2": "4",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "logaN M8",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "34",
+                            "12": "6",
+                            "13": "1"
+                        },
+                        {
+                            "player": "nataNk M8",
+                            "1": "",
+                            "2": "8",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "72",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Wailers M8",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "39",
+                            "12": "6",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "164106",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nataNk M8",
+                                        "2": "TakaS M8",
+                                        "3": "logaN M8",
+                                        "4": "beyAz M8",
+                                        "5": "Wailers M8"
+                                    }
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "2 8 -6",
+                                        "3": "2 4 -2",
+                                        "4": "5 10 -5",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "pAura BBL",
+                                    "kills_vs": {
+                                        "1": "1 10 -9",
+                                        "2": "11 6 +5",
+                                        "3": "8 1 +7",
+                                        "4": "7 9 -2",
+                                        "5": "8 6 +2"
+                                    }
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "kills_vs": {
+                                        "1": "10 9 +1",
+                                        "2": "10 5 +5",
+                                        "3": "3 3 +0",
+                                        "4": "12 7 +5",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "kills_vs": {
+                                        "1": "6 11 -5",
+                                        "2": "5 10 -5",
+                                        "3": "6 4 +2",
+                                        "4": "1 6 -5",
+                                        "5": "4 5 -1"
+                                    }
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "kills_vs": {
+                                        "1": "7 8 -1",
+                                        "2": "6 8 -2",
+                                        "3": "6 8 -2",
+                                        "4": "3 6 -3",
+                                        "5": "5 2 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "pAura BBL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "66",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "beyAz M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "TakaS M8",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "logaN M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nataNk M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Wailers M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "164107",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nataNk M8",
+                                        "2": "TakaS M8",
+                                        "3": "logaN M8",
+                                        "4": "beyAz M8",
+                                        "5": "Wailers M8"
+                                    }
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "2 8 -6",
+                                        "3": "2 4 -2",
+                                        "4": "5 10 -5",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "pAura BBL",
+                                    "kills_vs": {
+                                        "1": "1 10 -9",
+                                        "2": "11 6 +5",
+                                        "3": "8 1 +7",
+                                        "4": "7 9 -2",
+                                        "5": "8 6 +2"
+                                    }
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "kills_vs": {
+                                        "1": "10 9 +1",
+                                        "2": "10 5 +5",
+                                        "3": "3 3 +0",
+                                        "4": "12 7 +5",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "kills_vs": {
+                                        "1": "6 11 -5",
+                                        "2": "5 10 -5",
+                                        "3": "6 4 +2",
+                                        "4": "1 6 -5",
+                                        "5": "4 5 -1"
+                                    }
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "kills_vs": {
+                                        "1": "7 8 -1",
+                                        "2": "6 8 -2",
+                                        "3": "6 8 -2",
+                                        "4": "3 6 -3",
+                                        "5": "5 2 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "pAura BBL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "66",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "beyAz M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "TakaS M8",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "logaN M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nataNk M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Wailers M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "164108",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nataNk M8",
+                                        "2": "TakaS M8",
+                                        "3": "logaN M8",
+                                        "4": "beyAz M8",
+                                        "5": "Wailers M8"
+                                    }
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "2 8 -6",
+                                        "3": "2 4 -2",
+                                        "4": "5 10 -5",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "pAura BBL",
+                                    "kills_vs": {
+                                        "1": "1 10 -9",
+                                        "2": "11 6 +5",
+                                        "3": "8 1 +7",
+                                        "4": "7 9 -2",
+                                        "5": "8 6 +2"
+                                    }
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "kills_vs": {
+                                        "1": "10 9 +1",
+                                        "2": "10 5 +5",
+                                        "3": "3 3 +0",
+                                        "4": "12 7 +5",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "kills_vs": {
+                                        "1": "6 11 -5",
+                                        "2": "5 10 -5",
+                                        "3": "6 4 +2",
+                                        "4": "1 6 -5",
+                                        "5": "4 5 -1"
+                                    }
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "kills_vs": {
+                                        "1": "7 8 -1",
+                                        "2": "6 8 -2",
+                                        "3": "6 8 -2",
+                                        "4": "3 6 -3",
+                                        "5": "5 2 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "pAura BBL",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Brave BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "reazy BBL",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "QutionerX BBL",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Elite BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "66",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "beyAz M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "TakaS M8",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "logaN M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "nataNk M8",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Wailers M8",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "6",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "BBL",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "4 (1)",
+                        "5": "12 (5)"
+                    },
+                    {
+                        "0": "M8",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "0 (0)",
+                        "4": "4 (3)",
+                        "5": "13 (9)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "164106",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "4 (1)",
+                                "5": "12 (5)"
+                            },
+                            {
+                                "0": "M8",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (3)",
+                                "5": "13 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "164107",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "4 (1)",
+                                "5": "12 (5)"
+                            },
+                            {
+                                "0": "M8",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (3)",
+                                "5": "13 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "164108",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "4 (1)",
+                                "5": "12 (5)"
+                            },
+                            {
+                                "0": "M8",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (3)",
+                                "5": "13 (9)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

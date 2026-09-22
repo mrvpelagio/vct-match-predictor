@@ -1,0 +1,2337 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "353186",
+                "event": {
+                    "name": "Champions Tour 2024: Americas Stage 2 Regular Season: Week 2",
+                    "series": "Regular Season: Week 2",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "July 2, 2024 5:00 AM PST Patch 9.0",
+                "map_vetos": "NRG ban Lotus; G2 ban Sunset; NRG pick Haven; G2 pick Bind; NRG ban Split; G2 ban Icebox; Ascent remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "1034",
+                        "name": "NRG",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "11058",
+                        "name": "G2 Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/633822848a741.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/wO90BeuNUT0?t=2289"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/9MKDAfiXI3Q?t=519"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "HavenPICK",
+                        "picked_by": "",
+                        "duration": "1:02:34",
+                        "score": {
+                            "team1": 7,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "3",
+                            "team2": "8"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Yoru",
+                                    "rating": "1.00",
+                                    "acs": "297",
+                                    "kills": "18",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "65%",
+                                    "adr": "182",
+                                    "hs_pct": "26%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "s0m",
+                                    "agent": "Omen",
+                                    "rating": "0.94",
+                                    "acs": "223",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "10",
+                                    "kd_diff": "-3",
+                                    "kast": "80%",
+                                    "adr": "149",
+                                    "hs_pct": "30%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Victor",
+                                    "agent": "Clove",
+                                    "rating": "0.81",
+                                    "acs": "174",
+                                    "kills": "13",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "65%",
+                                    "adr": "119",
+                                    "hs_pct": "39%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "crashies",
+                                    "agent": "Fade",
+                                    "rating": "0.73",
+                                    "acs": "133",
+                                    "kills": "9",
+                                    "deaths": "12",
+                                    "assists": "6",
+                                    "kd_diff": "-3",
+                                    "kast": "75%",
+                                    "adr": "79",
+                                    "hs_pct": "17%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "FiNESSE",
+                                    "agent": "Deadlock",
+                                    "rating": "0.29",
+                                    "acs": "69",
+                                    "kills": "4",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "-14",
+                                    "kast": "50%",
+                                    "adr": "44",
+                                    "hs_pct": "17%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "leaf",
+                                    "agent": "Killjoy",
+                                    "rating": "1.87",
+                                    "acs": "334",
+                                    "kills": "25",
+                                    "deaths": "9",
+                                    "assists": "6",
+                                    "kd_diff": "+16",
+                                    "kast": "80%",
+                                    "adr": "205",
+                                    "hs_pct": "19%",
+                                    "fk": "5",
+                                    "fd": "1",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "trent",
+                                    "agent": "Sova",
+                                    "rating": "1.38",
+                                    "acs": "301",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "9",
+                                    "kd_diff": "+7",
+                                    "kast": "90%",
+                                    "adr": "196",
+                                    "hs_pct": "38%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "valyn",
+                                    "agent": "Omen",
+                                    "rating": "1.04",
+                                    "acs": "169",
+                                    "kills": "12",
+                                    "deaths": "10",
+                                    "assists": "9",
+                                    "kd_diff": "+2",
+                                    "kast": "85%",
+                                    "adr": "96",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "icy",
+                                    "agent": "Jett",
+                                    "rating": "1.00",
+                                    "acs": "187",
+                                    "kills": "14",
+                                    "deaths": "10",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "95%",
+                                    "adr": "142",
+                                    "hs_pct": "32%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "JonahP",
+                                    "agent": "Breach",
+                                    "rating": "0.57",
+                                    "acs": "123",
+                                    "kills": "9",
+                                    "deaths": "14",
+                                    "assists": "8",
+                                    "kd_diff": "-5",
+                                    "kast": "60%",
+                                    "adr": "92",
+                                    "hs_pct": "22%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "icy G2",
+                                        "2": "leaf G2",
+                                        "3": "valyn G2",
+                                        "4": "JonahP G2",
+                                        "5": "trent G2"
+                                    }
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "7 14 -7",
+                                        "3": "4 4 +0",
+                                        "4": "4 4 +0",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "kills_vs": {
+                                        "1": "4 7 -3",
+                                        "2": "2 7 -5",
+                                        "3": "4 4 +0",
+                                        "4": "1 9 -8",
+                                        "5": "2 11 -9"
+                                    }
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "kills_vs": {
+                                        "1": "6 7 -1",
+                                        "2": "3 11 -8",
+                                        "3": "4 3 +1",
+                                        "4": "8 4 +4",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 5 +1",
+                                        "3": "10 10 +0",
+                                        "4": "8 2 +6",
+                                        "5": "8 9 -1"
+                                    }
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "kills_vs": {
+                                        "1": "2 4 -2",
+                                        "2": "5 3 +2",
+                                        "3": "1 4 -3",
+                                        "4": "4 6 -2",
+                                        "5": "9 6 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "25",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "4",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "79",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "6 (1)",
+                                "5": "9 (5)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (1)",
+                                "4": "2 (2)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "BindPICK",
+                        "picked_by": "",
+                        "duration": "50:39",
+                        "score": {
+                            "team1": 8,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "9"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Sage",
+                                    "rating": "1.25",
+                                    "acs": "244",
+                                    "kills": "19",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "+5",
+                                    "kast": "90%",
+                                    "adr": "143",
+                                    "hs_pct": "17%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "crashies",
+                                    "agent": "Skye",
+                                    "rating": "1.08",
+                                    "acs": "168",
+                                    "kills": "12",
+                                    "deaths": "11",
+                                    "assists": "8",
+                                    "kd_diff": "+1",
+                                    "kast": "86%",
+                                    "adr": "127",
+                                    "hs_pct": "24%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "s0m",
+                                    "agent": "Brimstone",
+                                    "rating": "0.94",
+                                    "acs": "177",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "10",
+                                    "kd_diff": "-3",
+                                    "kast": "71%",
+                                    "adr": "115",
+                                    "hs_pct": "33%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Victor",
+                                    "agent": "Raze",
+                                    "rating": "0.76",
+                                    "acs": "197",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "-1",
+                                    "kast": "62%",
+                                    "adr": "142",
+                                    "hs_pct": "29%",
+                                    "fk": "1",
+                                    "fd": "7",
+                                    "fk_diff": "-6"
+                                },
+                                {
+                                    "name": "FiNESSE",
+                                    "agent": "Viper",
+                                    "rating": "0.47",
+                                    "acs": "150",
+                                    "kills": "9",
+                                    "deaths": "20",
+                                    "assists": "6",
+                                    "kd_diff": "-11",
+                                    "kast": "43%",
+                                    "adr": "96",
+                                    "hs_pct": "25%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "JonahP",
+                                    "agent": "Skye",
+                                    "rating": "1.39",
+                                    "acs": "215",
+                                    "kills": "16",
+                                    "deaths": "11",
+                                    "assists": "13",
+                                    "kd_diff": "+5",
+                                    "kast": "90%",
+                                    "adr": "134",
+                                    "hs_pct": "30%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "trent",
+                                    "agent": "Gekko",
+                                    "rating": "1.13",
+                                    "acs": "239",
+                                    "kills": "17",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "+1",
+                                    "kast": "71%",
+                                    "adr": "160",
+                                    "hs_pct": "38%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "valyn",
+                                    "agent": "Brimstone",
+                                    "rating": "1.08",
+                                    "acs": "191",
+                                    "kills": "13",
+                                    "deaths": "13",
+                                    "assists": "9",
+                                    "kd_diff": "0",
+                                    "kast": "86%",
+                                    "adr": "135",
+                                    "hs_pct": "16%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "leaf",
+                                    "agent": "Viper",
+                                    "rating": "1.02",
+                                    "acs": "210",
+                                    "kills": "15",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "+1",
+                                    "kast": "62%",
+                                    "adr": "141",
+                                    "hs_pct": "21%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "icy",
+                                    "agent": "Raze",
+                                    "rating": "0.97",
+                                    "acs": "201",
+                                    "kills": "15",
+                                    "deaths": "13",
+                                    "assists": "1",
+                                    "kd_diff": "+2",
+                                    "kast": "81%",
+                                    "adr": "126",
+                                    "hs_pct": "24%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "icy G2",
+                                        "2": "leaf G2",
+                                        "3": "valyn G2",
+                                        "4": "JonahP G2",
+                                        "5": "trent G2"
+                                    }
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "7 14 -7",
+                                        "3": "4 4 +0",
+                                        "4": "4 4 +0",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "kills_vs": {
+                                        "1": "4 7 -3",
+                                        "2": "2 7 -5",
+                                        "3": "4 4 +0",
+                                        "4": "1 9 -8",
+                                        "5": "2 11 -9"
+                                    }
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "kills_vs": {
+                                        "1": "6 7 -1",
+                                        "2": "3 11 -8",
+                                        "3": "4 3 +1",
+                                        "4": "8 4 +4",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 5 +1",
+                                        "3": "10 10 +0",
+                                        "4": "8 2 +6",
+                                        "5": "8 9 -1"
+                                    }
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "kills_vs": {
+                                        "1": "2 4 -2",
+                                        "2": "5 3 +2",
+                                        "3": "1 4 -3",
+                                        "4": "4 6 -2",
+                                        "5": "9 6 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "25",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "4",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "79",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "6 (1)",
+                                "5": "9 (5)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (1)",
+                                "4": "2 (2)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/06/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/353178/sentinels-vs-nrg-esports-champions-tour-2024-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314651/nrg-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/29",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/314647/nrg-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/314641/nrg-esports-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314637/nrg-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/353181/g2-esports-vs-cloud9-champions-tour-2024-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Heretics",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 3",
+                        "url": "https://www.vlr.gg/348475/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-lf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/07",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Gen.G",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/348473/g2-esports-vs-gen-g-champions-tour-2024-masters-shanghai-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/02",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Heretics",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/348469/g2-esports-vs-team-heretics-champions-tour-2024-masters-shanghai-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/31",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/348463/paper-rex-vs-g2-esports-champions-tour-2024-masters-shanghai-ubqf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "icy G2",
+                                "2": "leaf G2",
+                                "3": "valyn G2",
+                                "4": "JonahP G2",
+                                "5": "trent G2"
+                            }
+                        },
+                        {
+                            "player": "s0m NRG",
+                            "kills_vs": {
+                                "1": "6 5 +1",
+                                "2": "7 14 -7",
+                                "3": "4 4 +0",
+                                "4": "4 4 +0",
+                                "5": "5 5 +0"
+                            }
+                        },
+                        {
+                            "player": "FiNESSE NRG",
+                            "kills_vs": {
+                                "1": "4 7 -3",
+                                "2": "2 7 -5",
+                                "3": "4 4 +0",
+                                "4": "1 9 -8",
+                                "5": "2 11 -9"
+                            }
+                        },
+                        {
+                            "player": "Victor NRG",
+                            "kills_vs": {
+                                "1": "6 7 -1",
+                                "2": "3 11 -8",
+                                "3": "4 3 +1",
+                                "4": "8 4 +4",
+                                "5": "6 7 -1"
+                            }
+                        },
+                        {
+                            "player": "Ethan NRG",
+                            "kills_vs": {
+                                "1": "5 6 -1",
+                                "2": "6 5 +1",
+                                "3": "10 10 +0",
+                                "4": "8 2 +6",
+                                "5": "8 9 -1"
+                            }
+                        },
+                        {
+                            "player": "crashies NRG",
+                            "kills_vs": {
+                                "1": "2 4 -2",
+                                "2": "5 3 +2",
+                                "3": "1 4 -3",
+                                "4": "4 6 -2",
+                                "5": "9 6 +3"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "crashies NRG",
+                            "1": "",
+                            "2": "3",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "46",
+                            "12": "1",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Victor NRG",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "2",
+                            "13": "2"
+                        },
+                        {
+                            "player": "FiNESSE NRG",
+                            "1": "",
+                            "2": "3",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "25",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "s0m NRG",
+                            "1": "",
+                            "2": "7",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "51",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Ethan NRG",
+                            "1": "",
+                            "2": "4",
+                            "3": "4",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "61",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "valyn G2",
+                            "1": "",
+                            "2": "3",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "3",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "7",
+                            "13": "1"
+                        },
+                        {
+                            "player": "JonahP G2",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "46",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "leaf G2",
+                            "1": "",
+                            "2": "6",
+                            "3": "5",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "79",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "icy G2",
+                            "1": "",
+                            "2": "2",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "trent G2",
+                            "1": "",
+                            "2": "9",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "68",
+                            "12": "10",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "173442",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "icy G2",
+                                        "2": "leaf G2",
+                                        "3": "valyn G2",
+                                        "4": "JonahP G2",
+                                        "5": "trent G2"
+                                    }
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "7 14 -7",
+                                        "3": "4 4 +0",
+                                        "4": "4 4 +0",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "kills_vs": {
+                                        "1": "4 7 -3",
+                                        "2": "2 7 -5",
+                                        "3": "4 4 +0",
+                                        "4": "1 9 -8",
+                                        "5": "2 11 -9"
+                                    }
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "kills_vs": {
+                                        "1": "6 7 -1",
+                                        "2": "3 11 -8",
+                                        "3": "4 3 +1",
+                                        "4": "8 4 +4",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 5 +1",
+                                        "3": "10 10 +0",
+                                        "4": "8 2 +6",
+                                        "5": "8 9 -1"
+                                    }
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "kills_vs": {
+                                        "1": "2 4 -2",
+                                        "2": "5 3 +2",
+                                        "3": "1 4 -3",
+                                        "4": "4 6 -2",
+                                        "5": "9 6 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "25",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "4",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "79",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "173443",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "icy G2",
+                                        "2": "leaf G2",
+                                        "3": "valyn G2",
+                                        "4": "JonahP G2",
+                                        "5": "trent G2"
+                                    }
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "7 14 -7",
+                                        "3": "4 4 +0",
+                                        "4": "4 4 +0",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "kills_vs": {
+                                        "1": "4 7 -3",
+                                        "2": "2 7 -5",
+                                        "3": "4 4 +0",
+                                        "4": "1 9 -8",
+                                        "5": "2 11 -9"
+                                    }
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "kills_vs": {
+                                        "1": "6 7 -1",
+                                        "2": "3 11 -8",
+                                        "3": "4 3 +1",
+                                        "4": "8 4 +4",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 5 +1",
+                                        "3": "10 10 +0",
+                                        "4": "8 2 +6",
+                                        "5": "8 9 -1"
+                                    }
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "kills_vs": {
+                                        "1": "2 4 -2",
+                                        "2": "5 3 +2",
+                                        "3": "1 4 -3",
+                                        "4": "4 6 -2",
+                                        "5": "9 6 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "25",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "4",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "79",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "173444",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "icy G2",
+                                        "2": "leaf G2",
+                                        "3": "valyn G2",
+                                        "4": "JonahP G2",
+                                        "5": "trent G2"
+                                    }
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "7 14 -7",
+                                        "3": "4 4 +0",
+                                        "4": "4 4 +0",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "kills_vs": {
+                                        "1": "4 7 -3",
+                                        "2": "2 7 -5",
+                                        "3": "4 4 +0",
+                                        "4": "1 9 -8",
+                                        "5": "2 11 -9"
+                                    }
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "kills_vs": {
+                                        "1": "6 7 -1",
+                                        "2": "3 11 -8",
+                                        "3": "4 3 +1",
+                                        "4": "8 4 +4",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 5 +1",
+                                        "3": "10 10 +0",
+                                        "4": "8 2 +6",
+                                        "5": "8 9 -1"
+                                    }
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "kills_vs": {
+                                        "1": "2 4 -2",
+                                        "2": "5 3 +2",
+                                        "3": "1 4 -3",
+                                        "4": "4 6 -2",
+                                        "5": "9 6 +3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "25",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "4",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "79",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "NRG",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (0)",
+                        "4": "6 (1)",
+                        "5": "9 (5)"
+                    },
+                    {
+                        "0": "G2",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (1)",
+                        "4": "2 (2)",
+                        "5": "14 (9)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "173442",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "6 (1)",
+                                "5": "9 (5)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (1)",
+                                "4": "2 (2)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "173443",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "6 (1)",
+                                "5": "9 (5)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (1)",
+                                "4": "2 (2)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "173444",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "6 (1)",
+                                "5": "9 (5)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (1)",
+                                "4": "2 (2)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

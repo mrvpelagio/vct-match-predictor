@@ -1,0 +1,2994 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "173218",
+                "event": {
+                    "name": "Champions Tour 2023: EMEA League Regular Season: Week 1",
+                    "series": "Regular Season: Week 1",
+                    "logo": "https://owcdn.net/img/640f5accac10a.png"
+                },
+                "date": "March 30, 2023 12:00 AM PST Patch 6.05",
+                "map_vetos": "NAVI ban Haven; GIA ban Fracture; NAVI pick Icebox; GIA pick Split; NAVI ban Lotus; GIA ban Ascent; Pearl remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "4915",
+                        "name": "Natus Vincere",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "2304",
+                        "name": "Giants Gaming",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/61dfcae52b0d8.png",
+                        "score": "1",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant League DACH",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant League East",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant League FR",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant League IT",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant League PT",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant TR",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Spain",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    },
+                    {
+                        "name": "Balkan League (YT)",
+                        "url": "https://www.youtube.com/ValorantBalkanLeague/live"
+                    },
+                    {
+                        "name": "VCL FR (YT)",
+                        "url": "https://www.youtube.com/@valorantchallengersfr/live"
+                    },
+                    {
+                        "name": "... More Streams (4)",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCL TR (YT)",
+                        "url": "https://www.youtube.com/@VALORANTChallengersTR/live"
+                    },
+                    {
+                        "name": "Leet Esport",
+                        "url": ""
+                    },
+                    {
+                        "name": "Esports Finland",
+                        "url": ""
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/FWuD19HCkpI?t=2215"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/qx3P4JYUZTw?t=843"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/Yy3FB8zmw44?t=665"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "IceboxPICK",
+                        "picked_by": "",
+                        "duration": "1:35:35",
+                        "score": {
+                            "team1": 15,
+                            "team2": 17
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "6"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "3",
+                            "team2": "5"
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "cNed",
+                                    "agent": "Jett",
+                                    "rating": "1.11",
+                                    "acs": "257",
+                                    "kills": "28",
+                                    "deaths": "24",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "78%",
+                                    "adr": "157",
+                                    "hs_pct": "35%",
+                                    "fk": "6",
+                                    "fd": "3",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "SUYGETSU",
+                                    "agent": "Viper",
+                                    "rating": "1.08",
+                                    "acs": "248",
+                                    "kills": "27",
+                                    "deaths": "24",
+                                    "assists": "7",
+                                    "kd_diff": "+3",
+                                    "kast": "78%",
+                                    "adr": "167",
+                                    "hs_pct": "35%",
+                                    "fk": "5",
+                                    "fd": "2",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Zyppan",
+                                    "agent": "Kayo",
+                                    "rating": "0.92",
+                                    "acs": "183",
+                                    "kills": "22",
+                                    "deaths": "24",
+                                    "assists": "15",
+                                    "kd_diff": "-2",
+                                    "kast": "78%",
+                                    "adr": "118",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Shao",
+                                    "agent": "Sage",
+                                    "rating": "0.89",
+                                    "acs": "182",
+                                    "kills": "21",
+                                    "deaths": "23",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "59%",
+                                    "adr": "117",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "ANGE1",
+                                    "agent": "Cypher",
+                                    "rating": "0.42",
+                                    "acs": "130",
+                                    "kills": "13",
+                                    "deaths": "27",
+                                    "assists": "10",
+                                    "kd_diff": "-14",
+                                    "kast": "63%",
+                                    "adr": "94",
+                                    "hs_pct": "25%",
+                                    "fk": "2",
+                                    "fd": "6",
+                                    "fk_diff": "-4"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "nukkye",
+                                    "agent": "Killjoy",
+                                    "rating": "1.57",
+                                    "acs": "257",
+                                    "kills": "30",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "+13",
+                                    "kast": "81%",
+                                    "adr": "177",
+                                    "hs_pct": "20%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Cloud",
+                                    "agent": "Sova",
+                                    "rating": "1.25",
+                                    "acs": "274",
+                                    "kills": "30",
+                                    "deaths": "21",
+                                    "assists": "13",
+                                    "kd_diff": "+9",
+                                    "kast": "94%",
+                                    "adr": "166",
+                                    "hs_pct": "24%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Fit1nho",
+                                    "agent": "Jett",
+                                    "rating": "1.19",
+                                    "acs": "244",
+                                    "kills": "29",
+                                    "deaths": "22",
+                                    "assists": "4",
+                                    "kd_diff": "+7",
+                                    "kast": "75%",
+                                    "adr": "162",
+                                    "hs_pct": "27%",
+                                    "fk": "7",
+                                    "fd": "7",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "hoody",
+                                    "agent": "Viper",
+                                    "rating": "0.95",
+                                    "acs": "207",
+                                    "kills": "21",
+                                    "deaths": "26",
+                                    "assists": "11",
+                                    "kd_diff": "-5",
+                                    "kast": "66%",
+                                    "adr": "140",
+                                    "hs_pct": "23%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "rhyme",
+                                    "agent": "Sage",
+                                    "rating": "0.57",
+                                    "acs": "116",
+                                    "kills": "12",
+                                    "deaths": "25",
+                                    "assists": "9",
+                                    "kd_diff": "-13",
+                                    "kast": "69%",
+                                    "adr": "76",
+                                    "hs_pct": "31%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 25,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 26,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 27,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 28,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 29,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 30,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 31,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 32,
+                                "winner": "team2",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SplitPICK",
+                        "picked_by": "",
+                        "duration": "1:11:30",
+                        "score": {
+                            "team1": 15,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "7",
+                            "team2": "7"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "5"
+                        },
+                        "score_ot": {
+                            "team1": "3",
+                            "team2": "1"
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Shao",
+                                    "agent": "Astra",
+                                    "rating": "1.31",
+                                    "acs": "207",
+                                    "kills": "20",
+                                    "deaths": "14",
+                                    "assists": "10",
+                                    "kd_diff": "+6",
+                                    "kast": "82%",
+                                    "adr": "147",
+                                    "hs_pct": "34%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Zyppan",
+                                    "agent": "Skye",
+                                    "rating": "1.00",
+                                    "acs": "195",
+                                    "kills": "20",
+                                    "deaths": "20",
+                                    "assists": "7",
+                                    "kd_diff": "0",
+                                    "kast": "71%",
+                                    "adr": "131",
+                                    "hs_pct": "29%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "cNed",
+                                    "agent": "Jett",
+                                    "rating": "0.97",
+                                    "acs": "210",
+                                    "kills": "20",
+                                    "deaths": "22",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "71%",
+                                    "adr": "140",
+                                    "hs_pct": "18%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "ANGE1",
+                                    "agent": "Gekko",
+                                    "rating": "0.74",
+                                    "acs": "193",
+                                    "kills": "18",
+                                    "deaths": "22",
+                                    "assists": "3",
+                                    "kd_diff": "-4",
+                                    "kast": "64%",
+                                    "adr": "127",
+                                    "hs_pct": "39%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "SUYGETSU",
+                                    "agent": "Viper",
+                                    "rating": "0.74",
+                                    "acs": "163",
+                                    "kills": "17",
+                                    "deaths": "21",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "64%",
+                                    "adr": "110",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Fit1nho",
+                                    "agent": "Kayo",
+                                    "rating": "1.33",
+                                    "acs": "238",
+                                    "kills": "24",
+                                    "deaths": "17",
+                                    "assists": "10",
+                                    "kd_diff": "+7",
+                                    "kast": "79%",
+                                    "adr": "162",
+                                    "hs_pct": "39%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Cloud",
+                                    "agent": "Skye",
+                                    "rating": "1.16",
+                                    "acs": "210",
+                                    "kills": "21",
+                                    "deaths": "18",
+                                    "assists": "11",
+                                    "kd_diff": "+3",
+                                    "kast": "86%",
+                                    "adr": "138",
+                                    "hs_pct": "21%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "rhyme",
+                                    "agent": "Astra",
+                                    "rating": "1.04",
+                                    "acs": "203",
+                                    "kills": "22",
+                                    "deaths": "19",
+                                    "assists": "7",
+                                    "kd_diff": "+3",
+                                    "kast": "75%",
+                                    "adr": "123",
+                                    "hs_pct": "43%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "hoody",
+                                    "agent": "Viper",
+                                    "rating": "0.85",
+                                    "acs": "168",
+                                    "kills": "15",
+                                    "deaths": "20",
+                                    "assists": "9",
+                                    "kd_diff": "-5",
+                                    "kast": "75%",
+                                    "adr": "118",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "nukkye",
+                                    "agent": "Raze",
+                                    "rating": "0.84",
+                                    "acs": "193",
+                                    "kills": "17",
+                                    "deaths": "21",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "71%",
+                                    "adr": "124",
+                                    "hs_pct": "11%",
+                                    "fk": "5",
+                                    "fd": "6",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 25,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 26,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 27,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 28,
+                                "winner": "team1",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "Pearl",
+                        "picked_by": "",
+                        "duration": "51:34",
+                        "score": {
+                            "team1": 13,
+                            "team2": 7
+                        },
+                        "score_ct": {
+                            "team1": "7",
+                            "team2": "2"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "5"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Zyppan",
+                                    "agent": "Kayo",
+                                    "rating": "1.45",
+                                    "acs": "265",
+                                    "kills": "19",
+                                    "deaths": "14",
+                                    "assists": "18",
+                                    "kd_diff": "+5",
+                                    "kast": "85%",
+                                    "adr": "158",
+                                    "hs_pct": "32%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "cNed",
+                                    "agent": "Jett",
+                                    "rating": "1.42",
+                                    "acs": "311",
+                                    "kills": "23",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "+10",
+                                    "kast": "80%",
+                                    "adr": "204",
+                                    "hs_pct": "30%",
+                                    "fk": "5",
+                                    "fd": "3",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Shao",
+                                    "agent": "Astra",
+                                    "rating": "1.06",
+                                    "acs": "193",
+                                    "kills": "13",
+                                    "deaths": "12",
+                                    "assists": "6",
+                                    "kd_diff": "+1",
+                                    "kast": "85%",
+                                    "adr": "118",
+                                    "hs_pct": "34%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "SUYGETSU",
+                                    "agent": "Killjoy",
+                                    "rating": "1.05",
+                                    "acs": "158",
+                                    "kills": "13",
+                                    "deaths": "9",
+                                    "assists": "2",
+                                    "kd_diff": "+4",
+                                    "kast": "65%",
+                                    "adr": "118",
+                                    "hs_pct": "33%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "ANGE1",
+                                    "agent": "Gekko",
+                                    "rating": "0.92",
+                                    "acs": "136",
+                                    "kills": "10",
+                                    "deaths": "11",
+                                    "assists": "4",
+                                    "kd_diff": "-1",
+                                    "kast": "85%",
+                                    "adr": "83",
+                                    "hs_pct": "12%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "hoody",
+                                    "agent": "Viper",
+                                    "rating": "1.02",
+                                    "acs": "213",
+                                    "kills": "16",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "+1",
+                                    "kast": "60%",
+                                    "adr": "144",
+                                    "hs_pct": "15%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Cloud",
+                                    "agent": "Gekko",
+                                    "rating": "1.01",
+                                    "acs": "216",
+                                    "kills": "14",
+                                    "deaths": "16",
+                                    "assists": "6",
+                                    "kd_diff": "-2",
+                                    "kast": "60%",
+                                    "adr": "144",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "nukkye",
+                                    "agent": "Kayo",
+                                    "rating": "0.82",
+                                    "acs": "131",
+                                    "kills": "8",
+                                    "deaths": "13",
+                                    "assists": "11",
+                                    "kd_diff": "-5",
+                                    "kast": "70%",
+                                    "adr": "93",
+                                    "hs_pct": "18%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "rhyme",
+                                    "agent": "Astra",
+                                    "rating": "0.58",
+                                    "acs": "122",
+                                    "kills": "10",
+                                    "deaths": "16",
+                                    "assists": "3",
+                                    "kd_diff": "-6",
+                                    "kast": "55%",
+                                    "adr": "74",
+                                    "hs_pct": "28%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Fit1nho",
+                                    "agent": "Jett",
+                                    "rating": "0.52",
+                                    "acs": "179",
+                                    "kills": "11",
+                                    "deaths": "18",
+                                    "assists": "5",
+                                    "kd_diff": "-7",
+                                    "kast": "50%",
+                                    "adr": "114",
+                                    "hs_pct": "57%",
+                                    "fk": "3",
+                                    "fd": "5",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2023/03/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KOI",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/173215/koi-vs-natus-vincere-champions-tour-2023-emea-league-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/03/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 3",
+                        "url": "https://www.vlr.gg/167392/natus-vincere-vs-fnatic-champions-tour-2023-lock-in-s-o-paulo-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/167374/natus-vincere-vs-leviat-n-champions-tour-2023-lock-in-s-o-paulo-omega-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Secret",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/167370/team-secret-vs-natus-vincere-champions-tour-2023-lock-in-s-o-paulo-omega-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/167363/natus-vincere-vs-kr-esports-champions-tour-2023-lock-in-s-o-paulo-omega-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/03/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/173214/fnatic-vs-giants-gaming-champions-tour-2023-emea-league-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/18",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/167356/nrg-esports-vs-giants-gaming-champions-tour-2023-lock-in-s-o-paulo-alpha-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "DetonatioN FocusMe",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/167349/detonation-focusme-vs-giants-gaming-champions-tour-2023-lock-in-s-o-paulo-alpha-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2022/11/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Parla Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/159028/parla-esports-vs-giants-gaming-g-loot-valorant-clash-grand-finals-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2022/11/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "BBL Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/159025/bbl-esports-vs-giants-gaming-g-loot-valorant-clash-grand-finals-qf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "nukkye GIA",
+                                "2": "rhyme GIA",
+                                "3": "hoody GIA",
+                                "4": "Fit1nho GIA",
+                                "5": "Cloud GIA"
+                            }
+                        },
+                        {
+                            "player": "Zyppan NAVI",
+                            "kills_vs": {
+                                "1": "10 10 +0",
+                                "2": "15 6 +9",
+                                "3": "13 14 -1",
+                                "4": "12 18 -6",
+                                "5": "11 10 +1"
+                            }
+                        },
+                        {
+                            "player": "SUYGETSU NAVI",
+                            "kills_vs": {
+                                "1": "10 13 -3",
+                                "2": "10 8 +2",
+                                "3": "15 10 +5",
+                                "4": "9 12 -3",
+                                "5": "13 11 +2"
+                            }
+                        },
+                        {
+                            "player": "ANGE1 NAVI",
+                            "kills_vs": {
+                                "1": "10 15 -5",
+                                "2": "6 8 -2",
+                                "3": "9 8 +1",
+                                "4": "10 10 +0",
+                                "5": "6 19 -13"
+                            }
+                        },
+                        {
+                            "player": "cNed NAVI",
+                            "kills_vs": {
+                                "1": "12 12 +0",
+                                "2": "19 11 +8",
+                                "3": "15 11 +4",
+                                "4": "17 9 +8",
+                                "5": "8 16 -8"
+                            }
+                        },
+                        {
+                            "player": "Shao NAVI",
+                            "kills_vs": {
+                                "1": "9 5 +4",
+                                "2": "10 11 -1",
+                                "3": "9 9 +0",
+                                "4": "9 15 -6",
+                                "5": "17 9 +8"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Zyppan NAVI",
+                            "1": "",
+                            "2": "8",
+                            "3": "6",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "48",
+                            "12": "3",
+                            "13": "3"
+                        },
+                        {
+                            "player": "ANGE1 NAVI",
+                            "1": "",
+                            "2": "9",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "9",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Shao NAVI",
+                            "1": "",
+                            "2": "7",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "4",
+                            "7": "2",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "15",
+                            "13": "4"
+                        },
+                        {
+                            "player": "cNed NAVI",
+                            "1": "",
+                            "2": "11",
+                            "3": "6",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "59",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "SUYGETSU NAVI",
+                            "1": "",
+                            "2": "8",
+                            "3": "1",
+                            "4": "3",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "48",
+                            "12": "0",
+                            "13": "2"
+                        },
+                        {
+                            "player": "rhyme GIA",
+                            "1": "",
+                            "2": "8",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "34",
+                            "12": "12",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Fit1nho GIA",
+                            "1": "",
+                            "2": "16",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "51",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "hoody GIA",
+                            "1": "",
+                            "2": "6",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "49",
+                            "12": "2",
+                            "13": "2"
+                        },
+                        {
+                            "player": "nukkye GIA",
+                            "1": "",
+                            "2": "10",
+                            "3": "2",
+                            "4": "2",
+                            "5": "",
+                            "6": "2",
+                            "7": "2",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "44",
+                            "12": "3",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Cloud GIA",
+                            "1": "",
+                            "2": "10",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "10",
+                            "13": "3"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "117173",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "117174",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "117175",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "nukkye GIA",
+                                        "2": "rhyme GIA",
+                                        "3": "hoody GIA",
+                                        "4": "Fit1nho GIA",
+                                        "5": "Cloud GIA"
+                                    }
+                                },
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "kills_vs": {
+                                        "1": "10 10 +0",
+                                        "2": "15 6 +9",
+                                        "3": "13 14 -1",
+                                        "4": "12 18 -6",
+                                        "5": "11 10 +1"
+                                    }
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 8 +2",
+                                        "3": "15 10 +5",
+                                        "4": "9 12 -3",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "kills_vs": {
+                                        "1": "10 15 -5",
+                                        "2": "6 8 -2",
+                                        "3": "9 8 +1",
+                                        "4": "10 10 +0",
+                                        "5": "6 19 -13"
+                                    }
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "kills_vs": {
+                                        "1": "12 12 +0",
+                                        "2": "19 11 +8",
+                                        "3": "15 11 +4",
+                                        "4": "17 9 +8",
+                                        "5": "8 16 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "kills_vs": {
+                                        "1": "9 5 +4",
+                                        "2": "10 11 -1",
+                                        "3": "9 9 +0",
+                                        "4": "9 15 -6",
+                                        "5": "17 9 +8"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Zyppan NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "6",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "ANGE1 NAVI",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Shao NAVI",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "15",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "cNed NAVI",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "6",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "SUYGETSU NAVI",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "rhyme GIA",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Fit1nho GIA",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "hoody GIA",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "nukkye GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Cloud GIA",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "10",
+                                    "13": "3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "NAVI",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "1 (0)",
+                        "4": "5 (4)",
+                        "5": "22 (11)"
+                    },
+                    {
+                        "0": "GIA",
+                        "1": "2",
+                        "2": "2 (2)",
+                        "3": "1 (0)",
+                        "4": "12 (6)",
+                        "5": "17 (9)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "117173",
+                        "rows": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "117174",
+                        "rows": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "117175",
+                        "rows": [
+                            {
+                                "0": "NAVI",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "22 (11)"
+                            },
+                            {
+                                "0": "GIA",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "12 (6)",
+                                "5": "17 (9)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

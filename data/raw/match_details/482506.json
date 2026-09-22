@@ -1,0 +1,2333 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "482506",
+                "event": {
+                    "name": "VCT 2025: EMEA Stage 1 Playoffs: Lower Round 1",
+                    "series": "Playoffs: Lower Round 1",
+                    "logo": "https://owcdn.net/img/65ab59620a233.png"
+                },
+                "date": "May 10, 2025 3:05 AM PST Patch 10.08",
+                "map_vetos": "FUT ban Icebox; VIT ban Pearl; FUT pick Fracture; VIT pick Split; FUT ban Haven; VIT ban Lotus; Ascent remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "1184",
+                        "name": "FUT Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/632be9976b8fe.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "2059",
+                        "name": "Team Vitality",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant FR",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant TR",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Spain",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/0kJ59WEY-_E?t=373"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/3olrxY4EmUY?t=119"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "SplitPICK",
+                        "picked_by": "",
+                        "duration": "47:30",
+                        "score": {
+                            "team1": 13,
+                            "team2": 6
+                        },
+                        "score_ct": {
+                            "team1": "9",
+                            "team2": "3"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "yetujey",
+                                    "agent": "Viper",
+                                    "rating": "1.59",
+                                    "acs": "281",
+                                    "kills": "19",
+                                    "deaths": "11",
+                                    "assists": "6",
+                                    "kd_diff": "+8",
+                                    "kast": "79%",
+                                    "adr": "200",
+                                    "hs_pct": "25%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "xeus",
+                                    "agent": "Yoru",
+                                    "rating": "1.39",
+                                    "acs": "290",
+                                    "kills": "20",
+                                    "deaths": "13",
+                                    "assists": "4",
+                                    "kd_diff": "+7",
+                                    "kast": "79%",
+                                    "adr": "190",
+                                    "hs_pct": "50%",
+                                    "fk": "6",
+                                    "fd": "2",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "AtaKaptan",
+                                    "agent": "Omen",
+                                    "rating": "1.39",
+                                    "acs": "217",
+                                    "kills": "17",
+                                    "deaths": "10",
+                                    "assists": "7",
+                                    "kd_diff": "+7",
+                                    "kast": "89%",
+                                    "adr": "142",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "qRaxs",
+                                    "agent": "Fade",
+                                    "rating": "0.77",
+                                    "acs": "165",
+                                    "kills": "12",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-3",
+                                    "kast": "68%",
+                                    "adr": "100",
+                                    "hs_pct": "45%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "MrFaliN",
+                                    "agent": "Tejo",
+                                    "rating": "0.67",
+                                    "acs": "92",
+                                    "kills": "6",
+                                    "deaths": "10",
+                                    "assists": "3",
+                                    "kd_diff": "-4",
+                                    "kast": "58%",
+                                    "adr": "76",
+                                    "hs_pct": "20%",
+                                    "fk": "1",
+                                    "fd": "4",
+                                    "fk_diff": "-3"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "CyvOph",
+                                    "agent": "Omen",
+                                    "rating": "1.04",
+                                    "acs": "195",
+                                    "kills": "12",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "79%",
+                                    "adr": "122",
+                                    "hs_pct": "22%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Derke",
+                                    "agent": "Raze",
+                                    "rating": "0.96",
+                                    "acs": "233",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "0",
+                                    "kast": "58%",
+                                    "adr": "139",
+                                    "hs_pct": "22%",
+                                    "fk": "3",
+                                    "fd": "6",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "Sayf",
+                                    "agent": "Yoru",
+                                    "rating": "0.79",
+                                    "acs": "154",
+                                    "kills": "12",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "-2",
+                                    "kast": "58%",
+                                    "adr": "90",
+                                    "hs_pct": "18%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Less",
+                                    "agent": "Viper",
+                                    "rating": "0.75",
+                                    "acs": "152",
+                                    "kills": "11",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "-3",
+                                    "kast": "68%",
+                                    "adr": "92",
+                                    "hs_pct": "23%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Kicks",
+                                    "agent": "Fade",
+                                    "rating": "0.52",
+                                    "acs": "151",
+                                    "kills": "9",
+                                    "deaths": "17",
+                                    "assists": "9",
+                                    "kd_diff": "-8",
+                                    "kast": "68%",
+                                    "adr": "93",
+                                    "hs_pct": "23%",
+                                    "fk": "1",
+                                    "fd": "4",
+                                    "fk_diff": "-3"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Sayf VIT",
+                                        "2": "Kicks VIT",
+                                        "3": "Derke VIT",
+                                        "4": "CyvOph VIT",
+                                        "5": "Less VIT"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "7 3 +4",
+                                        "3": "6 10 -4",
+                                        "4": "6 7 -1",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "10 4 +6",
+                                        "2": "4 2 +2",
+                                        "3": "7 2 +5",
+                                        "4": "8 6 +2",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "5 4 +1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "10 3 +7",
+                                        "3": "9 7 +2",
+                                        "4": "6 6 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "4 3 +1",
+                                        "3": "3 7 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "83",
+                                    "12": "4",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Sayf VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "27",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Less VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Kicks VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "CyvOph VIT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "3",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUT",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "0 (0)",
+                                "5": "15 (13)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "8 (3)",
+                                "5": "8 (1)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "FracturePICK",
+                        "picked_by": "",
+                        "duration": "1:06:15",
+                        "score": {
+                            "team1": 13,
+                            "team2": 7
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "1"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "AtaKaptan",
+                                    "agent": "Brimstone",
+                                    "rating": "1.50",
+                                    "acs": "243",
+                                    "kills": "17",
+                                    "deaths": "9",
+                                    "assists": "8",
+                                    "kd_diff": "+8",
+                                    "kast": "80%",
+                                    "adr": "164",
+                                    "hs_pct": "41%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "yetujey",
+                                    "agent": "Cypher",
+                                    "rating": "1.35",
+                                    "acs": "244",
+                                    "kills": "18",
+                                    "deaths": "11",
+                                    "assists": "6",
+                                    "kd_diff": "+7",
+                                    "kast": "85%",
+                                    "adr": "170",
+                                    "hs_pct": "27%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "qRaxs",
+                                    "agent": "Kayo",
+                                    "rating": "1.25",
+                                    "acs": "205",
+                                    "kills": "15",
+                                    "deaths": "10",
+                                    "assists": "11",
+                                    "kd_diff": "+5",
+                                    "kast": "80%",
+                                    "adr": "134",
+                                    "hs_pct": "27%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "MrFaliN",
+                                    "agent": "Breach",
+                                    "rating": "0.95",
+                                    "acs": "142",
+                                    "kills": "8",
+                                    "deaths": "11",
+                                    "assists": "15",
+                                    "kd_diff": "-3",
+                                    "kast": "85%",
+                                    "adr": "90",
+                                    "hs_pct": "16%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "xeus",
+                                    "agent": "Neon",
+                                    "rating": "0.86",
+                                    "acs": "187",
+                                    "kills": "15",
+                                    "deaths": "13",
+                                    "assists": "2",
+                                    "kd_diff": "+2",
+                                    "kast": "70%",
+                                    "adr": "113",
+                                    "hs_pct": "24%",
+                                    "fk": "3",
+                                    "fd": "7",
+                                    "fk_diff": "-4"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "CyvOph",
+                                    "agent": "Brimstone",
+                                    "rating": "1.34",
+                                    "acs": "231",
+                                    "kills": "16",
+                                    "deaths": "13",
+                                    "assists": "9",
+                                    "kd_diff": "+3",
+                                    "kast": "60%",
+                                    "adr": "157",
+                                    "hs_pct": "31%",
+                                    "fk": "4",
+                                    "fd": "0",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "Less",
+                                    "agent": "Cypher",
+                                    "rating": "0.99",
+                                    "acs": "185",
+                                    "kills": "15",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "+1",
+                                    "kast": "70%",
+                                    "adr": "140",
+                                    "hs_pct": "42%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Derke",
+                                    "agent": "Neon",
+                                    "rating": "0.89",
+                                    "acs": "214",
+                                    "kills": "14",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "-3",
+                                    "kast": "75%",
+                                    "adr": "141",
+                                    "hs_pct": "19%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Kicks",
+                                    "agent": "Breach",
+                                    "rating": "0.75",
+                                    "acs": "111",
+                                    "kills": "6",
+                                    "deaths": "13",
+                                    "assists": "13",
+                                    "kd_diff": "-7",
+                                    "kast": "60%",
+                                    "adr": "73",
+                                    "hs_pct": "11%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Sayf",
+                                    "agent": "Tejo",
+                                    "rating": "0.28",
+                                    "acs": "69",
+                                    "kills": "3",
+                                    "deaths": "16",
+                                    "assists": "6",
+                                    "kd_diff": "-13",
+                                    "kast": "50%",
+                                    "adr": "50",
+                                    "hs_pct": "20%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Sayf VIT",
+                                        "2": "Kicks VIT",
+                                        "3": "Derke VIT",
+                                        "4": "CyvOph VIT",
+                                        "5": "Less VIT"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "7 3 +4",
+                                        "3": "6 10 -4",
+                                        "4": "6 7 -1",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "10 4 +6",
+                                        "2": "4 2 +2",
+                                        "3": "7 2 +5",
+                                        "4": "8 6 +2",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "5 4 +1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "10 3 +7",
+                                        "3": "9 7 +2",
+                                        "4": "6 6 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "4 3 +1",
+                                        "3": "3 7 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "83",
+                                    "12": "4",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Sayf VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "27",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Less VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Kicks VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "CyvOph VIT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "3",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUT",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "0 (0)",
+                                "5": "15 (13)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "8 (3)",
+                                "5": "8 (1)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2025/05/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/482504/fnatic-vs-fut-esports-champions-tour-2025-emea-stage-1-playoffs-ubr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "BBL Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/459852/bbl-esports-vs-fut-esports-champions-tour-2025-emea-stage-1-w5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/18",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Karmine Corp",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/459849/karmine-corp-vs-fut-esports-champions-tour-2025-emea-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/10",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Liquid",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/459841/team-liquid-vs-fut-esports-champions-tour-2025-emea-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/03",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Gentle Mates",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/459834/fut-esports-vs-gentle-mates-champions-tour-2025-emea-stage-1-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Natus Vincere",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/459855/team-vitality-vs-natus-vincere-champions-tour-2025-emea-stage-1-w5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Apeks",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/459845/team-vitality-vs-apeks-champions-tour-2025-emea-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Heretics",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/459842/team-vitality-vs-team-heretics-champions-tour-2025-emea-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/04/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/459836/team-vitality-vs-fnatic-champions-tour-2025-emea-stage-1-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/03/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "GIANTX",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/459826/team-vitality-vs-giantx-champions-tour-2025-emea-stage-1-w1"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "Sayf VIT",
+                                "2": "Kicks VIT",
+                                "3": "Derke VIT",
+                                "4": "CyvOph VIT",
+                                "5": "Less VIT"
+                            }
+                        },
+                        {
+                            "player": "xeus FUT",
+                            "kills_vs": {
+                                "1": "7 2 +5",
+                                "2": "7 3 +4",
+                                "3": "6 10 -4",
+                                "4": "6 7 -1",
+                                "5": "9 4 +5"
+                            }
+                        },
+                        {
+                            "player": "AtaKaptan FUT",
+                            "kills_vs": {
+                                "1": "10 4 +6",
+                                "2": "4 2 +2",
+                                "3": "7 2 +5",
+                                "4": "8 6 +2",
+                                "5": "5 5 +0"
+                            }
+                        },
+                        {
+                            "player": "qRaxs FUT",
+                            "kills_vs": {
+                                "1": "4 4 +0",
+                                "2": "5 4 +1",
+                                "3": "7 3 +4",
+                                "4": "5 5 +0",
+                                "5": "6 9 -3"
+                            }
+                        },
+                        {
+                            "player": "yetujey FUT",
+                            "kills_vs": {
+                                "1": "7 2 +5",
+                                "2": "10 3 +7",
+                                "3": "9 7 +2",
+                                "4": "6 6 +0",
+                                "5": "5 4 +1"
+                            }
+                        },
+                        {
+                            "player": "MrFaliN FUT",
+                            "kills_vs": {
+                                "1": "2 3 -1",
+                                "2": "4 3 +1",
+                                "3": "3 7 -4",
+                                "4": "2 4 -2",
+                                "5": "3 4 -1"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "qRaxs FUT",
+                            "1": "",
+                            "2": "3",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "44",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "AtaKaptan FUT",
+                            "1": "",
+                            "2": "11",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "3",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "83",
+                            "12": "4",
+                            "13": "3"
+                        },
+                        {
+                            "player": "MrFaliN FUT",
+                            "1": "",
+                            "2": "1",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "4",
+                            "13": "2"
+                        },
+                        {
+                            "player": "yetujey FUT",
+                            "1": "",
+                            "2": "10",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "77",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "xeus FUT",
+                            "1": "",
+                            "2": "3",
+                            "3": "3",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Sayf VIT",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "27",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Derke VIT",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Less VIT",
+                            "1": "",
+                            "2": "4",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "49",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Kicks VIT",
+                            "1": "",
+                            "2": "2",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "33",
+                            "12": "7",
+                            "13": "1"
+                        },
+                        {
+                            "player": "CyvOph VIT",
+                            "1": "",
+                            "2": "3",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "63",
+                            "12": "3",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "216584",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Sayf VIT",
+                                        "2": "Kicks VIT",
+                                        "3": "Derke VIT",
+                                        "4": "CyvOph VIT",
+                                        "5": "Less VIT"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "7 3 +4",
+                                        "3": "6 10 -4",
+                                        "4": "6 7 -1",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "10 4 +6",
+                                        "2": "4 2 +2",
+                                        "3": "7 2 +5",
+                                        "4": "8 6 +2",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "5 4 +1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "10 3 +7",
+                                        "3": "9 7 +2",
+                                        "4": "6 6 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "4 3 +1",
+                                        "3": "3 7 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "83",
+                                    "12": "4",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Sayf VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "27",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Less VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Kicks VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "CyvOph VIT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "3",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "215389",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Sayf VIT",
+                                        "2": "Kicks VIT",
+                                        "3": "Derke VIT",
+                                        "4": "CyvOph VIT",
+                                        "5": "Less VIT"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "7 3 +4",
+                                        "3": "6 10 -4",
+                                        "4": "6 7 -1",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "10 4 +6",
+                                        "2": "4 2 +2",
+                                        "3": "7 2 +5",
+                                        "4": "8 6 +2",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "5 4 +1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "10 3 +7",
+                                        "3": "9 7 +2",
+                                        "4": "6 6 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "4 3 +1",
+                                        "3": "3 7 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "83",
+                                    "12": "4",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Sayf VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "27",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Less VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Kicks VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "CyvOph VIT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "3",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "215390",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Sayf VIT",
+                                        "2": "Kicks VIT",
+                                        "3": "Derke VIT",
+                                        "4": "CyvOph VIT",
+                                        "5": "Less VIT"
+                                    }
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "7 3 +4",
+                                        "3": "6 10 -4",
+                                        "4": "6 7 -1",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "kills_vs": {
+                                        "1": "10 4 +6",
+                                        "2": "4 2 +2",
+                                        "3": "7 2 +5",
+                                        "4": "8 6 +2",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "qRaxs FUT",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "5 4 +1",
+                                        "3": "7 3 +4",
+                                        "4": "5 5 +0",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "kills_vs": {
+                                        "1": "7 2 +5",
+                                        "2": "10 3 +7",
+                                        "3": "9 7 +2",
+                                        "4": "6 6 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "4 3 +1",
+                                        "3": "3 7 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "qRaxs FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "AtaKaptan FUT",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "83",
+                                    "12": "4",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "MrFaliN FUT",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "yetujey FUT",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "xeus FUT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Sayf VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "27",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Less VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Kicks VIT",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "33",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "CyvOph VIT",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "3",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "FUT",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "0 (0)",
+                        "4": "0 (0)",
+                        "5": "15 (13)"
+                    },
+                    {
+                        "0": "VIT",
+                        "1": "2",
+                        "2": "2 (2)",
+                        "3": "1 (0)",
+                        "4": "8 (3)",
+                        "5": "8 (1)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "216584",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "0 (0)",
+                                "5": "15 (13)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "8 (3)",
+                                "5": "8 (1)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "215389",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "0 (0)",
+                                "5": "15 (13)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "8 (3)",
+                                "5": "8 (1)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "215390",
+                        "rows": [
+                            {
+                                "0": "FUT",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "0 (0)",
+                                "5": "15 (13)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "8 (3)",
+                                "5": "8 (1)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

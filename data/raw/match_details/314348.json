@@ -1,0 +1,2373 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "314348",
+                "event": {
+                    "name": "Champions Tour 2024: Pacific Stage 2 Regular Season: Week 2",
+                    "series": "Regular Season: Week 2",
+                    "logo": "https://owcdn.net/img/640f5ae002674.png"
+                },
+                "date": "June 23, 2024 4:00 PM PST Patch 8.11",
+                "map_vetos": "GE ban Split; BLD ban Icebox; GE pick Lotus; BLD pick Sunset; GE ban Bind; BLD ban Ascent; Haven remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "918",
+                        "name": "Global Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "6387",
+                        "name": "BLEED",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/662f72ad88211.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant Pacific",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Japan",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant ID",
+                        "url": ""
+                    },
+                    {
+                        "name": "PPGL VCT PH",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant TH",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant TW",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Pacific (YT)",
+                        "url": "https://www.youtube.com/@VCTPacific/live"
+                    },
+                    {
+                        "name": "VAL Esports ID (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsIndonesia/live"
+                    },
+                    {
+                        "name": "VAL Esports PH (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsPH/live"
+                    },
+                    {
+                        "name": "VAL Esports TW (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsTW/live"
+                    },
+                    {
+                        "name": "VAL Esports KR (YT)",
+                        "url": "https://www.youtube.com/@ValorantEsportsKR/live"
+                    },
+                    {
+                        "name": "VCT Vietnam (YT)",
+                        "url": "https://www.youtube.com/@VALORANTChampionsTourVietnam/live"
+                    },
+                    {
+                        "name": "... More Streams (3)",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant INSA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTinsa/live"
+                    },
+                    {
+                        "name": "Valorant KR (SOOP)",
+                        "url": "https://play.sooplive.co.kr/valorant"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/zHVnwr0gxC4?t=3899"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/zHVnwr0gxC4?t=6981"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "LotusPICK",
+                        "picked_by": "",
+                        "duration": "55:15",
+                        "score": {
+                            "team1": 13,
+                            "team2": 6
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "3"
+                        },
+                        "score_t": {
+                            "team1": "9",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Benkai",
+                                    "agent": "Breach",
+                                    "rating": "1.53",
+                                    "acs": "244",
+                                    "kills": "17",
+                                    "deaths": "9",
+                                    "assists": "13",
+                                    "kd_diff": "+8",
+                                    "kast": "95%",
+                                    "adr": "170",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Polvi",
+                                    "agent": "Neon",
+                                    "rating": "1.27",
+                                    "acs": "301",
+                                    "kills": "20",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "+6",
+                                    "kast": "79%",
+                                    "adr": "205",
+                                    "hs_pct": "27%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Russ",
+                                    "agent": "Fade",
+                                    "rating": "1.03",
+                                    "acs": "203",
+                                    "kills": "14",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "+1",
+                                    "kast": "84%",
+                                    "adr": "139",
+                                    "hs_pct": "35%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "blaZek1ng",
+                                    "agent": "Cypher",
+                                    "rating": "0.95",
+                                    "acs": "147",
+                                    "kills": "9",
+                                    "deaths": "12",
+                                    "assists": "7",
+                                    "kd_diff": "-3",
+                                    "kast": "74%",
+                                    "adr": "97",
+                                    "hs_pct": "36%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Lightningfast",
+                                    "agent": "Omen",
+                                    "rating": "0.95",
+                                    "acs": "174",
+                                    "kills": "13",
+                                    "deaths": "13",
+                                    "assists": "6",
+                                    "kd_diff": "0",
+                                    "kast": "89%",
+                                    "adr": "95",
+                                    "hs_pct": "36%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "sScary",
+                                    "agent": "Omen",
+                                    "rating": "1.25",
+                                    "acs": "254",
+                                    "kills": "17",
+                                    "deaths": "13",
+                                    "assists": "8",
+                                    "kd_diff": "+4",
+                                    "kast": "95%",
+                                    "adr": "152",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Retla",
+                                    "agent": "Cypher",
+                                    "rating": "0.85",
+                                    "acs": "203",
+                                    "kills": "14",
+                                    "deaths": "14",
+                                    "assists": "2",
+                                    "kd_diff": "0",
+                                    "kast": "58%",
+                                    "adr": "126",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Zest",
+                                    "agent": "Viper",
+                                    "rating": "0.80",
+                                    "acs": "187",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "1",
+                                    "kd_diff": "-2",
+                                    "kast": "63%",
+                                    "adr": "126",
+                                    "hs_pct": "46%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Deryeon",
+                                    "agent": "Raze",
+                                    "rating": "0.72",
+                                    "acs": "155",
+                                    "kills": "11",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "-5",
+                                    "kast": "74%",
+                                    "adr": "115",
+                                    "hs_pct": "16%",
+                                    "fk": "1",
+                                    "fd": "6",
+                                    "fk_diff": "-5"
+                                },
+                                {
+                                    "name": "crazyguy",
+                                    "agent": "Fade",
+                                    "rating": "0.71",
+                                    "acs": "123",
+                                    "kills": "6",
+                                    "deaths": "15",
+                                    "assists": "10",
+                                    "kd_diff": "-9",
+                                    "kast": "68%",
+                                    "adr": "92",
+                                    "hs_pct": "14%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "crazyguy BLD",
+                                        "2": "Deryeon BLD",
+                                        "3": "Retla BLD",
+                                        "4": "Zest BLD",
+                                        "5": "sScary BLD"
+                                    }
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "kills_vs": {
+                                        "1": "3 2 +1",
+                                        "2": "11 5 +6",
+                                        "3": "3 8 -5",
+                                        "4": "6 5 +1",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "5 5 +0",
+                                        "4": "4 4 +0",
+                                        "5": "6 8 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "kills_vs": {
+                                        "1": "9 2 +7",
+                                        "2": "4 4 +0",
+                                        "3": "4 3 +1",
+                                        "4": "9 2 +7",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "8 5 +3",
+                                        "3": "13 4 +9",
+                                        "4": "4 7 -3",
+                                        "5": "6 10 -4"
+                                    }
+                                },
+                                {
+                                    "player": "Russ GE",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "5 3 +2",
+                                        "3": "5 7 -2",
+                                        "4": "4 2 +2",
+                                        "5": "5 8 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Russ GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "11",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "5"
+                                },
+                                {
+                                    "player": "Zest BLD",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "5",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "crazyguy BLD",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Retla BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "sScary BLD",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Deryeon BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "GE",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "5 (5)",
+                                "5": "11 (7)"
+                            },
+                            {
+                                "0": "BLD",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (1)",
+                                "5": "9 (4)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SunsetPICK",
+                        "picked_by": "",
+                        "duration": "48:33",
+                        "score": {
+                            "team1": 13,
+                            "team2": 6
+                        },
+                        "score_ct": {
+                            "team1": "7",
+                            "team2": "1"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "5"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Benkai",
+                                    "agent": "Sova",
+                                    "rating": "1.57",
+                                    "acs": "220",
+                                    "kills": "14",
+                                    "deaths": "7",
+                                    "assists": "8",
+                                    "kd_diff": "+7",
+                                    "kast": "84%",
+                                    "adr": "138",
+                                    "hs_pct": "31%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "blaZek1ng",
+                                    "agent": "Cypher",
+                                    "rating": "1.22",
+                                    "acs": "217",
+                                    "kills": "16",
+                                    "deaths": "12",
+                                    "assists": "3",
+                                    "kd_diff": "+4",
+                                    "kast": "84%",
+                                    "adr": "139",
+                                    "hs_pct": "20%",
+                                    "fk": "4",
+                                    "fd": "1",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Russ",
+                                    "agent": "Kayo",
+                                    "rating": "1.13",
+                                    "acs": "219",
+                                    "kills": "12",
+                                    "deaths": "12",
+                                    "assists": "19",
+                                    "kd_diff": "0",
+                                    "kast": "84%",
+                                    "adr": "155",
+                                    "hs_pct": "27%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Lightningfast",
+                                    "agent": "Omen",
+                                    "rating": "1.07",
+                                    "acs": "122",
+                                    "kills": "10",
+                                    "deaths": "9",
+                                    "assists": "10",
+                                    "kd_diff": "+1",
+                                    "kast": "95%",
+                                    "adr": "70",
+                                    "hs_pct": "35%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Polvi",
+                                    "agent": "Neon",
+                                    "rating": "0.99",
+                                    "acs": "239",
+                                    "kills": "17",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "0",
+                                    "kast": "68%",
+                                    "adr": "139",
+                                    "hs_pct": "24%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "sScary",
+                                    "agent": "Omen",
+                                    "rating": "1.31",
+                                    "acs": "219",
+                                    "kills": "18",
+                                    "deaths": "11",
+                                    "assists": "2",
+                                    "kd_diff": "+7",
+                                    "kast": "84%",
+                                    "adr": "123",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Retla",
+                                    "agent": "Cypher",
+                                    "rating": "0.85",
+                                    "acs": "195",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "6",
+                                    "kd_diff": "-3",
+                                    "kast": "58%",
+                                    "adr": "123",
+                                    "hs_pct": "36%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "crazyguy",
+                                    "agent": "Sova",
+                                    "rating": "0.70",
+                                    "acs": "157",
+                                    "kills": "10",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "-4",
+                                    "kast": "68%",
+                                    "adr": "120",
+                                    "hs_pct": "29%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Zest",
+                                    "agent": "Kayo",
+                                    "rating": "0.58",
+                                    "acs": "111",
+                                    "kills": "7",
+                                    "deaths": "12",
+                                    "assists": "7",
+                                    "kd_diff": "-5",
+                                    "kast": "47%",
+                                    "adr": "68",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "5",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "Deryeon",
+                                    "agent": "Raze",
+                                    "rating": "0.56",
+                                    "acs": "158",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "-7",
+                                    "kast": "53%",
+                                    "adr": "109",
+                                    "hs_pct": "23%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "crazyguy BLD",
+                                        "2": "Deryeon BLD",
+                                        "3": "Retla BLD",
+                                        "4": "Zest BLD",
+                                        "5": "sScary BLD"
+                                    }
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "kills_vs": {
+                                        "1": "3 2 +1",
+                                        "2": "11 5 +6",
+                                        "3": "3 8 -5",
+                                        "4": "6 5 +1",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "5 5 +0",
+                                        "4": "4 4 +0",
+                                        "5": "6 8 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "kills_vs": {
+                                        "1": "9 2 +7",
+                                        "2": "4 4 +0",
+                                        "3": "4 3 +1",
+                                        "4": "9 2 +7",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "8 5 +3",
+                                        "3": "13 4 +9",
+                                        "4": "4 7 -3",
+                                        "5": "6 10 -4"
+                                    }
+                                },
+                                {
+                                    "player": "Russ GE",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "5 3 +2",
+                                        "3": "5 7 -2",
+                                        "4": "4 2 +2",
+                                        "5": "5 8 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Russ GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "11",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "5"
+                                },
+                                {
+                                    "player": "Zest BLD",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "5",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "crazyguy BLD",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Retla BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "sScary BLD",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Deryeon BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "GE",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "5 (5)",
+                                "5": "11 (7)"
+                            },
+                            {
+                                "0": "BLD",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (1)",
+                                "5": "9 (4)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/06/17",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Secret",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314345/team-secret-vs-global-esports-champions-tour-2024-pacific-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "DetonatioN FocusMe",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/314326/global-esports-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314324/global-esports-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/21",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Rex Regum Qeon",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/314319/global-esports-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "TALON",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/314314/global-esports-vs-talon-esports-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/06/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Secret",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/314341/team-secret-vs-bleed-champions-tour-2024-pacific-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/29",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KIWOOM DRX",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314329/bleed-vs-drx-champions-tour-2024-pacific-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314325/bleed-vs-paper-rex-champions-tour-2024-pacific-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "DetonatioN FocusMe",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/314318/bleed-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "ZETA DIVISION",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/314316/bleed-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "crazyguy BLD",
+                                "2": "Deryeon BLD",
+                                "3": "Retla BLD",
+                                "4": "Zest BLD",
+                                "5": "sScary BLD"
+                            }
+                        },
+                        {
+                            "player": "blaZek1ng GE",
+                            "kills_vs": {
+                                "1": "3 2 +1",
+                                "2": "11 5 +6",
+                                "3": "3 8 -5",
+                                "4": "6 5 +1",
+                                "5": "2 4 -2"
+                            }
+                        },
+                        {
+                            "player": "Lightningfast GE",
+                            "kills_vs": {
+                                "1": "4 2 +2",
+                                "2": "4 3 +1",
+                                "3": "5 5 +0",
+                                "4": "4 4 +0",
+                                "5": "6 8 -2"
+                            }
+                        },
+                        {
+                            "player": "Benkai GE",
+                            "kills_vs": {
+                                "1": "9 2 +7",
+                                "2": "4 4 +0",
+                                "3": "4 3 +1",
+                                "4": "9 2 +7",
+                                "5": "5 5 +0"
+                            }
+                        },
+                        {
+                            "player": "Polvi GE",
+                            "kills_vs": {
+                                "1": "6 5 +1",
+                                "2": "8 5 +3",
+                                "3": "13 4 +9",
+                                "4": "4 7 -3",
+                                "5": "6 10 -4"
+                            }
+                        },
+                        {
+                            "player": "Russ GE",
+                            "kills_vs": {
+                                "1": "7 5 +2",
+                                "2": "5 3 +2",
+                                "3": "5 7 -2",
+                                "4": "4 2 +2",
+                                "5": "5 8 -3"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Russ GE",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "57",
+                            "12": "11",
+                            "13": "0"
+                        },
+                        {
+                            "player": "blaZek1ng GE",
+                            "1": "",
+                            "2": "4",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Polvi GE",
+                            "1": "",
+                            "2": "4",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "62",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Lightningfast GE",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "34",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Benkai GE",
+                            "1": "",
+                            "2": "5",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "4",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "72",
+                            "12": "3",
+                            "13": "5"
+                        },
+                        {
+                            "player": "Zest BLD",
+                            "1": "",
+                            "2": "2",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "42",
+                            "12": "5",
+                            "13": "1"
+                        },
+                        {
+                            "player": "crazyguy BLD",
+                            "1": "",
+                            "2": "1",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "43",
+                            "12": "4",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Retla BLD",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "sScary BLD",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "62",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Deryeon BLD",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "0",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "163263",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "crazyguy BLD",
+                                        "2": "Deryeon BLD",
+                                        "3": "Retla BLD",
+                                        "4": "Zest BLD",
+                                        "5": "sScary BLD"
+                                    }
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "kills_vs": {
+                                        "1": "3 2 +1",
+                                        "2": "11 5 +6",
+                                        "3": "3 8 -5",
+                                        "4": "6 5 +1",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "5 5 +0",
+                                        "4": "4 4 +0",
+                                        "5": "6 8 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "kills_vs": {
+                                        "1": "9 2 +7",
+                                        "2": "4 4 +0",
+                                        "3": "4 3 +1",
+                                        "4": "9 2 +7",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "8 5 +3",
+                                        "3": "13 4 +9",
+                                        "4": "4 7 -3",
+                                        "5": "6 10 -4"
+                                    }
+                                },
+                                {
+                                    "player": "Russ GE",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "5 3 +2",
+                                        "3": "5 7 -2",
+                                        "4": "4 2 +2",
+                                        "5": "5 8 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Russ GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "11",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "5"
+                                },
+                                {
+                                    "player": "Zest BLD",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "5",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "crazyguy BLD",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Retla BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "sScary BLD",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Deryeon BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "163264",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "crazyguy BLD",
+                                        "2": "Deryeon BLD",
+                                        "3": "Retla BLD",
+                                        "4": "Zest BLD",
+                                        "5": "sScary BLD"
+                                    }
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "kills_vs": {
+                                        "1": "3 2 +1",
+                                        "2": "11 5 +6",
+                                        "3": "3 8 -5",
+                                        "4": "6 5 +1",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "5 5 +0",
+                                        "4": "4 4 +0",
+                                        "5": "6 8 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "kills_vs": {
+                                        "1": "9 2 +7",
+                                        "2": "4 4 +0",
+                                        "3": "4 3 +1",
+                                        "4": "9 2 +7",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "8 5 +3",
+                                        "3": "13 4 +9",
+                                        "4": "4 7 -3",
+                                        "5": "6 10 -4"
+                                    }
+                                },
+                                {
+                                    "player": "Russ GE",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "5 3 +2",
+                                        "3": "5 7 -2",
+                                        "4": "4 2 +2",
+                                        "5": "5 8 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Russ GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "11",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "5"
+                                },
+                                {
+                                    "player": "Zest BLD",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "5",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "crazyguy BLD",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Retla BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "sScary BLD",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Deryeon BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "163265",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "crazyguy BLD",
+                                        "2": "Deryeon BLD",
+                                        "3": "Retla BLD",
+                                        "4": "Zest BLD",
+                                        "5": "sScary BLD"
+                                    }
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "kills_vs": {
+                                        "1": "3 2 +1",
+                                        "2": "11 5 +6",
+                                        "3": "3 8 -5",
+                                        "4": "6 5 +1",
+                                        "5": "2 4 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "5 5 +0",
+                                        "4": "4 4 +0",
+                                        "5": "6 8 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "kills_vs": {
+                                        "1": "9 2 +7",
+                                        "2": "4 4 +0",
+                                        "3": "4 3 +1",
+                                        "4": "9 2 +7",
+                                        "5": "5 5 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "8 5 +3",
+                                        "3": "13 4 +9",
+                                        "4": "4 7 -3",
+                                        "5": "6 10 -4"
+                                    }
+                                },
+                                {
+                                    "player": "Russ GE",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "5 3 +2",
+                                        "3": "5 7 -2",
+                                        "4": "4 2 +2",
+                                        "5": "5 8 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Russ GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "11",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "blaZek1ng GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Polvi GE",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Lightningfast GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "34",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Benkai GE",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "4",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "3",
+                                    "13": "5"
+                                },
+                                {
+                                    "player": "Zest BLD",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "5",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "crazyguy BLD",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Retla BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "sScary BLD",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Deryeon BLD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "GE",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "0 (0)",
+                        "4": "5 (5)",
+                        "5": "11 (7)"
+                    },
+                    {
+                        "0": "BLD",
+                        "1": "1",
+                        "2": "4 (1)",
+                        "3": "2 (0)",
+                        "4": "4 (1)",
+                        "5": "9 (4)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "163263",
+                        "rows": [
+                            {
+                                "0": "GE",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "5 (5)",
+                                "5": "11 (7)"
+                            },
+                            {
+                                "0": "BLD",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (1)",
+                                "5": "9 (4)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "163264",
+                        "rows": [
+                            {
+                                "0": "GE",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "5 (5)",
+                                "5": "11 (7)"
+                            },
+                            {
+                                "0": "BLD",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (1)",
+                                "5": "9 (4)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "163265",
+                        "rows": [
+                            {
+                                "0": "GE",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "5 (5)",
+                                "5": "11 (7)"
+                            },
+                            {
+                                "0": "BLD",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (1)",
+                                "5": "9 (4)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

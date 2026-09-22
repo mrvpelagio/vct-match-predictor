@@ -1,0 +1,2337 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "509827",
+                "event": {
+                    "name": "VCT 2025: Americas Stage 2 Group Stage: Week 5",
+                    "series": "Group Stage: Week 5",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "August 17, 2025 5:00 AM PST Patch 11.0",
+                "map_vetos": "EG ban Sunset; FUR ban Lotus; EG pick Corrode; FUR pick Ascent; EG ban Haven; FUR ban Bind; Icebox remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "2406",
+                        "name": "FURIA",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/632be843b7d51.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "5248",
+                        "name": "Evil Geniuses",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/667462f046618.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/2kszE7vWYbs?t=137"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/_BSzqVVHSYM?t=60"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "CorrodePICK",
+                        "picked_by": "",
+                        "duration": "52:56",
+                        "score": {
+                            "team1": 6,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "2",
+                            "team2": "8"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "adverso",
+                                    "agent": "Fade",
+                                    "rating": "0.95",
+                                    "acs": "209",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "-2",
+                                    "kast": "68%",
+                                    "adr": "127",
+                                    "hs_pct": "19%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Palla",
+                                    "agent": "Neon",
+                                    "rating": "0.95",
+                                    "acs": "212",
+                                    "kills": "14",
+                                    "deaths": "16",
+                                    "assists": "5",
+                                    "kd_diff": "-2",
+                                    "kast": "63%",
+                                    "adr": "147",
+                                    "hs_pct": "35%",
+                                    "fk": "3",
+                                    "fd": "7",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "Urango",
+                                    "agent": "Sage",
+                                    "rating": "0.83",
+                                    "acs": "189",
+                                    "kills": "13",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "74%",
+                                    "adr": "116",
+                                    "hs_pct": "48%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "tuyz",
+                                    "agent": "Omen",
+                                    "rating": "0.62",
+                                    "acs": "154",
+                                    "kills": "10",
+                                    "deaths": "17",
+                                    "assists": "4",
+                                    "kd_diff": "-7",
+                                    "kast": "53%",
+                                    "adr": "109",
+                                    "hs_pct": "21%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "heat",
+                                    "agent": "Viper",
+                                    "rating": "0.16",
+                                    "acs": "63",
+                                    "kills": "4",
+                                    "deaths": "18",
+                                    "assists": "3",
+                                    "kd_diff": "-14",
+                                    "kast": "42%",
+                                    "adr": "56",
+                                    "hs_pct": "31%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "NaturE",
+                                    "agent": "Sova",
+                                    "rating": "1.39",
+                                    "acs": "238",
+                                    "kills": "14",
+                                    "deaths": "9",
+                                    "assists": "15",
+                                    "kd_diff": "+5",
+                                    "kast": "89%",
+                                    "adr": "162",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "yay",
+                                    "agent": "Chamber",
+                                    "rating": "1.37",
+                                    "acs": "280",
+                                    "kills": "18",
+                                    "deaths": "12",
+                                    "assists": "4",
+                                    "kd_diff": "+6",
+                                    "kast": "74%",
+                                    "adr": "170",
+                                    "hs_pct": "30%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "icy",
+                                    "agent": "Neon",
+                                    "rating": "1.36",
+                                    "acs": "254",
+                                    "kills": "20",
+                                    "deaths": "11",
+                                    "assists": "3",
+                                    "kd_diff": "+9",
+                                    "kast": "84%",
+                                    "adr": "160",
+                                    "hs_pct": "35%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Derrek",
+                                    "agent": "Omen",
+                                    "rating": "1.32",
+                                    "acs": "266",
+                                    "kills": "17",
+                                    "deaths": "12",
+                                    "assists": "9",
+                                    "kd_diff": "+5",
+                                    "kast": "89%",
+                                    "adr": "157",
+                                    "hs_pct": "31%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "supamen",
+                                    "agent": "Viper",
+                                    "rating": "1.12",
+                                    "acs": "185",
+                                    "kills": "14",
+                                    "deaths": "10",
+                                    "assists": "3",
+                                    "kd_diff": "+4",
+                                    "kast": "68%",
+                                    "adr": "132",
+                                    "hs_pct": "41%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "NaturE EG",
+                                        "2": "supamen EG",
+                                        "3": "yay EG",
+                                        "4": "icy EG",
+                                        "5": "Derrek EG"
+                                    }
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "3 8 -5",
+                                        "4": "3 10 -7",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "kills_vs": {
+                                        "1": "3 4 -1",
+                                        "2": "5 9 -4",
+                                        "3": "6 8 -2",
+                                        "4": "3 8 -5",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz FUR",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "5 8 -3",
+                                        "3": "5 7 -2",
+                                        "4": "6 8 -2",
+                                        "5": "3 6 -3"
+                                    }
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "2 10 -8",
+                                        "3": "7 9 -2",
+                                        "4": "6 6 +0",
+                                        "5": "3 2 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "5 5 +0",
+                                        "3": "8 9 -1",
+                                        "4": "7 6 +1",
+                                        "5": "7 5 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "tuyz FUR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "supamen EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "67",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "yay EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "73",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derrek EG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NaturE EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "10",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "icy EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "10 (4)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "2 (1)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "AscentPICK",
+                        "picked_by": "",
+                        "duration": "52:13",
+                        "score": {
+                            "team1": 9,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "8"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "5"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "heat",
+                                    "agent": "Chamber",
+                                    "rating": "1.16",
+                                    "acs": "202",
+                                    "kills": "16",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "+1",
+                                    "kast": "73%",
+                                    "adr": "130",
+                                    "hs_pct": "21%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Palla",
+                                    "agent": "Yoru",
+                                    "rating": "1.15",
+                                    "acs": "223",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "68%",
+                                    "adr": "143",
+                                    "hs_pct": "47%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "tuyz",
+                                    "agent": "Omen",
+                                    "rating": "0.98",
+                                    "acs": "182",
+                                    "kills": "15",
+                                    "deaths": "17",
+                                    "assists": "9",
+                                    "kd_diff": "-2",
+                                    "kast": "73%",
+                                    "adr": "128",
+                                    "hs_pct": "20%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "adverso",
+                                    "agent": "Vyse",
+                                    "rating": "0.57",
+                                    "acs": "133",
+                                    "kills": "10",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "-8",
+                                    "kast": "64%",
+                                    "adr": "85",
+                                    "hs_pct": "20%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Urango",
+                                    "agent": "Sova",
+                                    "rating": "0.48",
+                                    "acs": "156",
+                                    "kills": "11",
+                                    "deaths": "20",
+                                    "assists": "5",
+                                    "kd_diff": "-9",
+                                    "kast": "77%",
+                                    "adr": "118",
+                                    "hs_pct": "36%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "supamen",
+                                    "agent": "Omen",
+                                    "rating": "1.64",
+                                    "acs": "260",
+                                    "kills": "21",
+                                    "deaths": "11",
+                                    "assists": "19",
+                                    "kd_diff": "+10",
+                                    "kast": "91%",
+                                    "adr": "158",
+                                    "hs_pct": "38%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "yay",
+                                    "agent": "Jett",
+                                    "rating": "1.25",
+                                    "acs": "316",
+                                    "kills": "23",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "+6",
+                                    "kast": "64%",
+                                    "adr": "209",
+                                    "hs_pct": "22%",
+                                    "fk": "6",
+                                    "fd": "6",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "icy",
+                                    "agent": "Cypher",
+                                    "rating": "1.21",
+                                    "acs": "204",
+                                    "kills": "18",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "+4",
+                                    "kast": "82%",
+                                    "adr": "130",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Derrek",
+                                    "agent": "Sova",
+                                    "rating": "0.98",
+                                    "acs": "173",
+                                    "kills": "13",
+                                    "deaths": "14",
+                                    "assists": "9",
+                                    "kd_diff": "-1",
+                                    "kast": "77%",
+                                    "adr": "133",
+                                    "hs_pct": "16%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "NaturE",
+                                    "agent": "Kayo",
+                                    "rating": "0.93",
+                                    "acs": "138",
+                                    "kills": "9",
+                                    "deaths": "13",
+                                    "assists": "20",
+                                    "kd_diff": "-4",
+                                    "kast": "91%",
+                                    "adr": "91",
+                                    "hs_pct": "6%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "NaturE EG",
+                                        "2": "supamen EG",
+                                        "3": "yay EG",
+                                        "4": "icy EG",
+                                        "5": "Derrek EG"
+                                    }
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "3 8 -5",
+                                        "4": "3 10 -7",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "kills_vs": {
+                                        "1": "3 4 -1",
+                                        "2": "5 9 -4",
+                                        "3": "6 8 -2",
+                                        "4": "3 8 -5",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz FUR",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "5 8 -3",
+                                        "3": "5 7 -2",
+                                        "4": "6 8 -2",
+                                        "5": "3 6 -3"
+                                    }
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "2 10 -8",
+                                        "3": "7 9 -2",
+                                        "4": "6 6 +0",
+                                        "5": "3 2 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "5 5 +0",
+                                        "3": "8 9 -1",
+                                        "4": "7 6 +1",
+                                        "5": "7 5 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "tuyz FUR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "supamen EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "67",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "yay EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "73",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derrek EG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NaturE EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "10",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "icy EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "FUR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "10 (4)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "2 (1)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2025/08/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509823/furia-vs-g2-esports-vct-2025-americas-stage-2-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/08/02",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "2Game Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/509813/2game-esports-vs-furia-vct-2025-americas-stage-2-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509808/furia-vs-sentinels-vct-2025-americas-stage-2-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/19",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509801/cloud9-vs-furia-vct-2025-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/06",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/511522/furia-vs-leviat-n-tixinha-sacy-invitational-by-bonoxs-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/08/10",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509821/sentinels-vs-evil-geniuses-vct-2025-americas-stage-2-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/08/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/509817/g2-esports-vs-evil-geniuses-vct-2025-americas-stage-2-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509811/cloud9-vs-evil-geniuses-vct-2025-americas-stage-2-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "2Game Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/509803/evil-geniuses-vs-2game-esports-vct-2025-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/05/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/488019/mibr-vs-evil-geniuses-esports-world-cup-2025-elim"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "NaturE EG",
+                                "2": "supamen EG",
+                                "3": "yay EG",
+                                "4": "icy EG",
+                                "5": "Derrek EG"
+                            }
+                        },
+                        {
+                            "player": "heat FUR",
+                            "kills_vs": {
+                                "1": "4 2 +2",
+                                "2": "4 3 +1",
+                                "3": "3 8 -5",
+                                "4": "3 10 -7",
+                                "5": "6 9 -3"
+                            }
+                        },
+                        {
+                            "player": "Urango FUR",
+                            "kills_vs": {
+                                "1": "3 4 -1",
+                                "2": "5 9 -4",
+                                "3": "6 8 -2",
+                                "4": "3 8 -5",
+                                "5": "7 8 -1"
+                            }
+                        },
+                        {
+                            "player": "tuyz FUR",
+                            "kills_vs": {
+                                "1": "6 5 +1",
+                                "2": "5 8 -3",
+                                "3": "5 7 -2",
+                                "4": "6 8 -2",
+                                "5": "3 6 -3"
+                            }
+                        },
+                        {
+                            "player": "adverso FUR",
+                            "kills_vs": {
+                                "1": "5 6 -1",
+                                "2": "2 10 -8",
+                                "3": "7 9 -2",
+                                "4": "6 6 +0",
+                                "5": "3 2 +1"
+                            }
+                        },
+                        {
+                            "player": "Palla FUR",
+                            "kills_vs": {
+                                "1": "4 6 -2",
+                                "2": "5 5 +0",
+                                "3": "8 9 -1",
+                                "4": "7 6 +1",
+                                "5": "7 5 +2"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "tuyz FUR",
+                            "1": "",
+                            "2": "6",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "43",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "adverso FUR",
+                            "1": "",
+                            "2": "4",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "44",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Urango FUR",
+                            "1": "",
+                            "2": "3",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "42",
+                            "12": "6",
+                            "13": "0"
+                        },
+                        {
+                            "player": "heat FUR",
+                            "1": "",
+                            "2": "1",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "39",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Palla FUR",
+                            "1": "",
+                            "2": "8",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "62",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "supamen EG",
+                            "1": "",
+                            "2": "6",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "67",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "yay EG",
+                            "1": "",
+                            "2": "5",
+                            "3": "5",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "73",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Derrek EG",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "NaturE EG",
+                            "1": "",
+                            "2": "2",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "57",
+                            "12": "10",
+                            "13": "2"
+                        },
+                        {
+                            "player": "icy EG",
+                            "1": "",
+                            "2": "6",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "0",
+                            "13": "2"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "224791",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "NaturE EG",
+                                        "2": "supamen EG",
+                                        "3": "yay EG",
+                                        "4": "icy EG",
+                                        "5": "Derrek EG"
+                                    }
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "3 8 -5",
+                                        "4": "3 10 -7",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "kills_vs": {
+                                        "1": "3 4 -1",
+                                        "2": "5 9 -4",
+                                        "3": "6 8 -2",
+                                        "4": "3 8 -5",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz FUR",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "5 8 -3",
+                                        "3": "5 7 -2",
+                                        "4": "6 8 -2",
+                                        "5": "3 6 -3"
+                                    }
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "2 10 -8",
+                                        "3": "7 9 -2",
+                                        "4": "6 6 +0",
+                                        "5": "3 2 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "5 5 +0",
+                                        "3": "8 9 -1",
+                                        "4": "7 6 +1",
+                                        "5": "7 5 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "tuyz FUR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "supamen EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "67",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "yay EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "73",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derrek EG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NaturE EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "10",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "icy EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "224792",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "NaturE EG",
+                                        "2": "supamen EG",
+                                        "3": "yay EG",
+                                        "4": "icy EG",
+                                        "5": "Derrek EG"
+                                    }
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "3 8 -5",
+                                        "4": "3 10 -7",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "kills_vs": {
+                                        "1": "3 4 -1",
+                                        "2": "5 9 -4",
+                                        "3": "6 8 -2",
+                                        "4": "3 8 -5",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz FUR",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "5 8 -3",
+                                        "3": "5 7 -2",
+                                        "4": "6 8 -2",
+                                        "5": "3 6 -3"
+                                    }
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "2 10 -8",
+                                        "3": "7 9 -2",
+                                        "4": "6 6 +0",
+                                        "5": "3 2 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "5 5 +0",
+                                        "3": "8 9 -1",
+                                        "4": "7 6 +1",
+                                        "5": "7 5 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "tuyz FUR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "supamen EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "67",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "yay EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "73",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derrek EG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NaturE EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "10",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "icy EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "224793",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "NaturE EG",
+                                        "2": "supamen EG",
+                                        "3": "yay EG",
+                                        "4": "icy EG",
+                                        "5": "Derrek EG"
+                                    }
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "kills_vs": {
+                                        "1": "4 2 +2",
+                                        "2": "4 3 +1",
+                                        "3": "3 8 -5",
+                                        "4": "3 10 -7",
+                                        "5": "6 9 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "kills_vs": {
+                                        "1": "3 4 -1",
+                                        "2": "5 9 -4",
+                                        "3": "6 8 -2",
+                                        "4": "3 8 -5",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz FUR",
+                                    "kills_vs": {
+                                        "1": "6 5 +1",
+                                        "2": "5 8 -3",
+                                        "3": "5 7 -2",
+                                        "4": "6 8 -2",
+                                        "5": "3 6 -3"
+                                    }
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "2 10 -8",
+                                        "3": "7 9 -2",
+                                        "4": "6 6 +0",
+                                        "5": "3 2 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "5 5 +0",
+                                        "3": "8 9 -1",
+                                        "4": "7 6 +1",
+                                        "5": "7 5 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "tuyz FUR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "adverso FUR",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "44",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Urango FUR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "heat FUR",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "39",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Palla FUR",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "supamen EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "67",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "yay EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "73",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Derrek EG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NaturE EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "10",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "icy EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "FUR",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "5 (1)",
+                        "5": "10 (4)"
+                    },
+                    {
+                        "0": "EG",
+                        "1": "1",
+                        "2": "3 (2)",
+                        "3": "1 (0)",
+                        "4": "2 (1)",
+                        "5": "13 (10)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "224791",
+                        "rows": [
+                            {
+                                "0": "FUR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "10 (4)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "2 (1)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "224792",
+                        "rows": [
+                            {
+                                "0": "FUR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "10 (4)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "2 (1)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "224793",
+                        "rows": [
+                            {
+                                "0": "FUR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (1)",
+                                "5": "10 (4)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "2 (1)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

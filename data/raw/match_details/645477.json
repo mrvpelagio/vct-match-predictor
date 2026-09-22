@@ -1,0 +1,2894 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "645477",
+                "event": {
+                    "name": "VCT 2026: Americas Stage 1 Group Stage: Week 1",
+                    "series": "Group Stage: Week 1",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "Sunday, April 12 8:35 AM PST Patch 12.06",
+                "map_vetos": "ENVY ban Split; LOUD ban Fracture; ENVY pick Lotus; LOUD pick Pearl; ENVY ban Haven; LOUD ban Bind; Breeze remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "427",
+                        "name": "ENVY",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/5f3ca822464a3.png",
+                        "score": "1",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "6961",
+                        "name": "LOUD",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/ZXTW6zboQiw?t=9"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/ZXTW6zboQiw?t=2848"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/ZXTW6zboQiw?t=5592"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "LotusPICK",
+                        "picked_by": "",
+                        "duration": "55:35",
+                        "score": {
+                            "team1": 13,
+                            "team2": 9
+                        },
+                        "score_ct": {
+                            "team1": "9",
+                            "team2": "6"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Rossy",
+                                    "agent": "Viper",
+                                    "rating": "1.25",
+                                    "acs": "266",
+                                    "kills": "22",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "+7",
+                                    "kast": "77%",
+                                    "adr": "168",
+                                    "hs_pct": "38%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "keznit",
+                                    "agent": "Neon",
+                                    "rating": "1.07",
+                                    "acs": "237",
+                                    "kills": "20",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "+5",
+                                    "kast": "64%",
+                                    "adr": "145",
+                                    "hs_pct": "18%",
+                                    "fk": "6",
+                                    "fd": "4",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "P0PPIN",
+                                    "agent": "Fade",
+                                    "rating": "0.97",
+                                    "acs": "180",
+                                    "kills": "14",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "0",
+                                    "kast": "77%",
+                                    "adr": "123",
+                                    "hs_pct": "10%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Veto",
+                                    "rating": "0.97",
+                                    "acs": "190",
+                                    "kills": "16",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "+2",
+                                    "kast": "73%",
+                                    "adr": "134",
+                                    "hs_pct": "61%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Eggsterr",
+                                    "agent": "Omen",
+                                    "rating": "0.94",
+                                    "acs": "172",
+                                    "kills": "13",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "-1",
+                                    "kast": "86%",
+                                    "adr": "115",
+                                    "hs_pct": "41%",
+                                    "fk": "4",
+                                    "fd": "1",
+                                    "fk_diff": "+3"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "lukxo",
+                                    "agent": "Viper",
+                                    "rating": "1.31",
+                                    "acs": "258",
+                                    "kills": "20",
+                                    "deaths": "16",
+                                    "assists": "8",
+                                    "kd_diff": "+4",
+                                    "kast": "64%",
+                                    "adr": "166",
+                                    "hs_pct": "22%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Darker",
+                                    "agent": "Vyse",
+                                    "rating": "1.29",
+                                    "acs": "294",
+                                    "kills": "22",
+                                    "deaths": "19",
+                                    "assists": "4",
+                                    "kd_diff": "+3",
+                                    "kast": "59%",
+                                    "adr": "172",
+                                    "hs_pct": "19%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Virtyy",
+                                    "agent": "Raze",
+                                    "rating": "0.96",
+                                    "acs": "190",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "3",
+                                    "kd_diff": "-3",
+                                    "kast": "82%",
+                                    "adr": "130",
+                                    "hs_pct": "27%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Fade",
+                                    "rating": "0.63",
+                                    "acs": "106",
+                                    "kills": "9",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "59%",
+                                    "adr": "83",
+                                    "hs_pct": "19%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "Bati",
+                                    "agent": "Omen",
+                                    "rating": "0.46",
+                                    "acs": "123",
+                                    "kills": "8",
+                                    "deaths": "19",
+                                    "assists": "10",
+                                    "kd_diff": "-11",
+                                    "kast": "64%",
+                                    "adr": "74",
+                                    "hs_pct": "30%",
+                                    "fk": "1",
+                                    "fd": "5",
+                                    "fk_diff": "-4"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "PearlPICK",
+                        "picked_by": "",
+                        "duration": "47:29",
+                        "score": {
+                            "team1": 11,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "6"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "7"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Astra",
+                                    "rating": "1.26",
+                                    "acs": "219",
+                                    "kills": "20",
+                                    "deaths": "16",
+                                    "assists": "16",
+                                    "kd_diff": "+4",
+                                    "kast": "83%",
+                                    "adr": "137",
+                                    "hs_pct": "40%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "keznit",
+                                    "agent": "Waylay",
+                                    "rating": "1.08",
+                                    "acs": "230",
+                                    "kills": "19",
+                                    "deaths": "17",
+                                    "assists": "8",
+                                    "kd_diff": "+2",
+                                    "kast": "71%",
+                                    "adr": "140",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "P0PPIN",
+                                    "agent": "Sova",
+                                    "rating": "1.00",
+                                    "acs": "230",
+                                    "kills": "19",
+                                    "deaths": "20",
+                                    "assists": "5",
+                                    "kd_diff": "-1",
+                                    "kast": "71%",
+                                    "adr": "159",
+                                    "hs_pct": "21%",
+                                    "fk": "0",
+                                    "fd": "4",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "Rossy",
+                                    "agent": "Tejo",
+                                    "rating": "0.91",
+                                    "acs": "175",
+                                    "kills": "14",
+                                    "deaths": "18",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "63%",
+                                    "adr": "126",
+                                    "hs_pct": "20%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Eggsterr",
+                                    "agent": "Veto",
+                                    "rating": "0.16",
+                                    "acs": "66",
+                                    "kills": "6",
+                                    "deaths": "22",
+                                    "assists": "1",
+                                    "kd_diff": "-16",
+                                    "kast": "58%",
+                                    "adr": "45",
+                                    "hs_pct": "25%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Darker",
+                                    "agent": "Astra",
+                                    "rating": "1.61",
+                                    "acs": "310",
+                                    "kills": "28",
+                                    "deaths": "15",
+                                    "assists": "9",
+                                    "kd_diff": "+13",
+                                    "kast": "96%",
+                                    "adr": "191",
+                                    "hs_pct": "32%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "lukxo",
+                                    "agent": "Chamber",
+                                    "rating": "1.32",
+                                    "acs": "254",
+                                    "kills": "23",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "+8",
+                                    "kast": "67%",
+                                    "adr": "148",
+                                    "hs_pct": "32%",
+                                    "fk": "5",
+                                    "fd": "1",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Sova",
+                                    "rating": "1.18",
+                                    "acs": "217",
+                                    "kills": "18",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "+3",
+                                    "kast": "71%",
+                                    "adr": "142",
+                                    "hs_pct": "37%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Bati",
+                                    "agent": "Kayo",
+                                    "rating": "0.85",
+                                    "acs": "138",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "15",
+                                    "kd_diff": "-5",
+                                    "kast": "79%",
+                                    "adr": "94",
+                                    "hs_pct": "19%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Virtyy",
+                                    "agent": "Neon",
+                                    "rating": "0.74",
+                                    "acs": "169",
+                                    "kills": "14",
+                                    "deaths": "18",
+                                    "assists": "8",
+                                    "kd_diff": "-4",
+                                    "kast": "88%",
+                                    "adr": "124",
+                                    "hs_pct": "24%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team2",
+                                "side": "ct"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "Breeze",
+                        "picked_by": "",
+                        "duration": "40:30",
+                        "score": {
+                            "team1": 8,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "4",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "8"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Rossy",
+                                    "agent": "Viper",
+                                    "rating": "1.46",
+                                    "acs": "267",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "+7",
+                                    "kast": "62%",
+                                    "adr": "183",
+                                    "hs_pct": "35%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Iso",
+                                    "rating": "1.02",
+                                    "acs": "233",
+                                    "kills": "18",
+                                    "deaths": "17",
+                                    "assists": "4",
+                                    "kd_diff": "+1",
+                                    "kast": "71%",
+                                    "adr": "137",
+                                    "hs_pct": "67%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "P0PPIN",
+                                    "agent": "Sova",
+                                    "rating": "0.66",
+                                    "acs": "133",
+                                    "kills": "8",
+                                    "deaths": "17",
+                                    "assists": "8",
+                                    "kd_diff": "-9",
+                                    "kast": "57%",
+                                    "adr": "96",
+                                    "hs_pct": "26%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "keznit",
+                                    "agent": "Neon",
+                                    "rating": "0.43",
+                                    "acs": "118",
+                                    "kills": "7",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "-11",
+                                    "kast": "48%",
+                                    "adr": "78",
+                                    "hs_pct": "11%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Eggsterr",
+                                    "agent": "Harbor",
+                                    "rating": "0.33",
+                                    "acs": "104",
+                                    "kills": "7",
+                                    "deaths": "20",
+                                    "assists": "3",
+                                    "kd_diff": "-13",
+                                    "kast": "52%",
+                                    "adr": "67",
+                                    "hs_pct": "20%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "lukxo",
+                                    "agent": "Harbor",
+                                    "rating": "1.71",
+                                    "acs": "308",
+                                    "kills": "24",
+                                    "deaths": "12",
+                                    "assists": "15",
+                                    "kd_diff": "+12",
+                                    "kast": "95%",
+                                    "adr": "191",
+                                    "hs_pct": "43%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Darker",
+                                    "agent": "Astra",
+                                    "rating": "1.62",
+                                    "acs": "308",
+                                    "kills": "25",
+                                    "deaths": "12",
+                                    "assists": "10",
+                                    "kd_diff": "+13",
+                                    "kast": "81%",
+                                    "adr": "173",
+                                    "hs_pct": "24%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Bati",
+                                    "agent": "Kayo",
+                                    "rating": "1.13",
+                                    "acs": "194",
+                                    "kills": "12",
+                                    "deaths": "13",
+                                    "assists": "19",
+                                    "kd_diff": "-1",
+                                    "kast": "81%",
+                                    "adr": "120",
+                                    "hs_pct": "12%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Virtyy",
+                                    "agent": "Jett",
+                                    "rating": "0.96",
+                                    "acs": "190",
+                                    "kills": "14",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "+1",
+                                    "kast": "71%",
+                                    "adr": "136",
+                                    "hs_pct": "21%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Sova",
+                                    "rating": "0.95",
+                                    "acs": "148",
+                                    "kills": "11",
+                                    "deaths": "11",
+                                    "assists": "10",
+                                    "kd_diff": "0",
+                                    "kast": "76%",
+                                    "adr": "107",
+                                    "hs_pct": "12%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2026/02/07",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/596421/envy-vs-evil-geniuses-vct-2026-americas-kickoff-lr2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/596414/envy-vs-cloud9-vct-2026-americas-kickoff-mr2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/596411/kr-esports-vs-envy-vct-2026-americas-kickoff-mr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/18",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/596403/mibr-vs-envy-vct-2026-americas-kickoff-ur2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/596399/envy-vs-evil-geniuses-vct-2026-americas-kickoff-ur1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/01",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/596419/loud-vs-evil-geniuses-vct-2026-americas-kickoff-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/596409/loud-vs-100-thieves-vct-2026-americas-kickoff-mr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/596398/loud-vs-cloud9-vct-2026-americas-kickoff-ur1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/08/18",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/509831/mibr-vs-loud-vct-2025-americas-stage-2-w5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/08/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/509824/loud-vs-100-thieves-vct-2025-americas-stage-2-w4"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "lukxo LOUD",
+                                "2": "cauanzin LOUD",
+                                "3": "Virtyy LOUD",
+                                "4": "Darker LOUD",
+                                "5": "Bati LOUD"
+                            }
+                        },
+                        {
+                            "player": "Rossy ENVY",
+                            "kills_vs": {
+                                "1": "13 14 -1",
+                                "2": "8 8 +0",
+                                "3": "13 8 +5",
+                                "4": "12 14 -2",
+                                "5": "11 3 +8"
+                            }
+                        },
+                        {
+                            "player": "P0PPIN ENVY",
+                            "kills_vs": {
+                                "1": "7 16 -9",
+                                "2": "11 7 +4",
+                                "3": "6 5 +1",
+                                "4": "7 18 -11",
+                                "5": "10 5 +5"
+                            }
+                        },
+                        {
+                            "player": "Demon1 ENVY",
+                            "kills_vs": {
+                                "1": "10 8 +2",
+                                "2": "9 7 +2",
+                                "3": "13 8 +5",
+                                "4": "12 14 -2",
+                                "5": "10 10 +0"
+                            }
+                        },
+                        {
+                            "player": "keznit ENVY",
+                            "kills_vs": {
+                                "1": "8 12 -4",
+                                "2": "9 10 -1",
+                                "3": "7 10 -3",
+                                "4": "10 14 -4",
+                                "5": "12 4 +8"
+                            }
+                        },
+                        {
+                            "player": "Eggsterr ENVY",
+                            "kills_vs": {
+                                "1": "5 17 -12",
+                                "2": "4 6 -2",
+                                "3": "8 10 -2",
+                                "4": "5 15 -10",
+                                "5": "4 8 -4"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Rossy ENVY",
+                            "1": "",
+                            "2": "9",
+                            "3": "5",
+                            "4": "2",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "1",
+                            "10": "",
+                            "11": "70",
+                            "12": "4",
+                            "13": "1"
+                        },
+                        {
+                            "player": "keznit ENVY",
+                            "1": "",
+                            "2": "10",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "40",
+                            "12": "1",
+                            "13": "3"
+                        },
+                        {
+                            "player": "P0PPIN ENVY",
+                            "1": "",
+                            "2": "5",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "53",
+                            "12": "6",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Demon1 ENVY",
+                            "1": "",
+                            "2": "10",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "4",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Eggsterr ENVY",
+                            "1": "",
+                            "2": "4",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "29",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Virtyy LOUD",
+                            "1": "",
+                            "2": "9",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Bati LOUD",
+                            "1": "",
+                            "2": "5",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "5",
+                            "13": "2"
+                        },
+                        {
+                            "player": "cauanzin LOUD",
+                            "1": "",
+                            "2": "3",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "10",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Darker LOUD",
+                            "1": "",
+                            "2": "6",
+                            "3": "9",
+                            "4": "4",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "68",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "lukxo LOUD",
+                            "1": "",
+                            "2": "9",
+                            "3": "6",
+                            "4": "4",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "2",
+                            "9": "",
+                            "10": "",
+                            "11": "76",
+                            "12": "0",
+                            "13": "2"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "258584",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258585",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258586",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "lukxo LOUD",
+                                        "2": "cauanzin LOUD",
+                                        "3": "Virtyy LOUD",
+                                        "4": "Darker LOUD",
+                                        "5": "Bati LOUD"
+                                    }
+                                },
+                                {
+                                    "player": "Rossy ENVY",
+                                    "kills_vs": {
+                                        "1": "13 14 -1",
+                                        "2": "8 8 +0",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "11 3 +8"
+                                    }
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "kills_vs": {
+                                        "1": "7 16 -9",
+                                        "2": "11 7 +4",
+                                        "3": "6 5 +1",
+                                        "4": "7 18 -11",
+                                        "5": "10 5 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "kills_vs": {
+                                        "1": "10 8 +2",
+                                        "2": "9 7 +2",
+                                        "3": "13 8 +5",
+                                        "4": "12 14 -2",
+                                        "5": "10 10 +0"
+                                    }
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "kills_vs": {
+                                        "1": "8 12 -4",
+                                        "2": "9 10 -1",
+                                        "3": "7 10 -3",
+                                        "4": "10 14 -4",
+                                        "5": "12 4 +8"
+                                    }
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "kills_vs": {
+                                        "1": "5 17 -12",
+                                        "2": "4 6 -2",
+                                        "3": "8 10 -2",
+                                        "4": "5 15 -10",
+                                        "5": "4 8 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Rossy ENVY",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "5",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "70",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "keznit ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "P0PPIN ENVY",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 ENVY",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Eggsterr ENVY",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "29",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Virtyy LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Bati LOUD",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "5",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Darker LOUD",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "9",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "68",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "lukxo LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "6",
+                                    "4": "4",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "2",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "76",
+                                    "12": "0",
+                                    "13": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "ENVY",
+                        "1": "2",
+                        "2": "3 (2)",
+                        "3": "1 (0)",
+                        "4": "6 (3)",
+                        "5": "12 (8)"
+                    },
+                    {
+                        "0": "LOUD",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "2 (1)",
+                        "4": "3 (1)",
+                        "5": "13 (7)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "258584",
+                        "rows": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258585",
+                        "rows": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258586",
+                        "rows": [
+                            {
+                                "0": "ENVY",
+                                "1": "2",
+                                "2": "3 (2)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "LOUD",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "2 (1)",
+                                "4": "3 (1)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

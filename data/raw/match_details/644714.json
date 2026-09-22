@@ -1,0 +1,2321 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "644714",
+                "event": {
+                    "name": "VCT 2026: EMEA Stage 1 Group Stage: Week 1",
+                    "series": "Group Stage: Week 1",
+                    "logo": "https://owcdn.net/img/65ab59620a233.png"
+                },
+                "date": "Saturday, April 4 2:55 AM PST Patch 12.05",
+                "map_vetos": "PCF ban Haven; BBL ban Fracture; PCF pick Split; BBL pick Breeze; PCF ban Lotus; BBL ban Bind; Pearl remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "397",
+                        "name": "BBL Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "3478",
+                        "name": "PCIFIC Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/Ze91eRIMmj8?t=17633"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/Ze91eRIMmj8?t=21591"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "SplitPICK",
+                        "picked_by": "",
+                        "duration": "55:08",
+                        "score": {
+                            "team1": 13,
+                            "team2": 11
+                        },
+                        "score_ct": {
+                            "team1": "8",
+                            "team2": "7"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "4"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Ros\u00e9",
+                                    "agent": "Skye",
+                                    "rating": "1.27",
+                                    "acs": "268",
+                                    "kills": "23",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "+8",
+                                    "kast": "79%",
+                                    "adr": "166",
+                                    "hs_pct": "31%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Loita",
+                                    "agent": "Omen",
+                                    "rating": "1.11",
+                                    "acs": "221",
+                                    "kills": "21",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "+5",
+                                    "kast": "75%",
+                                    "adr": "154",
+                                    "hs_pct": "27%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Crewen",
+                                    "agent": "Viper",
+                                    "rating": "1.01",
+                                    "acs": "175",
+                                    "kills": "16",
+                                    "deaths": "14",
+                                    "assists": "6",
+                                    "kd_diff": "+2",
+                                    "kast": "67%",
+                                    "adr": "118",
+                                    "hs_pct": "31%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "lovers rock",
+                                    "agent": "Waylay",
+                                    "rating": "0.89",
+                                    "acs": "190",
+                                    "kills": "15",
+                                    "deaths": "17",
+                                    "assists": "4",
+                                    "kd_diff": "-2",
+                                    "kast": "71%",
+                                    "adr": "125",
+                                    "hs_pct": "34%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Lar0k",
+                                    "agent": "Neon",
+                                    "rating": "0.41",
+                                    "acs": "100",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "0",
+                                    "kd_diff": "-7",
+                                    "kast": "54%",
+                                    "adr": "57",
+                                    "hs_pct": "14%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "seven",
+                                    "agent": "Raze",
+                                    "rating": "1.08",
+                                    "acs": "244",
+                                    "kills": "19",
+                                    "deaths": "19",
+                                    "assists": "3",
+                                    "kd_diff": "0",
+                                    "kast": "71%",
+                                    "adr": "152",
+                                    "hs_pct": "20%",
+                                    "fk": "5",
+                                    "fd": "4",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "al0rante",
+                                    "agent": "Viper",
+                                    "rating": "1.05",
+                                    "acs": "205",
+                                    "kills": "17",
+                                    "deaths": "18",
+                                    "assists": "12",
+                                    "kd_diff": "-1",
+                                    "kast": "75%",
+                                    "adr": "133",
+                                    "hs_pct": "44%",
+                                    "fk": "1",
+                                    "fd": "5",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "cNed",
+                                    "agent": "Waylay",
+                                    "rating": "0.99",
+                                    "acs": "187",
+                                    "kills": "18",
+                                    "deaths": "17",
+                                    "assists": "1",
+                                    "kd_diff": "+1",
+                                    "kast": "67%",
+                                    "adr": "130",
+                                    "hs_pct": "46%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "NINJA",
+                                    "agent": "Fade",
+                                    "rating": "0.94",
+                                    "acs": "157",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "-2",
+                                    "kast": "67%",
+                                    "adr": "117",
+                                    "hs_pct": "47%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "qpert",
+                                    "agent": "Astra",
+                                    "rating": "0.87",
+                                    "acs": "113",
+                                    "kills": "11",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "67%",
+                                    "adr": "80",
+                                    "hs_pct": "45%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team1",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "al0rante PCF",
+                                        "2": "NINJA PCF",
+                                        "3": "qpert PCF",
+                                        "4": "seven PCF",
+                                        "5": "cNed PCF"
+                                    }
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 8 -2",
+                                        "3": "5 1 +4",
+                                        "4": "4 6 -2",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "kills_vs": {
+                                        "1": "3 3 +0",
+                                        "2": "4 6 -2",
+                                        "3": "6 2 +4",
+                                        "4": "8 9 -1",
+                                        "5": "8 7 +1"
+                                    }
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "5 6 -1",
+                                        "3": "8 4 +4",
+                                        "4": "4 8 -4",
+                                        "5": "5 7 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "kills_vs": {
+                                        "1": "9 0 +9",
+                                        "2": "0 5 -5",
+                                        "3": "6 9 -3",
+                                        "4": "8 6 +2",
+                                        "5": "9 8 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "kills_vs": {
+                                        "1": "6 8 -2",
+                                        "2": "11 4 +7",
+                                        "3": "6 4 +2",
+                                        "4": "7 4 +3",
+                                        "5": "3 6 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cNed PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "al0rante PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "qpert PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "30",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "seven PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NINJA PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "5",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "15 (8)"
+                            },
+                            {
+                                "0": "PCF",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "7 (4)",
+                                "5": "12 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "BreezePICK",
+                        "picked_by": "",
+                        "duration": "45:10",
+                        "score": {
+                            "team1": 13,
+                            "team2": 8
+                        },
+                        "score_ct": {
+                            "team1": "7",
+                            "team2": "3"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "5"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Lar0k",
+                                    "agent": "Kayo",
+                                    "rating": "1.43",
+                                    "acs": "229",
+                                    "kills": "17",
+                                    "deaths": "11",
+                                    "assists": "7",
+                                    "kd_diff": "+6",
+                                    "kast": "76%",
+                                    "adr": "159",
+                                    "hs_pct": "33%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "lovers rock",
+                                    "agent": "Jett",
+                                    "rating": "1.18",
+                                    "acs": "240",
+                                    "kills": "18",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "+3",
+                                    "kast": "67%",
+                                    "adr": "153",
+                                    "hs_pct": "25%",
+                                    "fk": "6",
+                                    "fd": "3",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Ros\u00e9",
+                                    "agent": "Sova",
+                                    "rating": "0.96",
+                                    "acs": "147",
+                                    "kills": "10",
+                                    "deaths": "11",
+                                    "assists": "9",
+                                    "kd_diff": "-1",
+                                    "kast": "76%",
+                                    "adr": "113",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Crewen",
+                                    "agent": "Viper",
+                                    "rating": "0.94",
+                                    "acs": "200",
+                                    "kills": "16",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "+2",
+                                    "kast": "67%",
+                                    "adr": "142",
+                                    "hs_pct": "47%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Loita",
+                                    "agent": "Astra",
+                                    "rating": "0.85",
+                                    "acs": "115",
+                                    "kills": "8",
+                                    "deaths": "11",
+                                    "assists": "11",
+                                    "kd_diff": "-3",
+                                    "kast": "67%",
+                                    "adr": "77",
+                                    "hs_pct": "36%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "NINJA",
+                                    "agent": "Sova",
+                                    "rating": "1.27",
+                                    "acs": "201",
+                                    "kills": "16",
+                                    "deaths": "11",
+                                    "assists": "6",
+                                    "kd_diff": "+5",
+                                    "kast": "71%",
+                                    "adr": "116",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "seven",
+                                    "agent": "Kayo",
+                                    "rating": "1.24",
+                                    "acs": "221",
+                                    "kills": "14",
+                                    "deaths": "12",
+                                    "assists": "8",
+                                    "kd_diff": "+2",
+                                    "kast": "76%",
+                                    "adr": "168",
+                                    "hs_pct": "31%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "cNed",
+                                    "agent": "Jett",
+                                    "rating": "0.92",
+                                    "acs": "199",
+                                    "kills": "16",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "+2",
+                                    "kast": "76%",
+                                    "adr": "113",
+                                    "hs_pct": "18%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "qpert",
+                                    "agent": "Omen",
+                                    "rating": "0.58",
+                                    "acs": "115",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-7",
+                                    "kast": "71%",
+                                    "adr": "67",
+                                    "hs_pct": "33%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "al0rante",
+                                    "agent": "Viper",
+                                    "rating": "0.57",
+                                    "acs": "105",
+                                    "kills": "7",
+                                    "deaths": "16",
+                                    "assists": "9",
+                                    "kd_diff": "-9",
+                                    "kast": "57%",
+                                    "adr": "72",
+                                    "hs_pct": "44%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "al0rante PCF",
+                                        "2": "NINJA PCF",
+                                        "3": "qpert PCF",
+                                        "4": "seven PCF",
+                                        "5": "cNed PCF"
+                                    }
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 8 -2",
+                                        "3": "5 1 +4",
+                                        "4": "4 6 -2",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "kills_vs": {
+                                        "1": "3 3 +0",
+                                        "2": "4 6 -2",
+                                        "3": "6 2 +4",
+                                        "4": "8 9 -1",
+                                        "5": "8 7 +1"
+                                    }
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "5 6 -1",
+                                        "3": "8 4 +4",
+                                        "4": "4 8 -4",
+                                        "5": "5 7 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "kills_vs": {
+                                        "1": "9 0 +9",
+                                        "2": "0 5 -5",
+                                        "3": "6 9 -3",
+                                        "4": "8 6 +2",
+                                        "5": "9 8 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "kills_vs": {
+                                        "1": "6 8 -2",
+                                        "2": "11 4 +7",
+                                        "3": "6 4 +2",
+                                        "4": "7 4 +3",
+                                        "5": "3 6 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cNed PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "al0rante PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "qpert PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "30",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "seven PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NINJA PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "5",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "15 (8)"
+                            },
+                            {
+                                "0": "PCF",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "7 (4)",
+                                "5": "12 (5)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2026/03/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/626548/g2-esports-vs-bbl-esports-valorant-masters-santiago-2026-lr2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/626546/furia-vs-bbl-esports-valorant-masters-santiago-2026-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/626540/bbl-esports-vs-nrg-valorant-masters-santiago-2026-ubqf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Gentle Mates",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 2",
+                        "url": "https://www.vlr.gg/594750/gentle-mates-vs-bbl-esports-vct-2026-emea-kickoff-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/30",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Vitality",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/594749/bbl-esports-vs-team-vitality-vct-2026-emea-kickoff-ur3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "ULF Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/594762/pcific-esports-vs-ulf-esports-vct-2026-emea-kickoff-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/29",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "GIANTX",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/594753/pcific-esports-vs-giantx-vct-2026-emea-kickoff-mr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/01/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "BBL Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/594742/pcific-esports-vs-bbl-esports-vct-2026-emea-kickoff-ur1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/09/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Apeks",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "2 - 3",
+                        "url": "https://www.vlr.gg/399777/apeks-vs-pcific-espor-champions-tour-2024-emea-ascension-gf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/09/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "CGN Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/399779/cgn-esports-vs-pcific-espor-champions-tour-2024-emea-ascension-lbf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "al0rante PCF",
+                                "2": "NINJA PCF",
+                                "3": "qpert PCF",
+                                "4": "seven PCF",
+                                "5": "cNed PCF"
+                            }
+                        },
+                        {
+                            "player": "Lar0k BBL",
+                            "kills_vs": {
+                                "1": "5 6 -1",
+                                "2": "6 8 -2",
+                                "3": "5 1 +4",
+                                "4": "4 6 -2",
+                                "5": "6 6 +0"
+                            }
+                        },
+                        {
+                            "player": "Loita BBL",
+                            "kills_vs": {
+                                "1": "3 3 +0",
+                                "2": "4 6 -2",
+                                "3": "6 2 +4",
+                                "4": "8 9 -1",
+                                "5": "8 7 +1"
+                            }
+                        },
+                        {
+                            "player": "lovers rock BBL",
+                            "kills_vs": {
+                                "1": "11 7 +4",
+                                "2": "5 6 -1",
+                                "3": "8 4 +4",
+                                "4": "4 8 -4",
+                                "5": "5 7 -2"
+                            }
+                        },
+                        {
+                            "player": "Crewen BBL",
+                            "kills_vs": {
+                                "1": "9 0 +9",
+                                "2": "0 5 -5",
+                                "3": "6 9 -3",
+                                "4": "8 6 +2",
+                                "5": "9 8 +1"
+                            }
+                        },
+                        {
+                            "player": "Ros\u00e9 BBL",
+                            "kills_vs": {
+                                "1": "6 8 -2",
+                                "2": "11 4 +7",
+                                "3": "6 4 +2",
+                                "4": "7 4 +3",
+                                "5": "3 6 -3"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Ros\u00e9 BBL",
+                            "1": "",
+                            "2": "8",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "61",
+                            "12": "9",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Crewen BBL",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Loita BBL",
+                            "1": "",
+                            "2": "9",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "3",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Lar0k BBL",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "lovers rock BBL",
+                            "1": "",
+                            "2": "10",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "cNed PCF",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "al0rante PCF",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "qpert PCF",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "30",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "seven PCF",
+                            "1": "",
+                            "2": "7",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "1",
+                            "10": "",
+                            "11": "63",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "NINJA PCF",
+                            "1": "",
+                            "2": "7",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "5",
+                            "13": "2"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "258354",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "al0rante PCF",
+                                        "2": "NINJA PCF",
+                                        "3": "qpert PCF",
+                                        "4": "seven PCF",
+                                        "5": "cNed PCF"
+                                    }
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 8 -2",
+                                        "3": "5 1 +4",
+                                        "4": "4 6 -2",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "kills_vs": {
+                                        "1": "3 3 +0",
+                                        "2": "4 6 -2",
+                                        "3": "6 2 +4",
+                                        "4": "8 9 -1",
+                                        "5": "8 7 +1"
+                                    }
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "5 6 -1",
+                                        "3": "8 4 +4",
+                                        "4": "4 8 -4",
+                                        "5": "5 7 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "kills_vs": {
+                                        "1": "9 0 +9",
+                                        "2": "0 5 -5",
+                                        "3": "6 9 -3",
+                                        "4": "8 6 +2",
+                                        "5": "9 8 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "kills_vs": {
+                                        "1": "6 8 -2",
+                                        "2": "11 4 +7",
+                                        "3": "6 4 +2",
+                                        "4": "7 4 +3",
+                                        "5": "3 6 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cNed PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "al0rante PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "qpert PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "30",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "seven PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NINJA PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "5",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258355",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "al0rante PCF",
+                                        "2": "NINJA PCF",
+                                        "3": "qpert PCF",
+                                        "4": "seven PCF",
+                                        "5": "cNed PCF"
+                                    }
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 8 -2",
+                                        "3": "5 1 +4",
+                                        "4": "4 6 -2",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "kills_vs": {
+                                        "1": "3 3 +0",
+                                        "2": "4 6 -2",
+                                        "3": "6 2 +4",
+                                        "4": "8 9 -1",
+                                        "5": "8 7 +1"
+                                    }
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "5 6 -1",
+                                        "3": "8 4 +4",
+                                        "4": "4 8 -4",
+                                        "5": "5 7 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "kills_vs": {
+                                        "1": "9 0 +9",
+                                        "2": "0 5 -5",
+                                        "3": "6 9 -3",
+                                        "4": "8 6 +2",
+                                        "5": "9 8 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "kills_vs": {
+                                        "1": "6 8 -2",
+                                        "2": "11 4 +7",
+                                        "3": "6 4 +2",
+                                        "4": "7 4 +3",
+                                        "5": "3 6 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cNed PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "al0rante PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "qpert PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "30",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "seven PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NINJA PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "5",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258356",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "al0rante PCF",
+                                        "2": "NINJA PCF",
+                                        "3": "qpert PCF",
+                                        "4": "seven PCF",
+                                        "5": "cNed PCF"
+                                    }
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "kills_vs": {
+                                        "1": "5 6 -1",
+                                        "2": "6 8 -2",
+                                        "3": "5 1 +4",
+                                        "4": "4 6 -2",
+                                        "5": "6 6 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "kills_vs": {
+                                        "1": "3 3 +0",
+                                        "2": "4 6 -2",
+                                        "3": "6 2 +4",
+                                        "4": "8 9 -1",
+                                        "5": "8 7 +1"
+                                    }
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "5 6 -1",
+                                        "3": "8 4 +4",
+                                        "4": "4 8 -4",
+                                        "5": "5 7 -2"
+                                    }
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "kills_vs": {
+                                        "1": "9 0 +9",
+                                        "2": "0 5 -5",
+                                        "3": "6 9 -3",
+                                        "4": "8 6 +2",
+                                        "5": "9 8 +1"
+                                    }
+                                },
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "kills_vs": {
+                                        "1": "6 8 -2",
+                                        "2": "11 4 +7",
+                                        "3": "6 4 +2",
+                                        "4": "7 4 +3",
+                                        "5": "3 6 -3"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Ros\u00e9 BBL",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Crewen BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Loita BBL",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Lar0k BBL",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "lovers rock BBL",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cNed PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "al0rante PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "qpert PCF",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "30",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "seven PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "NINJA PCF",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "5",
+                                    "13": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "BBL",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "5 (4)",
+                        "5": "15 (8)"
+                    },
+                    {
+                        "0": "PCF",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (1)",
+                        "4": "7 (4)",
+                        "5": "12 (5)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "258354",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "15 (8)"
+                            },
+                            {
+                                "0": "PCF",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "7 (4)",
+                                "5": "12 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258355",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "15 (8)"
+                            },
+                            {
+                                "0": "PCF",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "7 (4)",
+                                "5": "12 (5)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258356",
+                        "rows": [
+                            {
+                                "0": "BBL",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (4)",
+                                "5": "15 (8)"
+                            },
+                            {
+                                "0": "PCF",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "7 (4)",
+                                "5": "12 (5)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

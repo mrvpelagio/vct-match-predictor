@@ -1,0 +1,2341 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "594743",
+                "event": {
+                    "name": "VCT 2026: EMEA Kickoff Main Event: Upper Round 1",
+                    "series": "Main Event: Upper Round 1",
+                    "logo": "https://owcdn.net/img/65ab59620a233.png"
+                },
+                "date": "January 22, 2026 3:20 AM PST Patch 12.0",
+                "map_vetos": "VIT ban Split; ULF ban Bind; VIT pick Breeze; ULF pick Corrode; VIT ban Haven; ULF ban Pearl; Abyss remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "18019",
+                        "name": "ULF Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/67d59bfc9eb2a.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "2059",
+                        "name": "Team Vitality",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant EMEA",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Spain",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant FR",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant TR",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT EMEA (YT)",
+                        "url": "https://www.youtube.com/@vctemea/live"
+                    },
+                    {
+                        "name": "VCL FR (YT)",
+                        "url": "https://www.youtube.com/@valorantchallengersfr/live"
+                    },
+                    {
+                        "name": "VCL TR (YT)",
+                        "url": "https://www.youtube.com/@VALORANTChallengersTR/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/DBr-UhiJ2Hg?t=217"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/dVXji4MoJac?t=145"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "BreezePICK",
+                        "picked_by": "",
+                        "duration": "32:38",
+                        "score": {
+                            "team1": 3,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "1",
+                            "team2": "10"
+                        },
+                        "score_t": {
+                            "team1": "2",
+                            "team2": "3"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Favian",
+                                    "agent": "Jett",
+                                    "rating": "0.92",
+                                    "acs": "197",
+                                    "kills": "11",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "-4",
+                                    "kast": "63%",
+                                    "adr": "132",
+                                    "hs_pct": "52%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "audaz",
+                                    "agent": "Viper",
+                                    "rating": "0.89",
+                                    "acs": "174",
+                                    "kills": "8",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "38%",
+                                    "adr": "113",
+                                    "hs_pct": "30%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "nekky",
+                                    "agent": "Sova",
+                                    "rating": "0.61",
+                                    "acs": "111",
+                                    "kills": "6",
+                                    "deaths": "13",
+                                    "assists": "2",
+                                    "kd_diff": "-7",
+                                    "kast": "44%",
+                                    "adr": "78",
+                                    "hs_pct": "19%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "sturNN",
+                                    "agent": "Astra",
+                                    "rating": "0.32",
+                                    "acs": "102",
+                                    "kills": "5",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "-10",
+                                    "kast": "56%",
+                                    "adr": "65",
+                                    "hs_pct": "43%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "d3mur",
+                                    "agent": "Yoru",
+                                    "rating": "0.32",
+                                    "acs": "76",
+                                    "kills": "5",
+                                    "deaths": "14",
+                                    "assists": "0",
+                                    "kd_diff": "-9",
+                                    "kast": "44%",
+                                    "adr": "43",
+                                    "hs_pct": "44%",
+                                    "fk": "1",
+                                    "fd": "6",
+                                    "fk_diff": "-5"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Derke",
+                                    "agent": "Jett",
+                                    "rating": "1.99",
+                                    "acs": "403",
+                                    "kills": "23",
+                                    "deaths": "8",
+                                    "assists": "5",
+                                    "kd_diff": "+15",
+                                    "kast": "88%",
+                                    "adr": "249",
+                                    "hs_pct": "22%",
+                                    "fk": "7",
+                                    "fd": "2",
+                                    "fk_diff": "+5"
+                                },
+                                {
+                                    "name": "Chronicle",
+                                    "agent": "Viper",
+                                    "rating": "1.52",
+                                    "acs": "238",
+                                    "kills": "15",
+                                    "deaths": "5",
+                                    "assists": "3",
+                                    "kd_diff": "+10",
+                                    "kast": "81%",
+                                    "adr": "142",
+                                    "hs_pct": "14%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Jamppi",
+                                    "agent": "Yoru",
+                                    "rating": "1.16",
+                                    "acs": "203",
+                                    "kills": "14",
+                                    "deaths": "7",
+                                    "assists": "3",
+                                    "kd_diff": "+7",
+                                    "kast": "81%",
+                                    "adr": "129",
+                                    "hs_pct": "30%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "PROFEK",
+                                    "agent": "Omen",
+                                    "rating": "0.99",
+                                    "acs": "216",
+                                    "kills": "12",
+                                    "deaths": "8",
+                                    "assists": "5",
+                                    "kd_diff": "+4",
+                                    "kast": "88%",
+                                    "adr": "131",
+                                    "hs_pct": "31%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "UNFAKE",
+                                    "agent": "Sova",
+                                    "rating": "0.90",
+                                    "acs": "124",
+                                    "kills": "7",
+                                    "deaths": "7",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "75%",
+                                    "adr": "74",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Chronicle VIT",
+                                        "2": "Derke VIT",
+                                        "3": "Jamppi VIT",
+                                        "4": "UNFAKE VIT",
+                                        "5": "PROFEK VIT"
+                                    }
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "kills_vs": {
+                                        "1": "3 5 -2",
+                                        "2": "4 9 -5",
+                                        "3": "6 6 +0",
+                                        "4": "4 6 -2",
+                                        "5": "0 3 -3"
+                                    }
+                                },
+                                {
+                                    "player": "sturNN ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "1 2 -1",
+                                        "5": "1 7 -6"
+                                    }
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "kills_vs": {
+                                        "1": "0 5 -5",
+                                        "2": "2 9 -7",
+                                        "3": "4 5 -1",
+                                        "4": "3 2 +1",
+                                        "5": "2 6 -4"
+                                    }
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "kills_vs": {
+                                        "1": "5 7 -2",
+                                        "2": "2 6 -4",
+                                        "3": "0 7 -7",
+                                        "4": "3 3 +0",
+                                        "5": "3 3 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "sturNN ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Chronicle VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "89",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "UNFAKE VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "101",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "PROFEK VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Jamppi VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "ULF",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "6 (1)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "10 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "CorrodePICK",
+                        "picked_by": "",
+                        "duration": "27:22",
+                        "score": {
+                            "team1": 1,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "0",
+                            "team2": "11"
+                        },
+                        "score_t": {
+                            "team1": "1",
+                            "team2": "2"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "nekky",
+                                    "agent": "Fade",
+                                    "rating": "0.64",
+                                    "acs": "161",
+                                    "kills": "7",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "-6",
+                                    "kast": "79%",
+                                    "adr": "124",
+                                    "hs_pct": "31%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "audaz",
+                                    "agent": "Omen",
+                                    "rating": "0.59",
+                                    "acs": "139",
+                                    "kills": "6",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-8",
+                                    "kast": "86%",
+                                    "adr": "90",
+                                    "hs_pct": "44%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "sturNN",
+                                    "agent": "Astra",
+                                    "rating": "0.58",
+                                    "acs": "148",
+                                    "kills": "6",
+                                    "deaths": "13",
+                                    "assists": "1",
+                                    "kd_diff": "-7",
+                                    "kast": "43%",
+                                    "adr": "93",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Favian",
+                                    "agent": "Breach",
+                                    "rating": "0.53",
+                                    "acs": "145",
+                                    "kills": "6",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "-8",
+                                    "kast": "64%",
+                                    "adr": "97",
+                                    "hs_pct": "37%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "d3mur",
+                                    "agent": "Neon",
+                                    "rating": "0.45",
+                                    "acs": "159",
+                                    "kills": "6",
+                                    "deaths": "13",
+                                    "assists": "2",
+                                    "kd_diff": "-7",
+                                    "kast": "36%",
+                                    "adr": "108",
+                                    "hs_pct": "21%",
+                                    "fk": "2",
+                                    "fd": "7",
+                                    "fk_diff": "-5"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Derke",
+                                    "agent": "Phoenix",
+                                    "rating": "1.74",
+                                    "acs": "383",
+                                    "kills": "19",
+                                    "deaths": "8",
+                                    "assists": "4",
+                                    "kd_diff": "+11",
+                                    "kast": "93%",
+                                    "adr": "269",
+                                    "hs_pct": "23%",
+                                    "fk": "5",
+                                    "fd": "1",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "PROFEK",
+                                    "agent": "Astra",
+                                    "rating": "1.64",
+                                    "acs": "177",
+                                    "kills": "11",
+                                    "deaths": "1",
+                                    "assists": "5",
+                                    "kd_diff": "+10",
+                                    "kast": "100%",
+                                    "adr": "124",
+                                    "hs_pct": "50%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Chronicle",
+                                    "agent": "Chamber",
+                                    "rating": "1.48",
+                                    "acs": "252",
+                                    "kills": "14",
+                                    "deaths": "7",
+                                    "assists": "4",
+                                    "kd_diff": "+7",
+                                    "kast": "93%",
+                                    "adr": "204",
+                                    "hs_pct": "38%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "UNFAKE",
+                                    "agent": "Sova",
+                                    "rating": "1.31",
+                                    "acs": "200",
+                                    "kills": "10",
+                                    "deaths": "6",
+                                    "assists": "6",
+                                    "kd_diff": "+4",
+                                    "kast": "93%",
+                                    "adr": "140",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Jamppi",
+                                    "agent": "Yoru",
+                                    "rating": "1.24",
+                                    "acs": "251",
+                                    "kills": "13",
+                                    "deaths": "9",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "79%",
+                                    "adr": "161",
+                                    "hs_pct": "27%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Chronicle VIT",
+                                        "2": "Derke VIT",
+                                        "3": "Jamppi VIT",
+                                        "4": "UNFAKE VIT",
+                                        "5": "PROFEK VIT"
+                                    }
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "kills_vs": {
+                                        "1": "3 5 -2",
+                                        "2": "4 9 -5",
+                                        "3": "6 6 +0",
+                                        "4": "4 6 -2",
+                                        "5": "0 3 -3"
+                                    }
+                                },
+                                {
+                                    "player": "sturNN ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "1 2 -1",
+                                        "5": "1 7 -6"
+                                    }
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "kills_vs": {
+                                        "1": "0 5 -5",
+                                        "2": "2 9 -7",
+                                        "3": "4 5 -1",
+                                        "4": "3 2 +1",
+                                        "5": "2 6 -4"
+                                    }
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "kills_vs": {
+                                        "1": "5 7 -2",
+                                        "2": "2 6 -4",
+                                        "3": "0 7 -7",
+                                        "4": "3 3 +0",
+                                        "5": "3 3 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "sturNN ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Chronicle VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "89",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "UNFAKE VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "101",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "PROFEK VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Jamppi VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "ULF",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "6 (1)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "10 (7)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2025/12/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Eternal Fire",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/593549/ulf-esports-vs-eternal-fire-project-blender-2025-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Galatasaray Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/593541/ulf-esports-vs-galatasaray-esports-project-blender-2025-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Oxuji",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/591449/ulf-esports-vs-oxuji-project-blender-2025-r3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Liquid Academy",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/591435/ulf-esports-vs-team-liquid-academy-project-blender-2025-r2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "BLX CORP",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/591424/blx-corp-vs-ulf-esports-project-blender-2025-r1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Liquid Academy",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/593556/team-vitality-vs-team-liquid-academy-project-blender-2025-cf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Eternal Fire",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/593553/eternal-fire-vs-team-vitality-project-blender-2025-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Karmine Corp",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/593550/karmine-corp-vs-team-vitality-project-blender-2025-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "BRATAN MIX",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/593544/bratan-mix-vs-team-vitality-project-blender-2025-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/12/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Galatasaray Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/591463/team-vitality-vs-galatasaray-esports-project-blender-2025-r4"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "Chronicle VIT",
+                                "2": "Derke VIT",
+                                "3": "Jamppi VIT",
+                                "4": "UNFAKE VIT",
+                                "5": "PROFEK VIT"
+                            }
+                        },
+                        {
+                            "player": "audaz ULF",
+                            "kills_vs": {
+                                "1": "2 6 -4",
+                                "2": "5 8 -3",
+                                "3": "2 6 -4",
+                                "4": "2 4 -2",
+                                "5": "3 4 -1"
+                            }
+                        },
+                        {
+                            "player": "Favian ULF",
+                            "kills_vs": {
+                                "1": "3 5 -2",
+                                "2": "4 9 -5",
+                                "3": "6 6 +0",
+                                "4": "4 6 -2",
+                                "5": "0 3 -3"
+                            }
+                        },
+                        {
+                            "player": "sturNN ULF",
+                            "kills_vs": {
+                                "1": "2 6 -4",
+                                "2": "3 10 -7",
+                                "3": "4 3 +1",
+                                "4": "1 2 -1",
+                                "5": "1 7 -6"
+                            }
+                        },
+                        {
+                            "player": "d3mur ULF",
+                            "kills_vs": {
+                                "1": "0 5 -5",
+                                "2": "2 9 -7",
+                                "3": "4 5 -1",
+                                "4": "3 2 +1",
+                                "5": "2 6 -4"
+                            }
+                        },
+                        {
+                            "player": "nekky ULF",
+                            "kills_vs": {
+                                "1": "5 7 -2",
+                                "2": "2 6 -4",
+                                "3": "0 7 -7",
+                                "4": "3 3 +0",
+                                "5": "3 3 +0"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "sturNN ULF",
+                            "1": "",
+                            "2": "2",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "32",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "nekky ULF",
+                            "1": "",
+                            "2": "1",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "6",
+                            "13": "0"
+                        },
+                        {
+                            "player": "d3mur ULF",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "32",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "audaz ULF",
+                            "1": "",
+                            "2": "3",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "43",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Favian ULF",
+                            "1": "",
+                            "2": "",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "3",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Chronicle VIT",
+                            "1": "",
+                            "2": "5",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "89",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "UNFAKE VIT",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "1",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Derke VIT",
+                            "1": "",
+                            "2": "6",
+                            "3": "5",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "101",
+                            "12": "1",
+                            "13": "3"
+                        },
+                        {
+                            "player": "PROFEK VIT",
+                            "1": "",
+                            "2": "4",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "69",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Jamppi VIT",
+                            "1": "",
+                            "2": "6",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "1",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "244313",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Chronicle VIT",
+                                        "2": "Derke VIT",
+                                        "3": "Jamppi VIT",
+                                        "4": "UNFAKE VIT",
+                                        "5": "PROFEK VIT"
+                                    }
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "kills_vs": {
+                                        "1": "3 5 -2",
+                                        "2": "4 9 -5",
+                                        "3": "6 6 +0",
+                                        "4": "4 6 -2",
+                                        "5": "0 3 -3"
+                                    }
+                                },
+                                {
+                                    "player": "sturNN ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "1 2 -1",
+                                        "5": "1 7 -6"
+                                    }
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "kills_vs": {
+                                        "1": "0 5 -5",
+                                        "2": "2 9 -7",
+                                        "3": "4 5 -1",
+                                        "4": "3 2 +1",
+                                        "5": "2 6 -4"
+                                    }
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "kills_vs": {
+                                        "1": "5 7 -2",
+                                        "2": "2 6 -4",
+                                        "3": "0 7 -7",
+                                        "4": "3 3 +0",
+                                        "5": "3 3 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "sturNN ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Chronicle VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "89",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "UNFAKE VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "101",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "PROFEK VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Jamppi VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "244314",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Chronicle VIT",
+                                        "2": "Derke VIT",
+                                        "3": "Jamppi VIT",
+                                        "4": "UNFAKE VIT",
+                                        "5": "PROFEK VIT"
+                                    }
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "kills_vs": {
+                                        "1": "3 5 -2",
+                                        "2": "4 9 -5",
+                                        "3": "6 6 +0",
+                                        "4": "4 6 -2",
+                                        "5": "0 3 -3"
+                                    }
+                                },
+                                {
+                                    "player": "sturNN ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "1 2 -1",
+                                        "5": "1 7 -6"
+                                    }
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "kills_vs": {
+                                        "1": "0 5 -5",
+                                        "2": "2 9 -7",
+                                        "3": "4 5 -1",
+                                        "4": "3 2 +1",
+                                        "5": "2 6 -4"
+                                    }
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "kills_vs": {
+                                        "1": "5 7 -2",
+                                        "2": "2 6 -4",
+                                        "3": "0 7 -7",
+                                        "4": "3 3 +0",
+                                        "5": "3 3 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "sturNN ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Chronicle VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "89",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "UNFAKE VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "101",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "PROFEK VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Jamppi VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "244315",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Chronicle VIT",
+                                        "2": "Derke VIT",
+                                        "3": "Jamppi VIT",
+                                        "4": "UNFAKE VIT",
+                                        "5": "PROFEK VIT"
+                                    }
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "2 4 -2",
+                                        "5": "3 4 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "kills_vs": {
+                                        "1": "3 5 -2",
+                                        "2": "4 9 -5",
+                                        "3": "6 6 +0",
+                                        "4": "4 6 -2",
+                                        "5": "0 3 -3"
+                                    }
+                                },
+                                {
+                                    "player": "sturNN ULF",
+                                    "kills_vs": {
+                                        "1": "2 6 -4",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "1 2 -1",
+                                        "5": "1 7 -6"
+                                    }
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "kills_vs": {
+                                        "1": "0 5 -5",
+                                        "2": "2 9 -7",
+                                        "3": "4 5 -1",
+                                        "4": "3 2 +1",
+                                        "5": "2 6 -4"
+                                    }
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "kills_vs": {
+                                        "1": "5 7 -2",
+                                        "2": "2 6 -4",
+                                        "3": "0 7 -7",
+                                        "4": "3 3 +0",
+                                        "5": "3 3 +0"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "sturNN ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "nekky ULF",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "d3mur ULF",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "audaz ULF",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Favian ULF",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "3",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Chronicle VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "89",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "UNFAKE VIT",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derke VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "101",
+                                    "12": "1",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "PROFEK VIT",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "69",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Jamppi VIT",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "ULF",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "1 (0)",
+                        "4": "5 (2)",
+                        "5": "6 (1)"
+                    },
+                    {
+                        "0": "VIT",
+                        "1": "2",
+                        "2": "2 (2)",
+                        "3": "0 (0)",
+                        "4": "4 (4)",
+                        "5": "10 (7)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "244313",
+                        "rows": [
+                            {
+                                "0": "ULF",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "6 (1)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "10 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "244314",
+                        "rows": [
+                            {
+                                "0": "ULF",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "6 (1)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "10 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "244315",
+                        "rows": [
+                            {
+                                "0": "ULF",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "6 (1)"
+                            },
+                            {
+                                "0": "VIT",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "10 (7)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

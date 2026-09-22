@@ -1,0 +1,3390 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "189055",
+                "event": {
+                    "name": "Champions Tour 2023: Americas League Playoffs: Grand Final",
+                    "series": "Playoffs: Grand Final",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "May 29, 2023 4:00 AM PST Patch 6.08",
+                "map_vetos": "LOUD ban Pearl; LOUD ban Split; LOUD pick Ascent; NRG pick Bind; LOUD pick Fracture; NRG pick Lotus; Haven remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "6961",
+                        "name": "LOUD",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+                        "score": "3",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "1034",
+                        "name": "NRG",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/ksMjq5zE7Co?t=2420"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/HbjV5GHyv_I?t=413"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/FD-BAG_8pRQ?t=334"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "AscentPICK",
+                        "picked_by": "",
+                        "duration": "1:02:29",
+                        "score": {
+                            "team1": 13,
+                            "team2": 9
+                        },
+                        "score_ct": {
+                            "team1": "8",
+                            "team2": "7"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "2"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Sova",
+                                    "rating": "1.33",
+                                    "acs": "241",
+                                    "kills": "19",
+                                    "deaths": "12",
+                                    "assists": "1",
+                                    "kd_diff": "+7",
+                                    "kast": "68%",
+                                    "adr": "152",
+                                    "hs_pct": "18%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "tuyz",
+                                    "agent": "Omen",
+                                    "rating": "1.05",
+                                    "acs": "213",
+                                    "kills": "18",
+                                    "deaths": "17",
+                                    "assists": "5",
+                                    "kd_diff": "+1",
+                                    "kast": "77%",
+                                    "adr": "129",
+                                    "hs_pct": "36%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "saadhak",
+                                    "agent": "Kayo",
+                                    "rating": "1.01",
+                                    "acs": "212",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "16",
+                                    "kd_diff": "-2",
+                                    "kast": "68%",
+                                    "adr": "132",
+                                    "hs_pct": "21%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Less",
+                                    "agent": "Killjoy",
+                                    "rating": "1.00",
+                                    "acs": "146",
+                                    "kills": "13",
+                                    "deaths": "11",
+                                    "assists": "2",
+                                    "kd_diff": "+2",
+                                    "kast": "68%",
+                                    "adr": "86",
+                                    "hs_pct": "14%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Jett",
+                                    "rating": "0.66",
+                                    "acs": "111",
+                                    "kills": "8",
+                                    "deaths": "13",
+                                    "assists": "1",
+                                    "kd_diff": "-5",
+                                    "kast": "64%",
+                                    "adr": "74",
+                                    "hs_pct": "10%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "crashies",
+                                    "agent": "Sova",
+                                    "rating": "1.19",
+                                    "acs": "211",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "0",
+                                    "kast": "68%",
+                                    "adr": "144",
+                                    "hs_pct": "29%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Victor",
+                                    "agent": "Kayo",
+                                    "rating": "0.97",
+                                    "acs": "187",
+                                    "kills": "16",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "+2",
+                                    "kast": "68%",
+                                    "adr": "106",
+                                    "hs_pct": "14%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "ardiis",
+                                    "agent": "Jett",
+                                    "rating": "0.94",
+                                    "acs": "218",
+                                    "kills": "17",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "+3",
+                                    "kast": "68%",
+                                    "adr": "147",
+                                    "hs_pct": "34%",
+                                    "fk": "5",
+                                    "fd": "4",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "FiNESSE",
+                                    "agent": "Killjoy",
+                                    "rating": "0.88",
+                                    "acs": "160",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-5",
+                                    "kast": "59%",
+                                    "adr": "124",
+                                    "hs_pct": "19%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "s0m",
+                                    "agent": "Omen",
+                                    "rating": "0.69",
+                                    "acs": "127",
+                                    "kills": "10",
+                                    "deaths": "13",
+                                    "assists": "7",
+                                    "kd_diff": "-3",
+                                    "kast": "73%",
+                                    "adr": "74",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "BindPICK",
+                        "picked_by": "",
+                        "duration": "1:00:51",
+                        "score": {
+                            "team1": 13,
+                            "team2": 11
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "tuyz",
+                                    "agent": "Brimstone",
+                                    "rating": "1.29",
+                                    "acs": "233",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "10",
+                                    "kd_diff": "+7",
+                                    "kast": "79%",
+                                    "adr": "141",
+                                    "hs_pct": "35%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "saadhak",
+                                    "agent": "Chamber",
+                                    "rating": "1.17",
+                                    "acs": "253",
+                                    "kills": "22",
+                                    "deaths": "15",
+                                    "assists": "1",
+                                    "kd_diff": "+7",
+                                    "kast": "79%",
+                                    "adr": "154",
+                                    "hs_pct": "29%",
+                                    "fk": "6",
+                                    "fd": "5",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Raze",
+                                    "rating": "1.14",
+                                    "acs": "223",
+                                    "kills": "20",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "+5",
+                                    "kast": "71%",
+                                    "adr": "147",
+                                    "hs_pct": "17%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Skye",
+                                    "rating": "1.00",
+                                    "acs": "202",
+                                    "kills": "17",
+                                    "deaths": "17",
+                                    "assists": "7",
+                                    "kd_diff": "0",
+                                    "kast": "67%",
+                                    "adr": "125",
+                                    "hs_pct": "35%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Less",
+                                    "agent": "Viper",
+                                    "rating": "0.63",
+                                    "acs": "149",
+                                    "kills": "11",
+                                    "deaths": "18",
+                                    "assists": "5",
+                                    "kd_diff": "-7",
+                                    "kast": "63%",
+                                    "adr": "110",
+                                    "hs_pct": "21%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "s0m",
+                                    "agent": "Harbor",
+                                    "rating": "1.53",
+                                    "acs": "274",
+                                    "kills": "25",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "+8",
+                                    "kast": "67%",
+                                    "adr": "177",
+                                    "hs_pct": "36%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "ardiis",
+                                    "agent": "Sage",
+                                    "rating": "1.25",
+                                    "acs": "233",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "11",
+                                    "kd_diff": "+2",
+                                    "kast": "71%",
+                                    "adr": "156",
+                                    "hs_pct": "23%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Victor",
+                                    "agent": "Raze",
+                                    "rating": "0.76",
+                                    "acs": "211",
+                                    "kills": "16",
+                                    "deaths": "20",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "50%",
+                                    "adr": "143",
+                                    "hs_pct": "17%",
+                                    "fk": "1",
+                                    "fd": "6",
+                                    "fk_diff": "-5"
+                                },
+                                {
+                                    "name": "crashies",
+                                    "agent": "Skye",
+                                    "rating": "0.67",
+                                    "acs": "131",
+                                    "kills": "11",
+                                    "deaths": "19",
+                                    "assists": "7",
+                                    "kd_diff": "-8",
+                                    "kast": "50%",
+                                    "adr": "86",
+                                    "hs_pct": "48%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "FiNESSE",
+                                    "agent": "Viper",
+                                    "rating": "0.50",
+                                    "acs": "145",
+                                    "kills": "10",
+                                    "deaths": "20",
+                                    "assists": "7",
+                                    "kd_diff": "-10",
+                                    "kast": "67%",
+                                    "adr": "94",
+                                    "hs_pct": "21%",
+                                    "fk": "0",
+                                    "fd": "5",
+                                    "fk_diff": "-5"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team1",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "FracturePICK",
+                        "picked_by": "",
+                        "duration": "56:14",
+                        "score": {
+                            "team1": 13,
+                            "team2": 11
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "8",
+                            "team2": "7"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Less",
+                                    "agent": "Viper",
+                                    "rating": "1.35",
+                                    "acs": "285",
+                                    "kills": "22",
+                                    "deaths": "15",
+                                    "assists": "11",
+                                    "kd_diff": "+7",
+                                    "kast": "83%",
+                                    "adr": "188",
+                                    "hs_pct": "32%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Neon",
+                                    "rating": "1.34",
+                                    "acs": "286",
+                                    "kills": "24",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+9",
+                                    "kast": "75%",
+                                    "adr": "180",
+                                    "hs_pct": "32%",
+                                    "fk": "6",
+                                    "fd": "4",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "saadhak",
+                                    "agent": "Kayo",
+                                    "rating": "1.16",
+                                    "acs": "218",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "+4",
+                                    "kast": "71%",
+                                    "adr": "125",
+                                    "hs_pct": "28%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "tuyz",
+                                    "agent": "Omen",
+                                    "rating": "0.75",
+                                    "acs": "114",
+                                    "kills": "11",
+                                    "deaths": "16",
+                                    "assists": "9",
+                                    "kd_diff": "-5",
+                                    "kast": "75%",
+                                    "adr": "68",
+                                    "hs_pct": "12%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "cauanzin",
+                                    "agent": "Breach",
+                                    "rating": "0.74",
+                                    "acs": "166",
+                                    "kills": "14",
+                                    "deaths": "18",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "67%",
+                                    "adr": "117",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "crashies",
+                                    "agent": "Skye",
+                                    "rating": "1.24",
+                                    "acs": "212",
+                                    "kills": "19",
+                                    "deaths": "17",
+                                    "assists": "11",
+                                    "kd_diff": "+2",
+                                    "kast": "79%",
+                                    "adr": "145",
+                                    "hs_pct": "32%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "s0m",
+                                    "agent": "Brimstone",
+                                    "rating": "1.24",
+                                    "acs": "240",
+                                    "kills": "19",
+                                    "deaths": "18",
+                                    "assists": "12",
+                                    "kd_diff": "+1",
+                                    "kast": "75%",
+                                    "adr": "155",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Victor",
+                                    "agent": "Killjoy",
+                                    "rating": "0.83",
+                                    "acs": "168",
+                                    "kills": "16",
+                                    "deaths": "17",
+                                    "assists": "1",
+                                    "kd_diff": "-1",
+                                    "kast": "67%",
+                                    "adr": "110",
+                                    "hs_pct": "15%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "ardiis",
+                                    "agent": "Jett",
+                                    "rating": "0.81",
+                                    "acs": "210",
+                                    "kills": "15",
+                                    "deaths": "19",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "71%",
+                                    "adr": "141",
+                                    "hs_pct": "15%",
+                                    "fk": "6",
+                                    "fd": "3",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "FiNESSE",
+                                    "agent": "Breach",
+                                    "rating": "0.65",
+                                    "acs": "136",
+                                    "kills": "10",
+                                    "deaths": "19",
+                                    "assists": "10",
+                                    "kd_diff": "-9",
+                                    "kast": "54%",
+                                    "adr": "95",
+                                    "hs_pct": "16%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team1",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2023/05/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/189054/loud-vs-evil-geniuses-champions-tour-2023-americas-league-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/189052/loud-vs-furia-champions-tour-2023-americas-league-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/184035/leviat-n-vs-loud-champions-tour-2023-americas-league-w8"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/183815/nrg-esports-vs-loud-champions-tour-2023-americas-league-w7"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/183809/loud-vs-100-thieves-champions-tour-2023-americas-league-w6"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 1",
+                        "url": "https://www.vlr.gg/189059/evil-geniuses-vs-nrg-esports-champions-tour-2023-americas-league-lbf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/189058/cloud9-vs-nrg-esports-champions-tour-2023-americas-league-lr2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/189057/furia-vs-nrg-esports-champions-tour-2023-americas-league-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/189051/nrg-esports-vs-evil-geniuses-champions-tour-2023-americas-league-ur1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/05/19",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/184033/nrg-esports-vs-evil-geniuses-champions-tour-2023-americas-league-w8"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "s0m NRG",
+                                "2": "FiNESSE NRG",
+                                "3": "Victor NRG",
+                                "4": "ardiis NRG",
+                                "5": "crashies NRG"
+                            }
+                        },
+                        {
+                            "player": "tuyz LOUD",
+                            "kills_vs": {
+                                "1": "14 7 +7",
+                                "2": "7 6 +1",
+                                "3": "9 13 -4",
+                                "4": "8 10 -2",
+                                "5": "12 11 +1"
+                            }
+                        },
+                        {
+                            "player": "cauanzin LOUD",
+                            "kills_vs": {
+                                "1": "13 12 +1",
+                                "2": "9 3 +6",
+                                "3": "13 10 +3",
+                                "4": "7 9 -2",
+                                "5": "8 13 -5"
+                            }
+                        },
+                        {
+                            "player": "aspas LOUD",
+                            "kills_vs": {
+                                "1": "7 11 -4",
+                                "2": "18 5 +13",
+                                "3": "8 9 -1",
+                                "4": "12 10 +2",
+                                "5": "7 8 -1"
+                            }
+                        },
+                        {
+                            "player": "saadhak LOUD",
+                            "kills_vs": {
+                                "1": "4 11 -7",
+                                "2": "10 10 +0",
+                                "3": "12 11 +1",
+                                "4": "13 7 +6",
+                                "5": "15 6 +9"
+                            }
+                        },
+                        {
+                            "player": "Less LOUD",
+                            "kills_vs": {
+                                "1": "10 13 -3",
+                                "2": "10 6 +4",
+                                "3": "9 5 +4",
+                                "4": "8 13 -5",
+                                "5": "9 7 +2"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "saadhak LOUD",
+                            "1": "",
+                            "2": "12",
+                            "3": "2",
+                            "4": "",
+                            "5": "1",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "1",
+                            "10": "",
+                            "11": "55",
+                            "12": "9",
+                            "13": "1"
+                        },
+                        {
+                            "player": "tuyz LOUD",
+                            "1": "",
+                            "2": "11",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "43",
+                            "12": "6",
+                            "13": "1"
+                        },
+                        {
+                            "player": "cauanzin LOUD",
+                            "1": "",
+                            "2": "4",
+                            "3": "5",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "1",
+                            "11": "49",
+                            "12": "10",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Less LOUD",
+                            "1": "",
+                            "2": "9",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "49",
+                            "12": "1",
+                            "13": "2"
+                        },
+                        {
+                            "player": "aspas LOUD",
+                            "1": "",
+                            "2": "16",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "1",
+                            "13": "2"
+                        },
+                        {
+                            "player": "crashies NRG",
+                            "1": "",
+                            "2": "8",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "2",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "9",
+                            "13": "2"
+                        },
+                        {
+                            "player": "ardiis NRG",
+                            "1": "",
+                            "2": "11",
+                            "3": "",
+                            "4": "1",
+                            "5": "1",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "60",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Victor NRG",
+                            "1": "",
+                            "2": "9",
+                            "3": "1",
+                            "4": "2",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "4",
+                            "13": "2"
+                        },
+                        {
+                            "player": "FiNESSE NRG",
+                            "1": "",
+                            "2": "6",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "43",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "s0m NRG",
+                            "1": "",
+                            "2": "9",
+                            "3": "3",
+                            "4": "",
+                            "5": "1",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "57",
+                            "12": "8",
+                            "13": "2"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "123174",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "123175",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "123176",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "123177",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "123178",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "s0m NRG",
+                                        "2": "FiNESSE NRG",
+                                        "3": "Victor NRG",
+                                        "4": "ardiis NRG",
+                                        "5": "crashies NRG"
+                                    }
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "kills_vs": {
+                                        "1": "14 7 +7",
+                                        "2": "7 6 +1",
+                                        "3": "9 13 -4",
+                                        "4": "8 10 -2",
+                                        "5": "12 11 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "kills_vs": {
+                                        "1": "13 12 +1",
+                                        "2": "9 3 +6",
+                                        "3": "13 10 +3",
+                                        "4": "7 9 -2",
+                                        "5": "8 13 -5"
+                                    }
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "kills_vs": {
+                                        "1": "7 11 -4",
+                                        "2": "18 5 +13",
+                                        "3": "8 9 -1",
+                                        "4": "12 10 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "saadhak LOUD",
+                                    "kills_vs": {
+                                        "1": "4 11 -7",
+                                        "2": "10 10 +0",
+                                        "3": "12 11 +1",
+                                        "4": "13 7 +6",
+                                        "5": "15 6 +9"
+                                    }
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "kills_vs": {
+                                        "1": "10 13 -3",
+                                        "2": "10 6 +4",
+                                        "3": "9 5 +4",
+                                        "4": "8 13 -5",
+                                        "5": "9 7 +2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "saadhak LOUD",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "9",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tuyz LOUD",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "cauanzin LOUD",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "5",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "1",
+                                    "11": "49",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Less LOUD",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "aspas LOUD",
+                                    "1": "",
+                                    "2": "16",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "crashies NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "9",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "ardiis NRG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "1",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "60",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Victor NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "FiNESSE NRG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "43",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "s0m NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "8",
+                                    "13": "2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "LOUD",
+                        "1": "2",
+                        "2": "2 (2)",
+                        "3": "1 (0)",
+                        "4": "5 (3)",
+                        "5": "14 (8)"
+                    },
+                    {
+                        "0": "NRG",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "0 (0)",
+                        "4": "3 (1)",
+                        "5": "15 (8)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "123174",
+                        "rows": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "123175",
+                        "rows": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "123176",
+                        "rows": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "123177",
+                        "rows": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "123178",
+                        "rows": [
+                            {
+                                "0": "LOUD",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "1 (0)",
+                                "4": "5 (3)",
+                                "5": "14 (8)"
+                            },
+                            {
+                                "0": "NRG",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "0 (0)",
+                                "4": "3 (1)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

@@ -1,0 +1,2894 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "183804",
+                "event": {
+                    "name": "Champions Tour 2023: Americas League Regular Season: Week 5",
+                    "series": "Regular Season: Week 5",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "May 1, 2023 5:25 AM PST Patch 6.08",
+                "map_vetos": "EG ban Bind; LEV ban Fracture; EG pick Split; LEV pick Pearl; EG ban Haven; LEV ban Lotus; Ascent remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "2359",
+                        "name": "LEVIAT\u00c1N",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/61b8888cc3860.png",
+                        "score": "1",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "5248",
+                        "name": "Evil Geniuses",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/667462f046618.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/ApJcBkFuGVI?t=1823"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/KwVjEiWp0xw?t=652"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/4CW17Sc4cso?t=510"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "SplitPICK",
+                        "picked_by": "",
+                        "duration": "1:10:35",
+                        "score": {
+                            "team1": 10,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "8",
+                            "team2": "9"
+                        },
+                        "score_t": {
+                            "team1": "2",
+                            "team2": "4"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Astra",
+                                    "rating": "1.41",
+                                    "acs": "255",
+                                    "kills": "22",
+                                    "deaths": "13",
+                                    "assists": "6",
+                                    "kd_diff": "+9",
+                                    "kast": "74%",
+                                    "adr": "168",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Viper",
+                                    "rating": "1.13",
+                                    "acs": "214",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "83%",
+                                    "adr": "143",
+                                    "hs_pct": "33%",
+                                    "fk": "4",
+                                    "fd": "0",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "nzr",
+                                    "agent": "Raze",
+                                    "rating": "0.94",
+                                    "acs": "190",
+                                    "kills": "13",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "-1",
+                                    "kast": "70%",
+                                    "adr": "134",
+                                    "hs_pct": "19%",
+                                    "fk": "0",
+                                    "fd": "5",
+                                    "fk_diff": "-5"
+                                },
+                                {
+                                    "name": "Tacolilla",
+                                    "agent": "Jett",
+                                    "rating": "0.93",
+                                    "acs": "228",
+                                    "kills": "17",
+                                    "deaths": "17",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "74%",
+                                    "adr": "143",
+                                    "hs_pct": "15%",
+                                    "fk": "5",
+                                    "fd": "5",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Shyy",
+                                    "agent": "Skye",
+                                    "rating": "0.63",
+                                    "acs": "115",
+                                    "kills": "7",
+                                    "deaths": "16",
+                                    "assists": "16",
+                                    "kd_diff": "-9",
+                                    "kast": "74%",
+                                    "adr": "79",
+                                    "hs_pct": "16%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Astra",
+                                    "rating": "1.27",
+                                    "acs": "192",
+                                    "kills": "16",
+                                    "deaths": "13",
+                                    "assists": "5",
+                                    "kd_diff": "+3",
+                                    "kast": "70%",
+                                    "adr": "138",
+                                    "hs_pct": "22%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Jett",
+                                    "rating": "1.24",
+                                    "acs": "238",
+                                    "kills": "20",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "+6",
+                                    "kast": "70%",
+                                    "adr": "155",
+                                    "hs_pct": "37%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "jawgemo",
+                                    "agent": "Raze",
+                                    "rating": "1.22",
+                                    "acs": "283",
+                                    "kills": "21",
+                                    "deaths": "20",
+                                    "assists": "10",
+                                    "kd_diff": "+1",
+                                    "kast": "78%",
+                                    "adr": "190",
+                                    "hs_pct": "15%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Skye",
+                                    "rating": "0.74",
+                                    "acs": "142",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "13",
+                                    "kd_diff": "-7",
+                                    "kast": "74%",
+                                    "adr": "97",
+                                    "hs_pct": "18%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Viper",
+                                    "rating": "0.68",
+                                    "acs": "108",
+                                    "kills": "9",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "74%",
+                                    "adr": "82",
+                                    "hs_pct": "20%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "PearlPICK",
+                        "picked_by": "",
+                        "duration": "54:42",
+                        "score": {
+                            "team1": 13,
+                            "team2": 10
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Viper",
+                                    "rating": "1.35",
+                                    "acs": "264",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "14",
+                                    "kd_diff": "+4",
+                                    "kast": "87%",
+                                    "adr": "186",
+                                    "hs_pct": "23%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "nzr",
+                                    "agent": "Skye",
+                                    "rating": "1.17",
+                                    "acs": "207",
+                                    "kills": "18",
+                                    "deaths": "12",
+                                    "assists": "12",
+                                    "kd_diff": "+6",
+                                    "kast": "70%",
+                                    "adr": "125",
+                                    "hs_pct": "14%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Shyy",
+                                    "agent": "Killjoy",
+                                    "rating": "1.04",
+                                    "acs": "177",
+                                    "kills": "14",
+                                    "deaths": "12",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "83%",
+                                    "adr": "116",
+                                    "hs_pct": "16%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Tacolilla",
+                                    "agent": "Jett",
+                                    "rating": "1.02",
+                                    "acs": "185",
+                                    "kills": "17",
+                                    "deaths": "12",
+                                    "assists": "1",
+                                    "kd_diff": "+5",
+                                    "kast": "78%",
+                                    "adr": "117",
+                                    "hs_pct": "17%",
+                                    "fk": "3",
+                                    "fd": "6",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Harbor",
+                                    "rating": "0.98",
+                                    "acs": "225",
+                                    "kills": "18",
+                                    "deaths": "17",
+                                    "assists": "11",
+                                    "kd_diff": "+1",
+                                    "kast": "70%",
+                                    "adr": "142",
+                                    "hs_pct": "16%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "C0M",
+                                    "agent": "Viper",
+                                    "rating": "1.44",
+                                    "acs": "227",
+                                    "kills": "18",
+                                    "deaths": "11",
+                                    "assists": "4",
+                                    "kd_diff": "+7",
+                                    "kast": "65%",
+                                    "adr": "162",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Jett",
+                                    "rating": "0.98",
+                                    "acs": "216",
+                                    "kills": "16",
+                                    "deaths": "19",
+                                    "assists": "1",
+                                    "kd_diff": "-3",
+                                    "kast": "57%",
+                                    "adr": "144",
+                                    "hs_pct": "23%",
+                                    "fk": "6",
+                                    "fd": "1",
+                                    "fk_diff": "+5"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Killjoy",
+                                    "rating": "0.83",
+                                    "acs": "187",
+                                    "kills": "14",
+                                    "deaths": "18",
+                                    "assists": "2",
+                                    "kd_diff": "-4",
+                                    "kast": "57%",
+                                    "adr": "130",
+                                    "hs_pct": "26%",
+                                    "fk": "3",
+                                    "fd": "5",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "jawgemo",
+                                    "agent": "Harbor",
+                                    "rating": "0.62",
+                                    "acs": "130",
+                                    "kills": "11",
+                                    "deaths": "19",
+                                    "assists": "1",
+                                    "kd_diff": "-8",
+                                    "kast": "57%",
+                                    "adr": "97",
+                                    "hs_pct": "36%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Skye",
+                                    "rating": "0.58",
+                                    "acs": "125",
+                                    "kills": "9",
+                                    "deaths": "19",
+                                    "assists": "11",
+                                    "kd_diff": "-10",
+                                    "kast": "61%",
+                                    "adr": "81",
+                                    "hs_pct": "32%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "Ascent",
+                        "picked_by": "",
+                        "duration": "50:12",
+                        "score": {
+                            "team1": 10,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "7",
+                            "team2": "9"
+                        },
+                        "score_t": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "nzr",
+                                    "agent": "Sova",
+                                    "rating": "1.26",
+                                    "acs": "242",
+                                    "kills": "19",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "+2",
+                                    "kast": "78%",
+                                    "adr": "154",
+                                    "hs_pct": "25%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Tacolilla",
+                                    "agent": "Jett",
+                                    "rating": "0.95",
+                                    "acs": "190",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "74%",
+                                    "adr": "140",
+                                    "hs_pct": "26%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Kayo",
+                                    "rating": "0.89",
+                                    "acs": "183",
+                                    "kills": "14",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "52%",
+                                    "adr": "133",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "5",
+                                    "fk_diff": "-5"
+                                },
+                                {
+                                    "name": "Shyy",
+                                    "agent": "Killjoy",
+                                    "rating": "0.84",
+                                    "acs": "148",
+                                    "kills": "11",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "65%",
+                                    "adr": "103",
+                                    "hs_pct": "19%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Omen",
+                                    "rating": "0.80",
+                                    "acs": "174",
+                                    "kills": "12",
+                                    "deaths": "18",
+                                    "assists": "14",
+                                    "kd_diff": "-6",
+                                    "kast": "65%",
+                                    "adr": "103",
+                                    "hs_pct": "26%",
+                                    "fk": "5",
+                                    "fd": "3",
+                                    "fk_diff": "+2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Kayo",
+                                    "rating": "1.43",
+                                    "acs": "273",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "14",
+                                    "kd_diff": "+7",
+                                    "kast": "74%",
+                                    "adr": "168",
+                                    "hs_pct": "30%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Jett",
+                                    "rating": "1.34",
+                                    "acs": "227",
+                                    "kills": "20",
+                                    "deaths": "12",
+                                    "assists": "2",
+                                    "kd_diff": "+8",
+                                    "kast": "78%",
+                                    "adr": "137",
+                                    "hs_pct": "32%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Sova",
+                                    "rating": "1.11",
+                                    "acs": "167",
+                                    "kills": "13",
+                                    "deaths": "12",
+                                    "assists": "6",
+                                    "kd_diff": "+1",
+                                    "kast": "74%",
+                                    "adr": "121",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Killjoy",
+                                    "rating": "0.92",
+                                    "acs": "192",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "65%",
+                                    "adr": "136",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "jawgemo",
+                                    "agent": "Omen",
+                                    "rating": "0.66",
+                                    "acs": "144",
+                                    "kills": "10",
+                                    "deaths": "18",
+                                    "assists": "9",
+                                    "kd_diff": "-8",
+                                    "kast": "70%",
+                                    "adr": "90",
+                                    "hs_pct": "38%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2023/04/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/183797/leviat-n-vs-100-thieves-champions-tour-2023-americas-league-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/22",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/183792/leviat-n-vs-mibr-champions-tour-2023-americas-league-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/17",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/183787/leviat-n-vs-sentinels-champions-tour-2023-americas-league-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/183780/leviat-n-vs-furia-champions-tour-2023-americas-league-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/04",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/183778/leviat-n-vs-nrg-esports-champions-tour-2023-americas-league-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LOUD",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/183798/evil-geniuses-vs-loud-champions-tour-2023-americas-league-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/23",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/183794/evil-geniuses-vs-furia-champions-tour-2023-americas-league-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/17",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/183788/evil-geniuses-vs-kr-esports-champions-tour-2023-americas-league-w3"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/183783/evil-geniuses-vs-100-thieves-champions-tour-2023-americas-league-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/03",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/183777/evil-geniuses-vs-cloud9-champions-tour-2023-americas-league-w1"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "jawgemo EG",
+                                "2": "Boostio EG",
+                                "3": "Ethan EG",
+                                "4": "Demon1 EG",
+                                "5": "C0M EG"
+                            }
+                        },
+                        {
+                            "player": "Mazino LEV",
+                            "kills_vs": {
+                                "1": "12 9 +3",
+                                "2": "14 9 +5",
+                                "3": "12 5 +7",
+                                "4": "4 18 -14",
+                                "5": "10 7 +3"
+                            }
+                        },
+                        {
+                            "player": "nzr LEV",
+                            "kills_vs": {
+                                "1": "9 7 +2",
+                                "2": "10 8 +2",
+                                "3": "7 10 -3",
+                                "4": "13 11 +2",
+                                "5": "11 7 +4"
+                            }
+                        },
+                        {
+                            "player": "Tacolilla LEV",
+                            "kills_vs": {
+                                "1": "8 9 -1",
+                                "2": "7 8 -1",
+                                "3": "13 8 +5",
+                                "4": "16 6 +10",
+                                "5": "5 13 -8"
+                            }
+                        },
+                        {
+                            "player": "Shyy LEV",
+                            "kills_vs": {
+                                "1": "9 8 +1",
+                                "2": "7 10 -3",
+                                "3": "8 7 +1",
+                                "4": "2 13 -11",
+                                "5": "6 5 +1"
+                            }
+                        },
+                        {
+                            "player": "kiNgg LEV",
+                            "kills_vs": {
+                                "1": "19 9 +10",
+                                "2": "8 12 -4",
+                                "3": "9 9 +0",
+                                "4": "10 8 +2",
+                                "5": "6 8 -2"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "nzr LEV",
+                            "1": "",
+                            "2": "11",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Tacolilla LEV",
+                            "1": "",
+                            "2": "6",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Mazino LEV",
+                            "1": "",
+                            "2": "12",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "7",
+                            "13": "1"
+                        },
+                        {
+                            "player": "kiNgg LEV",
+                            "1": "",
+                            "2": "14",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "59",
+                            "12": "5",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Shyy LEV",
+                            "1": "",
+                            "2": "8",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "7",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Boostio EG",
+                            "1": "",
+                            "2": "11",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "0",
+                            "13": "2"
+                        },
+                        {
+                            "player": "C0M EG",
+                            "1": "",
+                            "2": "9",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "3",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "2",
+                            "13": "4"
+                        },
+                        {
+                            "player": "jawgemo EG",
+                            "1": "",
+                            "2": "8",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "45",
+                            "12": "10",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Ethan EG",
+                            "1": "",
+                            "2": "5",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "45",
+                            "12": "7",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Demon1 EG",
+                            "1": "",
+                            "2": "9",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "65",
+                            "12": "0",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "119007",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "119008",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "119009",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "jawgemo EG",
+                                        "2": "Boostio EG",
+                                        "3": "Ethan EG",
+                                        "4": "Demon1 EG",
+                                        "5": "C0M EG"
+                                    }
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "kills_vs": {
+                                        "1": "12 9 +3",
+                                        "2": "14 9 +5",
+                                        "3": "12 5 +7",
+                                        "4": "4 18 -14",
+                                        "5": "10 7 +3"
+                                    }
+                                },
+                                {
+                                    "player": "nzr LEV",
+                                    "kills_vs": {
+                                        "1": "9 7 +2",
+                                        "2": "10 8 +2",
+                                        "3": "7 10 -3",
+                                        "4": "13 11 +2",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "kills_vs": {
+                                        "1": "8 9 -1",
+                                        "2": "7 8 -1",
+                                        "3": "13 8 +5",
+                                        "4": "16 6 +10",
+                                        "5": "5 13 -8"
+                                    }
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "kills_vs": {
+                                        "1": "9 8 +1",
+                                        "2": "7 10 -3",
+                                        "3": "8 7 +1",
+                                        "4": "2 13 -11",
+                                        "5": "6 5 +1"
+                                    }
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "kills_vs": {
+                                        "1": "19 9 +10",
+                                        "2": "8 12 -4",
+                                        "3": "9 9 +0",
+                                        "4": "10 8 +2",
+                                        "5": "6 8 -2"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "nzr LEV",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Tacolilla LEV",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Shyy LEV",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "3",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "2",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "10",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "45",
+                                    "12": "7",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "LEV",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "6 (3)",
+                        "5": "13 (6)"
+                    },
+                    {
+                        "0": "EG",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (2)",
+                        "4": "5 (3)",
+                        "5": "13 (7)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "119007",
+                        "rows": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "119008",
+                        "rows": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "119009",
+                        "rows": [
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (3)",
+                                "5": "13 (6)"
+                            },
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (2)",
+                                "4": "5 (3)",
+                                "5": "13 (7)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

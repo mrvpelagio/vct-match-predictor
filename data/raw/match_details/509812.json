@@ -1,0 +1,2337 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "509812",
+                "event": {
+                    "name": "VCT 2025: Americas Stage 2 Group Stage: Week 2",
+                    "series": "Group Stage: Week 2",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "July 28, 2025 7:25 AM PST Patch 11.0",
+                "map_vetos": "MIBR ban Ascent; LEV ban Icebox; MIBR pick Lotus; LEV pick Sunset; MIBR ban Haven; LEV ban Corrode; Bind remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "7386",
+                        "name": "MIBR",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/632be7626d6d9.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "2359",
+                        "name": "LEVIAT\u00c1N",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/61b8888cc3860.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/ri977UrQI4w?t=184"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/lOS8bq0nTCU?t=304"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "LotusPICK",
+                        "picked_by": "",
+                        "duration": "55:55",
+                        "score": {
+                            "team1": 8,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "6"
+                        },
+                        "score_t": {
+                            "team1": "3",
+                            "team2": "7"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "artzin",
+                                    "agent": "Yoru",
+                                    "rating": "1.10",
+                                    "acs": "233",
+                                    "kills": "18",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+3",
+                                    "kast": "62%",
+                                    "adr": "149",
+                                    "hs_pct": "20%",
+                                    "fk": "4",
+                                    "fd": "6",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "cortezia",
+                                    "agent": "Vyse",
+                                    "rating": "0.86",
+                                    "acs": "182",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "-1",
+                                    "kast": "62%",
+                                    "adr": "122",
+                                    "hs_pct": "31%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "xenom",
+                                    "agent": "Omen",
+                                    "rating": "0.73",
+                                    "acs": "133",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "-5",
+                                    "kast": "76%",
+                                    "adr": "85",
+                                    "hs_pct": "43%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Verno",
+                                    "agent": "Fade",
+                                    "rating": "0.64",
+                                    "acs": "131",
+                                    "kills": "9",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-7",
+                                    "kast": "67%",
+                                    "adr": "81",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Raze",
+                                    "rating": "0.61",
+                                    "acs": "153",
+                                    "kills": "12",
+                                    "deaths": "16",
+                                    "assists": "5",
+                                    "kd_diff": "-4",
+                                    "kast": "81%",
+                                    "adr": "105",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Viper",
+                                    "rating": "1.92",
+                                    "acs": "326",
+                                    "kills": "25",
+                                    "deaths": "10",
+                                    "assists": "4",
+                                    "kd_diff": "+15",
+                                    "kast": "81%",
+                                    "adr": "214",
+                                    "hs_pct": "37%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Sato",
+                                    "agent": "Raze",
+                                    "rating": "1.15",
+                                    "acs": "229",
+                                    "kills": "16",
+                                    "deaths": "16",
+                                    "assists": "10",
+                                    "kd_diff": "0",
+                                    "kast": "81%",
+                                    "adr": "175",
+                                    "hs_pct": "19%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Fade",
+                                    "rating": "1.03",
+                                    "acs": "113",
+                                    "kills": "8",
+                                    "deaths": "9",
+                                    "assists": "10",
+                                    "kd_diff": "-1",
+                                    "kast": "86%",
+                                    "adr": "79",
+                                    "hs_pct": "45%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Okeanos",
+                                    "agent": "Omen",
+                                    "rating": "0.96",
+                                    "acs": "173",
+                                    "kills": "14",
+                                    "deaths": "12",
+                                    "assists": "7",
+                                    "kd_diff": "+2",
+                                    "kast": "81%",
+                                    "adr": "108",
+                                    "hs_pct": "33%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "tex",
+                                    "agent": "Killjoy",
+                                    "rating": "0.69",
+                                    "acs": "172",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "-3",
+                                    "kast": "67%",
+                                    "adr": "108",
+                                    "hs_pct": "23%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Okeanos LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "tex LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Sato LEV"
+                                    }
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "kills_vs": {
+                                        "1": "7 3 +4",
+                                        "2": "7 9 -2",
+                                        "3": "8 4 +4",
+                                        "4": "3 4 -1",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "4 3 +1",
+                                        "5": "5 6 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "kills_vs": {
+                                        "1": "1 7 -6",
+                                        "2": "2 9 -7",
+                                        "3": "3 7 -4",
+                                        "4": "3 3 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cortezia MIBR",
+                                    "kills_vs": {
+                                        "1": "4 3 +1",
+                                        "2": "0 9 -9",
+                                        "3": "7 5 +2",
+                                        "4": "5 6 -1",
+                                        "5": "8 8 +0"
+                                    }
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "kills_vs": {
+                                        "1": "6 2 +4",
+                                        "2": "4 7 -3",
+                                        "3": "5 8 -3",
+                                        "4": "1 4 -3",
+                                        "5": "3 7 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "cortezia MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Okeanos LEV",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "9",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "99",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Sato LEV",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "MIBR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "5 (2)",
+                                "5": "11 (5)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "3 (3)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SunsetPICK",
+                        "picked_by": "",
+                        "duration": "58:40",
+                        "score": {
+                            "team1": 3,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "0",
+                            "team2": "9"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "artzin",
+                                    "agent": "Yoru",
+                                    "rating": "1.04",
+                                    "acs": "236",
+                                    "kills": "13",
+                                    "deaths": "12",
+                                    "assists": "2",
+                                    "kd_diff": "+1",
+                                    "kast": "75%",
+                                    "adr": "143",
+                                    "hs_pct": "37%",
+                                    "fk": "5",
+                                    "fd": "3",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "xenom",
+                                    "agent": "Omen",
+                                    "rating": "0.78",
+                                    "acs": "164",
+                                    "kills": "10",
+                                    "deaths": "13",
+                                    "assists": "4",
+                                    "kd_diff": "-3",
+                                    "kast": "81%",
+                                    "adr": "101",
+                                    "hs_pct": "29%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "cortezia",
+                                    "agent": "Cypher",
+                                    "rating": "0.56",
+                                    "acs": "187",
+                                    "kills": "10",
+                                    "deaths": "16",
+                                    "assists": "3",
+                                    "kd_diff": "-6",
+                                    "kast": "63%",
+                                    "adr": "114",
+                                    "hs_pct": "37%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Raze",
+                                    "rating": "0.56",
+                                    "acs": "133",
+                                    "kills": "7",
+                                    "deaths": "13",
+                                    "assists": "2",
+                                    "kd_diff": "-6",
+                                    "kast": "63%",
+                                    "adr": "98",
+                                    "hs_pct": "19%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Verno",
+                                    "agent": "Sova",
+                                    "rating": "0.35",
+                                    "acs": "122",
+                                    "kills": "5",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-9",
+                                    "kast": "50%",
+                                    "adr": "88",
+                                    "hs_pct": "31%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Omen",
+                                    "rating": "1.77",
+                                    "acs": "295",
+                                    "kills": "19",
+                                    "deaths": "6",
+                                    "assists": "3",
+                                    "kd_diff": "+13",
+                                    "kast": "75%",
+                                    "adr": "188",
+                                    "hs_pct": "39%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Sova",
+                                    "rating": "1.33",
+                                    "acs": "205",
+                                    "kills": "12",
+                                    "deaths": "7",
+                                    "assists": "3",
+                                    "kd_diff": "+5",
+                                    "kast": "81%",
+                                    "adr": "136",
+                                    "hs_pct": "20%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "tex",
+                                    "agent": "Vyse",
+                                    "rating": "1.26",
+                                    "acs": "244",
+                                    "kills": "14",
+                                    "deaths": "11",
+                                    "assists": "3",
+                                    "kd_diff": "+3",
+                                    "kast": "81%",
+                                    "adr": "161",
+                                    "hs_pct": "46%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Sato",
+                                    "agent": "Neon",
+                                    "rating": "1.17",
+                                    "acs": "252",
+                                    "kills": "16",
+                                    "deaths": "11",
+                                    "assists": "1",
+                                    "kd_diff": "+5",
+                                    "kast": "69%",
+                                    "adr": "158",
+                                    "hs_pct": "35%",
+                                    "fk": "1",
+                                    "fd": "5",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "Okeanos",
+                                    "agent": "Kayo",
+                                    "rating": "0.83",
+                                    "acs": "135",
+                                    "kills": "7",
+                                    "deaths": "10",
+                                    "assists": "13",
+                                    "kd_diff": "-3",
+                                    "kast": "81%",
+                                    "adr": "82",
+                                    "hs_pct": "26%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Okeanos LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "tex LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Sato LEV"
+                                    }
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "kills_vs": {
+                                        "1": "7 3 +4",
+                                        "2": "7 9 -2",
+                                        "3": "8 4 +4",
+                                        "4": "3 4 -1",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "4 3 +1",
+                                        "5": "5 6 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "kills_vs": {
+                                        "1": "1 7 -6",
+                                        "2": "2 9 -7",
+                                        "3": "3 7 -4",
+                                        "4": "3 3 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cortezia MIBR",
+                                    "kills_vs": {
+                                        "1": "4 3 +1",
+                                        "2": "0 9 -9",
+                                        "3": "7 5 +2",
+                                        "4": "5 6 -1",
+                                        "5": "8 8 +0"
+                                    }
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "kills_vs": {
+                                        "1": "6 2 +4",
+                                        "2": "4 7 -3",
+                                        "3": "5 8 -3",
+                                        "4": "1 4 -3",
+                                        "5": "3 7 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "cortezia MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Okeanos LEV",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "9",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "99",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Sato LEV",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "MIBR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "5 (2)",
+                                "5": "11 (5)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "3 (3)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2025/07/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/509804/mibr-vs-kr-esports-vct-2025-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/06/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Team Liquid",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/490313/team-liquid-vs-mibr-valorant-masters-2025-toronto-r2-0-1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/06/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Gen.G",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/490306/gen-g-vs-mibr-champions-tour-2025-masters-toronto-r1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/05/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "2 - 3",
+                        "url": "https://www.vlr.gg/488020/100-thieves-vs-mibr-esports-world-cup-2025-decider"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/05/25",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/488019/mibr-vs-evil-geniuses-esports-world-cup-2025-elim"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/19",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LOUD",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/509802/leviat-n-vs-loud-vct-2025-americas-stage-2-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/07",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 2",
+                        "url": "https://www.vlr.gg/511523/kr-esports-vs-leviat-n-tixinha-sacy-invitational-by-bonoxs-gf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/06",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/511522/furia-vs-leviat-n-tixinha-sacy-invitational-by-bonoxs-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/510617/kr-esports-vs-leviat-n-tixinha-sacy-invitational-by-bonoxs-rr"
+                    },
+                    {
+                        "event": "",
+                        "date": "2025/07/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 1",
+                        "url": "https://www.vlr.gg/510614/furia-vs-leviat-n-tixinha-sacy-invitational-by-bonoxs-rr"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "Okeanos LEV",
+                                "2": "kiNgg LEV",
+                                "3": "tex LEV",
+                                "4": "C0M LEV",
+                                "5": "Sato LEV"
+                            }
+                        },
+                        {
+                            "player": "artzin MIBR",
+                            "kills_vs": {
+                                "1": "7 3 +4",
+                                "2": "7 9 -2",
+                                "3": "8 4 +4",
+                                "4": "3 4 -1",
+                                "5": "6 7 -1"
+                            }
+                        },
+                        {
+                            "player": "xenom MIBR",
+                            "kills_vs": {
+                                "1": "4 6 -2",
+                                "2": "3 10 -7",
+                                "3": "4 3 +1",
+                                "4": "4 3 +1",
+                                "5": "5 6 -1"
+                            }
+                        },
+                        {
+                            "player": "Verno MIBR",
+                            "kills_vs": {
+                                "1": "1 7 -6",
+                                "2": "2 9 -7",
+                                "3": "3 7 -4",
+                                "4": "3 3 +0",
+                                "5": "5 4 +1"
+                            }
+                        },
+                        {
+                            "player": "cortezia MIBR",
+                            "kills_vs": {
+                                "1": "4 3 +1",
+                                "2": "0 9 -9",
+                                "3": "7 5 +2",
+                                "4": "5 6 -1",
+                                "5": "8 8 +0"
+                            }
+                        },
+                        {
+                            "player": "aspas MIBR",
+                            "kills_vs": {
+                                "1": "6 2 +4",
+                                "2": "4 7 -3",
+                                "3": "5 8 -3",
+                                "4": "1 4 -3",
+                                "5": "3 7 -4"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "cortezia MIBR",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "46",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "artzin MIBR",
+                            "1": "",
+                            "2": "6",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "aspas MIBR",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "0",
+                            "13": "0"
+                        },
+                        {
+                            "player": "xenom MIBR",
+                            "1": "",
+                            "2": "5",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Verno MIBR",
+                            "1": "",
+                            "2": "3",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "C0M LEV",
+                            "1": "",
+                            "2": "2",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "4",
+                            "13": "2"
+                        },
+                        {
+                            "player": "tex LEV",
+                            "1": "",
+                            "2": "3",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "51",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Okeanos LEV",
+                            "1": "",
+                            "2": "4",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "32",
+                            "12": "8",
+                            "13": "1"
+                        },
+                        {
+                            "player": "kiNgg LEV",
+                            "1": "",
+                            "2": "5",
+                            "3": "9",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "99",
+                            "12": "4",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Sato LEV",
+                            "1": "",
+                            "2": "1",
+                            "3": "1",
+                            "4": "3",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "62",
+                            "12": "1",
+                            "13": "0"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "224746",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Okeanos LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "tex LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Sato LEV"
+                                    }
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "kills_vs": {
+                                        "1": "7 3 +4",
+                                        "2": "7 9 -2",
+                                        "3": "8 4 +4",
+                                        "4": "3 4 -1",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "4 3 +1",
+                                        "5": "5 6 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "kills_vs": {
+                                        "1": "1 7 -6",
+                                        "2": "2 9 -7",
+                                        "3": "3 7 -4",
+                                        "4": "3 3 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cortezia MIBR",
+                                    "kills_vs": {
+                                        "1": "4 3 +1",
+                                        "2": "0 9 -9",
+                                        "3": "7 5 +2",
+                                        "4": "5 6 -1",
+                                        "5": "8 8 +0"
+                                    }
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "kills_vs": {
+                                        "1": "6 2 +4",
+                                        "2": "4 7 -3",
+                                        "3": "5 8 -3",
+                                        "4": "1 4 -3",
+                                        "5": "3 7 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "cortezia MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Okeanos LEV",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "9",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "99",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Sato LEV",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "224747",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Okeanos LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "tex LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Sato LEV"
+                                    }
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "kills_vs": {
+                                        "1": "7 3 +4",
+                                        "2": "7 9 -2",
+                                        "3": "8 4 +4",
+                                        "4": "3 4 -1",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "4 3 +1",
+                                        "5": "5 6 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "kills_vs": {
+                                        "1": "1 7 -6",
+                                        "2": "2 9 -7",
+                                        "3": "3 7 -4",
+                                        "4": "3 3 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cortezia MIBR",
+                                    "kills_vs": {
+                                        "1": "4 3 +1",
+                                        "2": "0 9 -9",
+                                        "3": "7 5 +2",
+                                        "4": "5 6 -1",
+                                        "5": "8 8 +0"
+                                    }
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "kills_vs": {
+                                        "1": "6 2 +4",
+                                        "2": "4 7 -3",
+                                        "3": "5 8 -3",
+                                        "4": "1 4 -3",
+                                        "5": "3 7 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "cortezia MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Okeanos LEV",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "9",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "99",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Sato LEV",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "224748",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "Okeanos LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "tex LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Sato LEV"
+                                    }
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "kills_vs": {
+                                        "1": "7 3 +4",
+                                        "2": "7 9 -2",
+                                        "3": "8 4 +4",
+                                        "4": "3 4 -1",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "kills_vs": {
+                                        "1": "4 6 -2",
+                                        "2": "3 10 -7",
+                                        "3": "4 3 +1",
+                                        "4": "4 3 +1",
+                                        "5": "5 6 -1"
+                                    }
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "kills_vs": {
+                                        "1": "1 7 -6",
+                                        "2": "2 9 -7",
+                                        "3": "3 7 -4",
+                                        "4": "3 3 +0",
+                                        "5": "5 4 +1"
+                                    }
+                                },
+                                {
+                                    "player": "cortezia MIBR",
+                                    "kills_vs": {
+                                        "1": "4 3 +1",
+                                        "2": "0 9 -9",
+                                        "3": "7 5 +2",
+                                        "4": "5 6 -1",
+                                        "5": "8 8 +0"
+                                    }
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "kills_vs": {
+                                        "1": "6 2 +4",
+                                        "2": "4 7 -3",
+                                        "3": "5 8 -3",
+                                        "4": "1 4 -3",
+                                        "5": "3 7 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "cortezia MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "artzin MIBR",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "aspas MIBR",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "0",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "xenom MIBR",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Verno MIBR",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "4",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Okeanos LEV",
+                                    "1": "",
+                                    "2": "4",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "32",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "9",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "99",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Sato LEV",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "1",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "62",
+                                    "12": "1",
+                                    "13": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "MIBR",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (0)",
+                        "4": "5 (2)",
+                        "5": "11 (5)"
+                    },
+                    {
+                        "0": "LEV",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "3 (3)",
+                        "5": "14 (9)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "224746",
+                        "rows": [
+                            {
+                                "0": "MIBR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "5 (2)",
+                                "5": "11 (5)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "3 (3)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "224747",
+                        "rows": [
+                            {
+                                "0": "MIBR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "5 (2)",
+                                "5": "11 (5)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "3 (3)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "224748",
+                        "rows": [
+                            {
+                                "0": "MIBR",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "5 (2)",
+                                "5": "11 (5)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "3 (3)",
+                                "5": "14 (9)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

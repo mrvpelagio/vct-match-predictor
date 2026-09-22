@@ -1,0 +1,2433 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "183783",
+                "event": {
+                    "name": "Champions Tour 2023: Americas League Regular Season: Week 2",
+                    "series": "Regular Season: Week 2",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "April 11, 2023 3:00 AM PST Patch 6.05",
+                "map_vetos": "EG ban Lotus; 100T ban Pearl; EG pick Haven; 100T pick Icebox; EG ban Ascent; 100T ban Split; Fracture remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "5248",
+                        "name": "Evil Geniuses",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/667462f046618.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "120",
+                        "name": "100 Thieves",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/HQcbHTYP4TM?t=2321"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/MbChN49uCDU?t=862"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "HavenPICK",
+                        "picked_by": "",
+                        "duration": "1:00:31",
+                        "score": {
+                            "team1": 9,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "7"
+                        },
+                        "score_t": {
+                            "team1": "3",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "BcJ",
+                                    "agent": "Omen",
+                                    "rating": "1.08",
+                                    "acs": "188",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "9",
+                                    "kd_diff": "-1",
+                                    "kast": "77%",
+                                    "adr": "118",
+                                    "hs_pct": "27%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Killjoy",
+                                    "rating": "0.79",
+                                    "acs": "195",
+                                    "kills": "15",
+                                    "deaths": "18",
+                                    "assists": "2",
+                                    "kd_diff": "-3",
+                                    "kast": "59%",
+                                    "adr": "126",
+                                    "hs_pct": "27%",
+                                    "fk": "5",
+                                    "fd": "2",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Breach",
+                                    "rating": "0.75",
+                                    "acs": "185",
+                                    "kills": "14",
+                                    "deaths": "20",
+                                    "assists": "5",
+                                    "kd_diff": "-6",
+                                    "kast": "68%",
+                                    "adr": "126",
+                                    "hs_pct": "26%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "jawgemo",
+                                    "agent": "Jett",
+                                    "rating": "0.71",
+                                    "acs": "185",
+                                    "kills": "14",
+                                    "deaths": "19",
+                                    "assists": "3",
+                                    "kd_diff": "-5",
+                                    "kast": "64%",
+                                    "adr": "118",
+                                    "hs_pct": "29%",
+                                    "fk": "3",
+                                    "fd": "7",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Sova",
+                                    "rating": "0.53",
+                                    "acs": "96",
+                                    "kills": "7",
+                                    "deaths": "17",
+                                    "assists": "5",
+                                    "kd_diff": "-10",
+                                    "kast": "64%",
+                                    "adr": "74",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Jett",
+                                    "rating": "1.49",
+                                    "acs": "284",
+                                    "kills": "23",
+                                    "deaths": "13",
+                                    "assists": "4",
+                                    "kd_diff": "+10",
+                                    "kast": "77%",
+                                    "adr": "172",
+                                    "hs_pct": "18%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "stellar",
+                                    "agent": "Killjoy",
+                                    "rating": "1.41",
+                                    "acs": "270",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "2",
+                                    "kd_diff": "+7",
+                                    "kast": "82%",
+                                    "adr": "186",
+                                    "hs_pct": "24%",
+                                    "fk": "5",
+                                    "fd": "0",
+                                    "fk_diff": "+5"
+                                },
+                                {
+                                    "name": "bang",
+                                    "agent": "Omen",
+                                    "rating": "1.24",
+                                    "acs": "203",
+                                    "kills": "16",
+                                    "deaths": "12",
+                                    "assists": "11",
+                                    "kd_diff": "+4",
+                                    "kast": "77%",
+                                    "adr": "128",
+                                    "hs_pct": "23%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Derrek",
+                                    "agent": "Sova",
+                                    "rating": "1.12",
+                                    "acs": "207",
+                                    "kills": "15",
+                                    "deaths": "11",
+                                    "assists": "9",
+                                    "kd_diff": "+4",
+                                    "kast": "73%",
+                                    "adr": "144",
+                                    "hs_pct": "27%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Gekko",
+                                    "rating": "0.88",
+                                    "acs": "165",
+                                    "kills": "14",
+                                    "deaths": "14",
+                                    "assists": "8",
+                                    "kd_diff": "0",
+                                    "kast": "64%",
+                                    "adr": "101",
+                                    "hs_pct": "15%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "stellar 100T",
+                                        "2": "bang 100T",
+                                        "3": "Asuna 100T",
+                                        "4": "Derrek 100T",
+                                        "5": "Cryocells 100T"
+                                    }
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "kills_vs": {
+                                        "1": "4 12 -8",
+                                        "2": "4 9 -5",
+                                        "3": "2 3 -1",
+                                        "4": "2 3 -1",
+                                        "5": "7 7 +0"
+                                    }
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "1 9 -8",
+                                        "3": "1 6 -5",
+                                        "4": "3 8 -5",
+                                        "5": "1 4 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "6 6 +0",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "2 4 -2",
+                                        "3": "6 3 +3",
+                                        "4": "2 3 -1",
+                                        "5": "2 2 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "8 5 +3",
+                                        "3": "10 5 +5",
+                                        "4": "3 6 -3",
+                                        "5": "5 9 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "28",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "35",
+                                    "12": "3",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "stellar 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "2",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derrek 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "78",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "12 (6)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "IceboxPICK",
+                        "picked_by": "",
+                        "duration": "44:48",
+                        "score": {
+                            "team1": 5,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "2",
+                            "team2": "9"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Skye",
+                                    "rating": "1.31",
+                                    "acs": "275",
+                                    "kills": "17",
+                                    "deaths": "13",
+                                    "assists": "7",
+                                    "kd_diff": "+4",
+                                    "kast": "72%",
+                                    "adr": "155",
+                                    "hs_pct": "25%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Killjoy",
+                                    "rating": "1.04",
+                                    "acs": "235",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "0",
+                                    "kast": "67%",
+                                    "adr": "150",
+                                    "hs_pct": "29%",
+                                    "fk": "3",
+                                    "fd": "0",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Demon1",
+                                    "agent": "Jett",
+                                    "rating": "0.99",
+                                    "acs": "227",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "2",
+                                    "kd_diff": "-1",
+                                    "kast": "67%",
+                                    "adr": "159",
+                                    "hs_pct": "22%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Viper",
+                                    "rating": "0.35",
+                                    "acs": "74",
+                                    "kills": "3",
+                                    "deaths": "14",
+                                    "assists": "10",
+                                    "kd_diff": "-11",
+                                    "kast": "61%",
+                                    "adr": "61",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "jawgemo",
+                                    "agent": "Harbor",
+                                    "rating": "0.34",
+                                    "acs": "100",
+                                    "kills": "5",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-10",
+                                    "kast": "56%",
+                                    "adr": "72",
+                                    "hs_pct": "8%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "bang",
+                                    "agent": "Viper",
+                                    "rating": "1.87",
+                                    "acs": "373",
+                                    "kills": "25",
+                                    "deaths": "10",
+                                    "assists": "5",
+                                    "kd_diff": "+15",
+                                    "kast": "89%",
+                                    "adr": "252",
+                                    "hs_pct": "33%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Derrek",
+                                    "agent": "Sova",
+                                    "rating": "1.35",
+                                    "acs": "232",
+                                    "kills": "15",
+                                    "deaths": "11",
+                                    "assists": "7",
+                                    "kd_diff": "+4",
+                                    "kast": "72%",
+                                    "adr": "155",
+                                    "hs_pct": "18%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "stellar",
+                                    "agent": "Killjoy",
+                                    "rating": "1.30",
+                                    "acs": "215",
+                                    "kills": "16",
+                                    "deaths": "10",
+                                    "assists": "4",
+                                    "kd_diff": "+6",
+                                    "kast": "83%",
+                                    "adr": "140",
+                                    "hs_pct": "13%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Sage",
+                                    "rating": "1.21",
+                                    "acs": "173",
+                                    "kills": "11",
+                                    "deaths": "9",
+                                    "assists": "11",
+                                    "kd_diff": "+2",
+                                    "kast": "89%",
+                                    "adr": "114",
+                                    "hs_pct": "20%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Omen",
+                                    "rating": "0.57",
+                                    "acs": "116",
+                                    "kills": "5",
+                                    "deaths": "14",
+                                    "assists": "11",
+                                    "kd_diff": "-9",
+                                    "kast": "72%",
+                                    "adr": "76",
+                                    "hs_pct": "19%",
+                                    "fk": "2",
+                                    "fd": "3",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "stellar 100T",
+                                        "2": "bang 100T",
+                                        "3": "Asuna 100T",
+                                        "4": "Derrek 100T",
+                                        "5": "Cryocells 100T"
+                                    }
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "kills_vs": {
+                                        "1": "4 12 -8",
+                                        "2": "4 9 -5",
+                                        "3": "2 3 -1",
+                                        "4": "2 3 -1",
+                                        "5": "7 7 +0"
+                                    }
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "1 9 -8",
+                                        "3": "1 6 -5",
+                                        "4": "3 8 -5",
+                                        "5": "1 4 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "6 6 +0",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "2 4 -2",
+                                        "3": "6 3 +3",
+                                        "4": "2 3 -1",
+                                        "5": "2 2 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "8 5 +3",
+                                        "3": "10 5 +5",
+                                        "4": "3 6 -3",
+                                        "5": "5 9 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "28",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "35",
+                                    "12": "3",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "stellar 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "2",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derrek 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "78",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "12 (6)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2023/04/03",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/183777/evil-geniuses-vs-cloud9-champions-tour-2023-americas-league-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/19",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "TALON",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/167359/evil-geniuses-vs-talon-esports-champions-tour-2023-lock-in-s-o-paulo-alpha-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/16",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Team Heretics",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/167354/team-heretics-vs-evil-geniuses-champions-tour-2023-lock-in-s-o-paulo-alpha-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2022/08/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Soniqs",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 1",
+                        "url": "https://www.vlr.gg/132142/soniqs-vs-evil-geniuses-boomtv-proving-grounds-unleashed-playoffs-lr5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2022/08/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cosmic Divide",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "1 - 0",
+                        "url": "https://www.vlr.gg/132141/cosmic-divide-vs-evil-geniuses-boomtv-proving-grounds-unleashed-playoffs-lr4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/04/02",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/183774/sentinels-vs-100-thieves-champions-tour-2023-americas-league-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/28",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FNATIC",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/167375/100-thieves-vs-fnatic-champions-tour-2023-lock-in-s-o-paulo-omega-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/27",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FUT Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/167372/fut-esports-vs-100-thieves-champions-tour-2023-lock-in-s-o-paulo-omega-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/02/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "EDward Gaming",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/167367/100-thieves-vs-edward-gaming-champions-tour-2023-lock-in-s-o-paulo-omega-ro16"
+                    },
+                    {
+                        "event": "",
+                        "date": "2022/12/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/161217/100-thieves-vs-cloud9-red-bull-home-ground-3-gf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "stellar 100T",
+                                "2": "bang 100T",
+                                "3": "Asuna 100T",
+                                "4": "Derrek 100T",
+                                "5": "Cryocells 100T"
+                            }
+                        },
+                        {
+                            "player": "jawgemo EG",
+                            "kills_vs": {
+                                "1": "4 12 -8",
+                                "2": "4 9 -5",
+                                "3": "2 3 -1",
+                                "4": "2 3 -1",
+                                "5": "7 7 +0"
+                            }
+                        },
+                        {
+                            "player": "C0M EG",
+                            "kills_vs": {
+                                "1": "4 4 +0",
+                                "2": "1 9 -8",
+                                "3": "1 6 -5",
+                                "4": "3 8 -5",
+                                "5": "1 4 -3"
+                            }
+                        },
+                        {
+                            "player": "Ethan EG",
+                            "kills_vs": {
+                                "1": "9 9 +0",
+                                "2": "5 8 -3",
+                                "3": "2 6 -4",
+                                "4": "6 6 +0",
+                                "5": "9 4 +5"
+                            }
+                        },
+                        {
+                            "player": "BcJ EG",
+                            "kills_vs": {
+                                "1": "2 3 -1",
+                                "2": "2 4 -2",
+                                "3": "6 3 +3",
+                                "4": "2 3 -1",
+                                "5": "2 2 +0"
+                            }
+                        },
+                        {
+                            "player": "Boostio EG",
+                            "kills_vs": {
+                                "1": "4 8 -4",
+                                "2": "8 5 +3",
+                                "3": "10 5 +5",
+                                "4": "3 6 -3",
+                                "5": "5 9 -4"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Boostio EG",
+                            "1": "",
+                            "2": "8",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "53",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "C0M EG",
+                            "1": "",
+                            "2": "",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "28",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "BcJ EG",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "51",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "jawgemo EG",
+                            "1": "",
+                            "2": "1",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "35",
+                            "12": "3",
+                            "13": "2"
+                        },
+                        {
+                            "player": "Ethan EG",
+                            "1": "",
+                            "2": "6",
+                            "3": "",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "56",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Demon1 EG",
+                            "1": "",
+                            "2": "2",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "59",
+                            "12": "0",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Asuna 100T",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "12",
+                            "13": "2"
+                        },
+                        {
+                            "player": "stellar 100T",
+                            "1": "",
+                            "2": "9",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "72",
+                            "12": "2",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Derrek 100T",
+                            "1": "",
+                            "2": "8",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "65",
+                            "12": "4",
+                            "13": "1"
+                        },
+                        {
+                            "player": "bang 100T",
+                            "1": "",
+                            "2": "7",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "78",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Cryocells 100T",
+                            "1": "",
+                            "2": "3",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "50",
+                            "12": "0",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "118950",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "stellar 100T",
+                                        "2": "bang 100T",
+                                        "3": "Asuna 100T",
+                                        "4": "Derrek 100T",
+                                        "5": "Cryocells 100T"
+                                    }
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "kills_vs": {
+                                        "1": "4 12 -8",
+                                        "2": "4 9 -5",
+                                        "3": "2 3 -1",
+                                        "4": "2 3 -1",
+                                        "5": "7 7 +0"
+                                    }
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "1 9 -8",
+                                        "3": "1 6 -5",
+                                        "4": "3 8 -5",
+                                        "5": "1 4 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "6 6 +0",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "2 4 -2",
+                                        "3": "6 3 +3",
+                                        "4": "2 3 -1",
+                                        "5": "2 2 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "8 5 +3",
+                                        "3": "10 5 +5",
+                                        "4": "3 6 -3",
+                                        "5": "5 9 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "28",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "35",
+                                    "12": "3",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "stellar 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "2",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derrek 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "78",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "118951",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "stellar 100T",
+                                        "2": "bang 100T",
+                                        "3": "Asuna 100T",
+                                        "4": "Derrek 100T",
+                                        "5": "Cryocells 100T"
+                                    }
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "kills_vs": {
+                                        "1": "4 12 -8",
+                                        "2": "4 9 -5",
+                                        "3": "2 3 -1",
+                                        "4": "2 3 -1",
+                                        "5": "7 7 +0"
+                                    }
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "1 9 -8",
+                                        "3": "1 6 -5",
+                                        "4": "3 8 -5",
+                                        "5": "1 4 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "6 6 +0",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "2 4 -2",
+                                        "3": "6 3 +3",
+                                        "4": "2 3 -1",
+                                        "5": "2 2 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "8 5 +3",
+                                        "3": "10 5 +5",
+                                        "4": "3 6 -3",
+                                        "5": "5 9 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "28",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "35",
+                                    "12": "3",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "stellar 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "2",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derrek 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "78",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "118952",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "stellar 100T",
+                                        "2": "bang 100T",
+                                        "3": "Asuna 100T",
+                                        "4": "Derrek 100T",
+                                        "5": "Cryocells 100T"
+                                    }
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "kills_vs": {
+                                        "1": "4 12 -8",
+                                        "2": "4 9 -5",
+                                        "3": "2 3 -1",
+                                        "4": "2 3 -1",
+                                        "5": "7 7 +0"
+                                    }
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "kills_vs": {
+                                        "1": "4 4 +0",
+                                        "2": "1 9 -8",
+                                        "3": "1 6 -5",
+                                        "4": "3 8 -5",
+                                        "5": "1 4 -3"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "5 8 -3",
+                                        "3": "2 6 -4",
+                                        "4": "6 6 +0",
+                                        "5": "9 4 +5"
+                                    }
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "kills_vs": {
+                                        "1": "2 3 -1",
+                                        "2": "2 4 -2",
+                                        "3": "6 3 +3",
+                                        "4": "2 3 -1",
+                                        "5": "2 2 +0"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio EG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "8 5 +3",
+                                        "3": "10 5 +5",
+                                        "4": "3 6 -3",
+                                        "5": "5 9 -4"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Boostio EG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M EG",
+                                    "1": "",
+                                    "2": "",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "28",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "BcJ EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "51",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "jawgemo EG",
+                                    "1": "",
+                                    "2": "1",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "35",
+                                    "12": "3",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "Ethan EG",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "56",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Demon1 EG",
+                                    "1": "",
+                                    "2": "2",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "0",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "12",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "stellar 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "72",
+                                    "12": "2",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Derrek 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "65",
+                                    "12": "4",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "78",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "50",
+                                    "12": "0",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "EG",
+                        "1": "1",
+                        "2": "4 (1)",
+                        "3": "1 (0)",
+                        "4": "5 (2)",
+                        "5": "12 (6)"
+                    },
+                    {
+                        "0": "100T",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "0 (0)",
+                        "4": "4 (4)",
+                        "5": "15 (8)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "118950",
+                        "rows": [
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "12 (6)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "118951",
+                        "rows": [
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "12 (6)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "118952",
+                        "rows": [
+                            {
+                                "0": "EG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "5 (2)",
+                                "5": "12 (6)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "0 (0)",
+                                "4": "4 (4)",
+                                "5": "15 (8)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

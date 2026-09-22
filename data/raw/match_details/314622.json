@@ -1,0 +1,2944 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "314622",
+                "event": {
+                    "name": "Champions Tour 2024: Americas Stage 1 Regular Season: Week 1",
+                    "series": "Regular Season: Week 1",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "April 7, 2024 5:00 AM PST Patch 8.05",
+                "map_vetos": "C9 ban Breeze; LEV ban Split; C9 pick Icebox; LEV pick Sunset; C9 ban Bind; LEV ban Lotus; Ascent remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "188",
+                        "name": "Cloud9",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/628addcbd509e.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "2359",
+                        "name": "LEVIAT\u00c1N",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/61b8888cc3860.png",
+                        "score": "1",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/34prSiH_YJs?t=2396"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/1ciLoMNTudc?t=587"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/RuBfM4XBV7c?t=514"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "IceboxPICK",
+                        "picked_by": "",
+                        "duration": "1:10:08",
+                        "score": {
+                            "team1": 7,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "9"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "moose",
+                                    "agent": "Killjoy",
+                                    "rating": "0.98",
+                                    "acs": "209",
+                                    "kills": "14",
+                                    "deaths": "15",
+                                    "assists": "6",
+                                    "kd_diff": "-1",
+                                    "kast": "75%",
+                                    "adr": "152",
+                                    "hs_pct": "30%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Xeppaa",
+                                    "agent": "Sage",
+                                    "rating": "0.80",
+                                    "acs": "216",
+                                    "kills": "13",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "-4",
+                                    "kast": "75%",
+                                    "adr": "141",
+                                    "hs_pct": "45%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "runi",
+                                    "agent": "Sova",
+                                    "rating": "0.72",
+                                    "acs": "104",
+                                    "kills": "8",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "-6",
+                                    "kast": "45%",
+                                    "adr": "100",
+                                    "hs_pct": "35%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "OXY",
+                                    "agent": "Jett",
+                                    "rating": "0.70",
+                                    "acs": "227",
+                                    "kills": "16",
+                                    "deaths": "19",
+                                    "assists": "2",
+                                    "kd_diff": "-3",
+                                    "kast": "65%",
+                                    "adr": "130",
+                                    "hs_pct": "28%",
+                                    "fk": "5",
+                                    "fd": "7",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "vanity",
+                                    "agent": "Viper",
+                                    "rating": "0.59",
+                                    "acs": "138",
+                                    "kills": "10",
+                                    "deaths": "17",
+                                    "assists": "8",
+                                    "kd_diff": "-7",
+                                    "kast": "75%",
+                                    "adr": "98",
+                                    "hs_pct": "56%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "aspas",
+                                    "agent": "Jett",
+                                    "rating": "2.12",
+                                    "acs": "420",
+                                    "kills": "31",
+                                    "deaths": "9",
+                                    "assists": "2",
+                                    "kd_diff": "+22",
+                                    "kast": "85%",
+                                    "adr": "281",
+                                    "hs_pct": "30%",
+                                    "fk": "4",
+                                    "fd": "1",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Harbor",
+                                    "rating": "1.36",
+                                    "acs": "224",
+                                    "kills": "17",
+                                    "deaths": "12",
+                                    "assists": "7",
+                                    "kd_diff": "+5",
+                                    "kast": "80%",
+                                    "adr": "143",
+                                    "hs_pct": "50%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Viper",
+                                    "rating": "0.97",
+                                    "acs": "155",
+                                    "kills": "12",
+                                    "deaths": "12",
+                                    "assists": "4",
+                                    "kd_diff": "0",
+                                    "kast": "80%",
+                                    "adr": "105",
+                                    "hs_pct": "28%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "tex",
+                                    "agent": "Killjoy",
+                                    "rating": "0.79",
+                                    "acs": "191",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "-2",
+                                    "kast": "80%",
+                                    "adr": "112",
+                                    "hs_pct": "30%",
+                                    "fk": "5",
+                                    "fd": "2",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Sova",
+                                    "rating": "0.76",
+                                    "acs": "145",
+                                    "kills": "9",
+                                    "deaths": "13",
+                                    "assists": "9",
+                                    "kd_diff": "-4",
+                                    "kast": "85%",
+                                    "adr": "104",
+                                    "hs_pct": "18%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SunsetPICK",
+                        "picked_by": "",
+                        "duration": "46:48",
+                        "score": {
+                            "team1": 13,
+                            "team2": 7
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "1"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "runi",
+                                    "agent": "Viper",
+                                    "rating": "1.53",
+                                    "acs": "285",
+                                    "kills": "20",
+                                    "deaths": "11",
+                                    "assists": "4",
+                                    "kd_diff": "+9",
+                                    "kast": "85%",
+                                    "adr": "192",
+                                    "hs_pct": "48%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Xeppaa",
+                                    "agent": "Skye",
+                                    "rating": "1.36",
+                                    "acs": "229",
+                                    "kills": "16",
+                                    "deaths": "10",
+                                    "assists": "12",
+                                    "kd_diff": "+6",
+                                    "kast": "85%",
+                                    "adr": "133",
+                                    "hs_pct": "18%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "vanity",
+                                    "agent": "Omen",
+                                    "rating": "1.18",
+                                    "acs": "188",
+                                    "kills": "13",
+                                    "deaths": "9",
+                                    "assists": "10",
+                                    "kd_diff": "+4",
+                                    "kast": "80%",
+                                    "adr": "127",
+                                    "hs_pct": "30%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "OXY",
+                                    "agent": "Raze",
+                                    "rating": "0.93",
+                                    "acs": "198",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "-2",
+                                    "kast": "65%",
+                                    "adr": "127",
+                                    "hs_pct": "28%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "moose",
+                                    "agent": "Cypher",
+                                    "rating": "0.81",
+                                    "acs": "105",
+                                    "kills": "7",
+                                    "deaths": "9",
+                                    "assists": "3",
+                                    "kd_diff": "-2",
+                                    "kast": "70%",
+                                    "adr": "66",
+                                    "hs_pct": "36%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Omen",
+                                    "rating": "1.01",
+                                    "acs": "189",
+                                    "kills": "14",
+                                    "deaths": "12",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "65%",
+                                    "adr": "118",
+                                    "hs_pct": "39%",
+                                    "fk": "3",
+                                    "fd": "4",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "aspas",
+                                    "agent": "Phoenix",
+                                    "rating": "0.79",
+                                    "acs": "194",
+                                    "kills": "12",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "-2",
+                                    "kast": "75%",
+                                    "adr": "127",
+                                    "hs_pct": "48%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "tex",
+                                    "agent": "Cypher",
+                                    "rating": "0.73",
+                                    "acs": "155",
+                                    "kills": "9",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-5",
+                                    "kast": "65%",
+                                    "adr": "107",
+                                    "hs_pct": "39%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Sova",
+                                    "rating": "0.64",
+                                    "acs": "178",
+                                    "kills": "10",
+                                    "deaths": "14",
+                                    "assists": "1",
+                                    "kd_diff": "-4",
+                                    "kast": "60%",
+                                    "adr": "117",
+                                    "hs_pct": "11%",
+                                    "fk": "5",
+                                    "fd": "1",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Breach",
+                                    "rating": "0.47",
+                                    "acs": "109",
+                                    "kills": "8",
+                                    "deaths": "15",
+                                    "assists": "0",
+                                    "kd_diff": "-7",
+                                    "kast": "65%",
+                                    "adr": "68",
+                                    "hs_pct": "44%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "Ascent",
+                        "picked_by": "",
+                        "duration": "1:24:47",
+                        "score": {
+                            "team1": 18,
+                            "team2": 16
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "7"
+                        },
+                        "score_ot": {
+                            "team1": "6",
+                            "team2": "4"
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "OXY",
+                                    "agent": "Jett",
+                                    "rating": "1.43",
+                                    "acs": "297",
+                                    "kills": "35",
+                                    "deaths": "25",
+                                    "assists": "4",
+                                    "kd_diff": "+10",
+                                    "kast": "76%",
+                                    "adr": "190",
+                                    "hs_pct": "26%",
+                                    "fk": "7",
+                                    "fd": "5",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Xeppaa",
+                                    "agent": "Kayo",
+                                    "rating": "1.11",
+                                    "acs": "234",
+                                    "kills": "26",
+                                    "deaths": "24",
+                                    "assists": "16",
+                                    "kd_diff": "+2",
+                                    "kast": "74%",
+                                    "adr": "152",
+                                    "hs_pct": "34%",
+                                    "fk": "4",
+                                    "fd": "4",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "runi",
+                                    "agent": "Sova",
+                                    "rating": "1.07",
+                                    "acs": "187",
+                                    "kills": "21",
+                                    "deaths": "21",
+                                    "assists": "13",
+                                    "kd_diff": "0",
+                                    "kast": "71%",
+                                    "adr": "147",
+                                    "hs_pct": "32%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "moose",
+                                    "agent": "Killjoy",
+                                    "rating": "0.89",
+                                    "acs": "179",
+                                    "kills": "19",
+                                    "deaths": "24",
+                                    "assists": "9",
+                                    "kd_diff": "-5",
+                                    "kast": "71%",
+                                    "adr": "136",
+                                    "hs_pct": "21%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "vanity",
+                                    "agent": "Omen",
+                                    "rating": "0.66",
+                                    "acs": "126",
+                                    "kills": "15",
+                                    "deaths": "25",
+                                    "assists": "9",
+                                    "kd_diff": "-10",
+                                    "kast": "74%",
+                                    "adr": "85",
+                                    "hs_pct": "17%",
+                                    "fk": "2",
+                                    "fd": "5",
+                                    "fk_diff": "-3"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "aspas",
+                                    "agent": "Raze",
+                                    "rating": "1.40",
+                                    "acs": "305",
+                                    "kills": "35",
+                                    "deaths": "23",
+                                    "assists": "8",
+                                    "kd_diff": "+12",
+                                    "kast": "68%",
+                                    "adr": "196",
+                                    "hs_pct": "23%",
+                                    "fk": "5",
+                                    "fd": "4",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "kiNgg",
+                                    "agent": "Omen",
+                                    "rating": "1.40",
+                                    "acs": "267",
+                                    "kills": "30",
+                                    "deaths": "21",
+                                    "assists": "22",
+                                    "kd_diff": "+9",
+                                    "kast": "85%",
+                                    "adr": "173",
+                                    "hs_pct": "22%",
+                                    "fk": "4",
+                                    "fd": "1",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "tex",
+                                    "agent": "Sage",
+                                    "rating": "0.90",
+                                    "acs": "180",
+                                    "kills": "22",
+                                    "deaths": "22",
+                                    "assists": "13",
+                                    "kd_diff": "0",
+                                    "kast": "76%",
+                                    "adr": "124",
+                                    "hs_pct": "33%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Mazino",
+                                    "agent": "Kayo",
+                                    "rating": "0.70",
+                                    "acs": "158",
+                                    "kills": "19",
+                                    "deaths": "26",
+                                    "assists": "9",
+                                    "kd_diff": "-7",
+                                    "kast": "62%",
+                                    "adr": "99",
+                                    "hs_pct": "23%",
+                                    "fk": "1",
+                                    "fd": "4",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "C0M",
+                                    "agent": "Viper",
+                                    "rating": "0.62",
+                                    "acs": "117",
+                                    "kills": "13",
+                                    "deaths": "24",
+                                    "assists": "6",
+                                    "kd_diff": "-11",
+                                    "kast": "74%",
+                                    "adr": "80",
+                                    "hs_pct": "7%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 25,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 26,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 27,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 28,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 29,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 30,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 31,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 32,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 33,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 34,
+                                "winner": "team1",
+                                "side": "t"
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/02/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/295609/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-decider-a"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/295607/nrg-esports-vs-cloud9-champions-tour-2024-americas-kickoff-winners-a"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/17",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "MIBR",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/295606/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-opening-a"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/01/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Oxygen Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/294187/oxygen-esports-vs-cloud9-ludwig-x-tarik-invitational-2-lbf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/01/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/294186/cloud9-vs-100-thieves-ludwig-x-tarik-invitational-2-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/26",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/295614/leviat-n-vs-sentinels-champions-tour-2024-americas-kickoff-decider-b"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/24",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LOUD",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/295612/loud-vs-leviat-n-champions-tour-2024-americas-kickoff-winners-b"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/02/18",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/295611/leviat-n-vs-100-thieves-champions-tour-2024-americas-kickoff-opening-b"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/11/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/281029/leviat-n-vs-furia-superdome-2023-colombia-gf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2023/11/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/281028/leviat-n-vs-cloud9-superdome-2023-colombia-ubf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "tex LEV",
+                                "2": "kiNgg LEV",
+                                "3": "aspas LEV",
+                                "4": "C0M LEV",
+                                "5": "Mazino LEV"
+                            }
+                        },
+                        {
+                            "player": "Xeppaa C9",
+                            "kills_vs": {
+                                "1": "11 7 +4",
+                                "2": "13 14 -1",
+                                "3": "10 14 -4",
+                                "4": "8 8 +0",
+                                "5": "13 8 +5"
+                            }
+                        },
+                        {
+                            "player": "vanity C9",
+                            "kills_vs": {
+                                "1": "8 10 -2",
+                                "2": "7 9 -2",
+                                "3": "9 17 -8",
+                                "4": "7 7 +0",
+                                "5": "7 8 -1"
+                            }
+                        },
+                        {
+                            "player": "OXY C9",
+                            "kills_vs": {
+                                "1": "13 11 +2",
+                                "2": "9 12 -3",
+                                "3": "12 21 -9",
+                                "4": "17 3 +14",
+                                "5": "13 11 +2"
+                            }
+                        },
+                        {
+                            "player": "runi C9",
+                            "kills_vs": {
+                                "1": "11 8 +3",
+                                "2": "9 11 -2",
+                                "3": "7 13 -6",
+                                "4": "11 7 +4",
+                                "5": "11 7 +4"
+                            }
+                        },
+                        {
+                            "player": "moose C9",
+                            "kills_vs": {
+                                "1": "8 8 +0",
+                                "2": "7 10 -3",
+                                "3": "8 13 -5",
+                                "4": "8 7 +1",
+                                "5": "9 10 -1"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "moose C9",
+                            "1": "",
+                            "2": "9",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "48",
+                            "12": "0",
+                            "13": "2"
+                        },
+                        {
+                            "player": "vanity C9",
+                            "1": "",
+                            "2": "8",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "40",
+                            "12": "9",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Xeppaa C9",
+                            "1": "",
+                            "2": "11",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "1",
+                            "10": "",
+                            "11": "55",
+                            "12": "8",
+                            "13": "1"
+                        },
+                        {
+                            "player": "runi C9",
+                            "1": "",
+                            "2": "11",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "2",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "7",
+                            "13": "3"
+                        },
+                        {
+                            "player": "OXY C9",
+                            "1": "",
+                            "2": "14",
+                            "3": "5",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "C0M LEV",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "37",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "tex LEV",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "38",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Mazino LEV",
+                            "1": "",
+                            "2": "10",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "37",
+                            "12": "17",
+                            "13": "3"
+                        },
+                        {
+                            "player": "aspas LEV",
+                            "1": "",
+                            "2": "17",
+                            "3": "3",
+                            "4": "2",
+                            "5": "1",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "74",
+                            "12": "4",
+                            "13": "0"
+                        },
+                        {
+                            "player": "kiNgg LEV",
+                            "1": "",
+                            "2": "12",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "1",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "163351",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "163352",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "163353",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "tex LEV",
+                                        "2": "kiNgg LEV",
+                                        "3": "aspas LEV",
+                                        "4": "C0M LEV",
+                                        "5": "Mazino LEV"
+                                    }
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "kills_vs": {
+                                        "1": "11 7 +4",
+                                        "2": "13 14 -1",
+                                        "3": "10 14 -4",
+                                        "4": "8 8 +0",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "kills_vs": {
+                                        "1": "8 10 -2",
+                                        "2": "7 9 -2",
+                                        "3": "9 17 -8",
+                                        "4": "7 7 +0",
+                                        "5": "7 8 -1"
+                                    }
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "kills_vs": {
+                                        "1": "13 11 +2",
+                                        "2": "9 12 -3",
+                                        "3": "12 21 -9",
+                                        "4": "17 3 +14",
+                                        "5": "13 11 +2"
+                                    }
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "kills_vs": {
+                                        "1": "11 8 +3",
+                                        "2": "9 11 -2",
+                                        "3": "7 13 -6",
+                                        "4": "11 7 +4",
+                                        "5": "11 7 +4"
+                                    }
+                                },
+                                {
+                                    "player": "moose C9",
+                                    "kills_vs": {
+                                        "1": "8 8 +0",
+                                        "2": "7 10 -3",
+                                        "3": "8 13 -5",
+                                        "4": "8 7 +1",
+                                        "5": "9 10 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "moose C9",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "48",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vanity C9",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Xeppaa C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "1",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "8",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "runi C9",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "2",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "7",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "OXY C9",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "5",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "C0M LEV",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "tex LEV",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "38",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Mazino LEV",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "37",
+                                    "12": "17",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "aspas LEV",
+                                    "1": "",
+                                    "2": "17",
+                                    "3": "3",
+                                    "4": "2",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "74",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "kiNgg LEV",
+                                    "1": "",
+                                    "2": "12",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "1",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "C9",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (1)",
+                        "4": "5 (2)",
+                        "5": "10 (3)"
+                    },
+                    {
+                        "0": "LEV",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "1 (0)",
+                        "4": "1 (1)",
+                        "5": "15 (11)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "163351",
+                        "rows": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "163352",
+                        "rows": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "163353",
+                        "rows": [
+                            {
+                                "0": "C9",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (1)",
+                                "4": "5 (2)",
+                                "5": "10 (3)"
+                            },
+                            {
+                                "0": "LEV",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "1 (0)",
+                                "4": "1 (1)",
+                                "5": "15 (11)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

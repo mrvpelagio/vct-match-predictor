@@ -1,0 +1,2894 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "645489",
+                "event": {
+                    "name": "VCT 2026: Americas Stage 1 Group Stage: Week 3",
+                    "series": "Group Stage: Week 3",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "Sunday, April 26 7:05 AM PST Patch 12.07",
+                "map_vetos": "NRG ban Bind; 100T ban Fracture; NRG pick Pearl; 100T pick Lotus; NRG ban Split; 100T ban Haven; Breeze remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "1034",
+                        "name": "NRG",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+                        "score": "2",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "120",
+                        "name": "100 Thieves",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+                        "score": "1",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/QMxxfPzit4g?t=210"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/QMxxfPzit4g?t=3254"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/QMxxfPzit4g?t=6498"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "PearlPICK",
+                        "picked_by": "",
+                        "duration": "51:21",
+                        "score": {
+                            "team1": 9,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "6",
+                            "team2": "9"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "skuba",
+                                    "agent": "Astra",
+                                    "rating": "1.34",
+                                    "acs": "254",
+                                    "kills": "19",
+                                    "deaths": "14",
+                                    "assists": "7",
+                                    "kd_diff": "+5",
+                                    "kast": "73%",
+                                    "adr": "158",
+                                    "hs_pct": "28%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "keiko",
+                                    "agent": "Killjoy",
+                                    "rating": "1.08",
+                                    "acs": "221",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "1",
+                                    "kd_diff": "+2",
+                                    "kast": "68%",
+                                    "adr": "149",
+                                    "hs_pct": "40%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "brawk",
+                                    "agent": "Sova",
+                                    "rating": "0.83",
+                                    "acs": "156",
+                                    "kills": "11",
+                                    "deaths": "16",
+                                    "assists": "8",
+                                    "kd_diff": "-5",
+                                    "kast": "73%",
+                                    "adr": "116",
+                                    "hs_pct": "25%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Tejo",
+                                    "rating": "0.60",
+                                    "acs": "127",
+                                    "kills": "8",
+                                    "deaths": "16",
+                                    "assists": "9",
+                                    "kd_diff": "-8",
+                                    "kast": "68%",
+                                    "adr": "96",
+                                    "hs_pct": "16%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "mada",
+                                    "agent": "Neon",
+                                    "rating": "0.51",
+                                    "acs": "129",
+                                    "kills": "10",
+                                    "deaths": "16",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "59%",
+                                    "adr": "80",
+                                    "hs_pct": "18%",
+                                    "fk": "3",
+                                    "fd": "7",
+                                    "fk_diff": "-4"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Chamber",
+                                    "rating": "1.32",
+                                    "acs": "211",
+                                    "kills": "18",
+                                    "deaths": "11",
+                                    "assists": "2",
+                                    "kd_diff": "+7",
+                                    "kast": "73%",
+                                    "adr": "127",
+                                    "hs_pct": "17%",
+                                    "fk": "5",
+                                    "fd": "0",
+                                    "fk_diff": "+5"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Neon",
+                                    "rating": "1.07",
+                                    "acs": "235",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "77%",
+                                    "adr": "147",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "bang",
+                                    "agent": "Astra",
+                                    "rating": "1.04",
+                                    "acs": "185",
+                                    "kills": "14",
+                                    "deaths": "11",
+                                    "assists": "8",
+                                    "kd_diff": "+3",
+                                    "kast": "82%",
+                                    "adr": "116",
+                                    "hs_pct": "24%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "vora",
+                                    "agent": "Fade",
+                                    "rating": "0.80",
+                                    "acs": "158",
+                                    "kills": "13",
+                                    "deaths": "13",
+                                    "assists": "7",
+                                    "kd_diff": "0",
+                                    "kast": "82%",
+                                    "adr": "103",
+                                    "hs_pct": "32%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Timotino",
+                                    "agent": "Phoenix",
+                                    "rating": "0.77",
+                                    "acs": "188",
+                                    "kills": "13",
+                                    "deaths": "15",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "59%",
+                                    "adr": "131",
+                                    "hs_pct": "27%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "LotusPICK",
+                        "picked_by": "",
+                        "duration": "52:56",
+                        "score": {
+                            "team1": 13,
+                            "team2": 10
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "8",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "keiko",
+                                    "agent": "Omen",
+                                    "rating": "1.51",
+                                    "acs": "255",
+                                    "kills": "23",
+                                    "deaths": "15",
+                                    "assists": "7",
+                                    "kd_diff": "+8",
+                                    "kast": "83%",
+                                    "adr": "183",
+                                    "hs_pct": "44%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "skuba",
+                                    "agent": "Viper",
+                                    "rating": "1.18",
+                                    "acs": "226",
+                                    "kills": "18",
+                                    "deaths": "14",
+                                    "assists": "9",
+                                    "kd_diff": "+4",
+                                    "kast": "87%",
+                                    "adr": "151",
+                                    "hs_pct": "24%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "mada",
+                                    "agent": "Neon",
+                                    "rating": "0.99",
+                                    "acs": "262",
+                                    "kills": "21",
+                                    "deaths": "20",
+                                    "assists": "3",
+                                    "kd_diff": "+1",
+                                    "kast": "70%",
+                                    "adr": "151",
+                                    "hs_pct": "24%",
+                                    "fk": "11",
+                                    "fd": "3",
+                                    "fk_diff": "+8"
+                                },
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Fade",
+                                    "rating": "0.89",
+                                    "acs": "174",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-3",
+                                    "kast": "78%",
+                                    "adr": "116",
+                                    "hs_pct": "23%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "brawk",
+                                    "agent": "Vyse",
+                                    "rating": "0.83",
+                                    "acs": "125",
+                                    "kills": "8",
+                                    "deaths": "13",
+                                    "assists": "11",
+                                    "kd_diff": "-5",
+                                    "kast": "70%",
+                                    "adr": "84",
+                                    "hs_pct": "21%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "bang",
+                                    "agent": "Omen",
+                                    "rating": "1.43",
+                                    "acs": "227",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "7",
+                                    "kd_diff": "+4",
+                                    "kast": "78%",
+                                    "adr": "145",
+                                    "hs_pct": "38%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Sage",
+                                    "rating": "1.04",
+                                    "acs": "203",
+                                    "kills": "16",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "+1",
+                                    "kast": "78%",
+                                    "adr": "134",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Timotino",
+                                    "agent": "Raze",
+                                    "rating": "0.80",
+                                    "acs": "203",
+                                    "kills": "18",
+                                    "deaths": "19",
+                                    "assists": "5",
+                                    "kd_diff": "-1",
+                                    "kast": "74%",
+                                    "adr": "127",
+                                    "hs_pct": "12%",
+                                    "fk": "1",
+                                    "fd": "5",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Vyse",
+                                    "rating": "0.68",
+                                    "acs": "158",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-3",
+                                    "kast": "74%",
+                                    "adr": "108",
+                                    "hs_pct": "20%",
+                                    "fk": "2",
+                                    "fd": "5",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "vora",
+                                    "agent": "Sova",
+                                    "rating": "0.66",
+                                    "acs": "157",
+                                    "kills": "12",
+                                    "deaths": "18",
+                                    "assists": "7",
+                                    "kd_diff": "-6",
+                                    "kast": "65%",
+                                    "adr": "113",
+                                    "hs_pct": "26%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "Breeze",
+                        "picked_by": "",
+                        "duration": "32:53",
+                        "score": {
+                            "team1": 13,
+                            "team2": 2
+                        },
+                        "score_ct": {
+                            "team1": "1",
+                            "team2": "0"
+                        },
+                        "score_t": {
+                            "team1": "12",
+                            "team2": "2"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Ethan",
+                                    "agent": "Kayo",
+                                    "rating": "1.81",
+                                    "acs": "306",
+                                    "kills": "16",
+                                    "deaths": "7",
+                                    "assists": "11",
+                                    "kd_diff": "+9",
+                                    "kast": "100%",
+                                    "adr": "172",
+                                    "hs_pct": "30%",
+                                    "fk": "1",
+                                    "fd": "0",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "keiko",
+                                    "agent": "Jett",
+                                    "rating": "1.57",
+                                    "acs": "337",
+                                    "kills": "20",
+                                    "deaths": "9",
+                                    "assists": "0",
+                                    "kd_diff": "+11",
+                                    "kast": "73%",
+                                    "adr": "224",
+                                    "hs_pct": "53%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "brawk",
+                                    "agent": "Sova",
+                                    "rating": "1.46",
+                                    "acs": "172",
+                                    "kills": "11",
+                                    "deaths": "5",
+                                    "assists": "3",
+                                    "kd_diff": "+6",
+                                    "kast": "93%",
+                                    "adr": "131",
+                                    "hs_pct": "38%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "mada",
+                                    "agent": "Harbor",
+                                    "rating": "1.13",
+                                    "acs": "199",
+                                    "kills": "11",
+                                    "deaths": "8",
+                                    "assists": "6",
+                                    "kd_diff": "+3",
+                                    "kast": "80%",
+                                    "adr": "115",
+                                    "hs_pct": "39%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "skuba",
+                                    "agent": "Viper",
+                                    "rating": "0.89",
+                                    "acs": "147",
+                                    "kills": "7",
+                                    "deaths": "7",
+                                    "assists": "6",
+                                    "kd_diff": "0",
+                                    "kast": "80%",
+                                    "adr": "104",
+                                    "hs_pct": "13%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Timotino",
+                                    "agent": "Jett",
+                                    "rating": "0.79",
+                                    "acs": "205",
+                                    "kills": "10",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-4",
+                                    "kast": "60%",
+                                    "adr": "148",
+                                    "hs_pct": "33%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Kayo",
+                                    "rating": "0.73",
+                                    "acs": "154",
+                                    "kills": "8",
+                                    "deaths": "13",
+                                    "assists": "8",
+                                    "kd_diff": "-5",
+                                    "kast": "73%",
+                                    "adr": "91",
+                                    "hs_pct": "21%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Viper",
+                                    "rating": "0.69",
+                                    "acs": "130",
+                                    "kills": "7",
+                                    "deaths": "12",
+                                    "assists": "4",
+                                    "kd_diff": "-5",
+                                    "kast": "60%",
+                                    "adr": "82",
+                                    "hs_pct": "19%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "vora",
+                                    "agent": "Sova",
+                                    "rating": "0.59",
+                                    "acs": "109",
+                                    "kills": "5",
+                                    "deaths": "12",
+                                    "assists": "2",
+                                    "kd_diff": "-7",
+                                    "kast": "60%",
+                                    "adr": "77",
+                                    "hs_pct": "28%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "bang",
+                                    "agent": "Harbor",
+                                    "rating": "0.36",
+                                    "acs": "103",
+                                    "kills": "6",
+                                    "deaths": "14",
+                                    "assists": "2",
+                                    "kd_diff": "-8",
+                                    "kast": "53%",
+                                    "adr": "68",
+                                    "hs_pct": "33%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2026/04/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/645484/nrg-vs-kr-esports-vct-2026-americas-stage-1-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/04/13",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FURIA",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/645479/furia-vs-nrg-vct-2026-americas-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 3",
+                        "url": "https://www.vlr.gg/626550/nrg-vs-paper-rex-valorant-masters-santiago-2026-lbf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Nongshim RedForce",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/626543/nongshim-redforce-vs-nrg-valorant-masters-santiago-2026-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/10",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/626542/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/04/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Sentinels",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/645485/100-thieves-vs-sentinels-vct-2026-americas-stage-1-w2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/04/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/645476/100-thieves-vs-evil-geniuses-vct-2026-americas-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/15",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/596426/nrg-vs-100-thieves-vct-2026-americas-kickoff-lr5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/14",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/596425/100-thieves-vs-cloud9-vct-2026-americas-kickoff-lr4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/02/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/596423/100-thieves-vs-evil-geniuses-vct-2026-americas-kickoff-lr3"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "bang 100T",
+                                "2": "Asuna 100T",
+                                "3": "Cryocells 100T",
+                                "4": "vora 100T",
+                                "5": "Timotino 100T"
+                            }
+                        },
+                        {
+                            "player": "keiko NRG",
+                            "kills_vs": {
+                                "1": "12 10 +2",
+                                "2": "15 11 +4",
+                                "3": "14 4 +10",
+                                "4": "15 8 +7",
+                                "5": "4 6 -2"
+                            }
+                        },
+                        {
+                            "player": "mada NRG",
+                            "kills_vs": {
+                                "1": "9 9 +0",
+                                "2": "6 9 -3",
+                                "3": "7 12 -5",
+                                "4": "6 5 +1",
+                                "5": "14 9 +5"
+                            }
+                        },
+                        {
+                            "player": "Ethan NRG",
+                            "kills_vs": {
+                                "1": "8 7 +1",
+                                "2": "7 10 -3",
+                                "3": "5 5 +0",
+                                "4": "6 6 +0",
+                                "5": "11 11 +0"
+                            }
+                        },
+                        {
+                            "player": "skuba NRG",
+                            "kills_vs": {
+                                "1": "7 5 +2",
+                                "2": "9 6 +3",
+                                "3": "6 10 -4",
+                                "4": "10 7 +3",
+                                "5": "12 7 +5"
+                            }
+                        },
+                        {
+                            "player": "brawk NRG",
+                            "kills_vs": {
+                                "1": "4 8 -4",
+                                "2": "6 7 -1",
+                                "3": "7 7 +0",
+                                "4": "6 4 +2",
+                                "5": "7 8 -1"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "brawk NRG",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "46",
+                            "12": "8",
+                            "13": "2"
+                        },
+                        {
+                            "player": "mada NRG",
+                            "1": "",
+                            "2": "9",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "42",
+                            "12": "1",
+                            "13": "1"
+                        },
+                        {
+                            "player": "skuba NRG",
+                            "1": "",
+                            "2": "7",
+                            "3": "3",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Ethan NRG",
+                            "1": "",
+                            "2": "5",
+                            "3": "2",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "59",
+                            "12": "16",
+                            "13": "0"
+                        },
+                        {
+                            "player": "keiko NRG",
+                            "1": "",
+                            "2": "8",
+                            "3": "5",
+                            "4": "3",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "77",
+                            "12": "1",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Asuna 100T",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "1",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "4",
+                            "13": "0"
+                        },
+                        {
+                            "player": "bang 100T",
+                            "1": "",
+                            "2": "7",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "1",
+                            "9": "",
+                            "10": "",
+                            "11": "47",
+                            "12": "6",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Cryocells 100T",
+                            "1": "",
+                            "2": "8",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "42",
+                            "12": "0",
+                            "13": "2"
+                        },
+                        {
+                            "player": "vora 100T",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "40",
+                            "12": "9",
+                            "13": "0"
+                        },
+                        {
+                            "player": "Timotino 100T",
+                            "1": "",
+                            "2": "9",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "55",
+                            "12": "2",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "258620",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258621",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "258622",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "bang 100T",
+                                        "2": "Asuna 100T",
+                                        "3": "Cryocells 100T",
+                                        "4": "vora 100T",
+                                        "5": "Timotino 100T"
+                                    }
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "kills_vs": {
+                                        "1": "12 10 +2",
+                                        "2": "15 11 +4",
+                                        "3": "14 4 +10",
+                                        "4": "15 8 +7",
+                                        "5": "4 6 -2"
+                                    }
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "kills_vs": {
+                                        "1": "9 9 +0",
+                                        "2": "6 9 -3",
+                                        "3": "7 12 -5",
+                                        "4": "6 5 +1",
+                                        "5": "14 9 +5"
+                                    }
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "kills_vs": {
+                                        "1": "8 7 +1",
+                                        "2": "7 10 -3",
+                                        "3": "5 5 +0",
+                                        "4": "6 6 +0",
+                                        "5": "11 11 +0"
+                                    }
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "kills_vs": {
+                                        "1": "7 5 +2",
+                                        "2": "9 6 +3",
+                                        "3": "6 10 -4",
+                                        "4": "10 7 +3",
+                                        "5": "12 7 +5"
+                                    }
+                                },
+                                {
+                                    "player": "brawk NRG",
+                                    "kills_vs": {
+                                        "1": "4 8 -4",
+                                        "2": "6 7 -1",
+                                        "3": "7 7 +0",
+                                        "4": "6 4 +2",
+                                        "5": "7 8 -1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "brawk NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "8",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "mada NRG",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "1",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "skuba NRG",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Ethan NRG",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "2",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "59",
+                                    "12": "16",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "keiko NRG",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "5",
+                                    "4": "3",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "77",
+                                    "12": "1",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "1",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "4",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "1",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "47",
+                                    "12": "6",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "8",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "42",
+                                    "12": "0",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "vora 100T",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "40",
+                                    "12": "9",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "Timotino 100T",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "55",
+                                    "12": "2",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "NRG",
+                        "1": "1",
+                        "2": "4 (1)",
+                        "3": "1 (0)",
+                        "4": "6 (5)",
+                        "5": "11 (3)"
+                    },
+                    {
+                        "0": "100T",
+                        "1": "1",
+                        "2": "3 (1)",
+                        "3": "2 (0)",
+                        "4": "4 (2)",
+                        "5": "13 (10)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "258620",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258621",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "258622",
+                        "rows": [
+                            {
+                                "0": "NRG",
+                                "1": "1",
+                                "2": "4 (1)",
+                                "3": "1 (0)",
+                                "4": "6 (5)",
+                                "5": "11 (3)"
+                            },
+                            {
+                                "0": "100T",
+                                "1": "1",
+                                "2": "3 (1)",
+                                "3": "2 (0)",
+                                "4": "4 (2)",
+                                "5": "13 (10)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

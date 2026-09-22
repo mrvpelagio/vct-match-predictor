@@ -1,0 +1,3390 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "337412",
+                "event": {
+                    "name": "Champions Tour 2024: Americas Stage 1 Playoffs: Grand Final",
+                    "series": "Playoffs: Grand Final",
+                    "logo": "https://owcdn.net/img/640f5ab71dfbb.png"
+                },
+                "date": "May 13, 2024 5:00 AM PST Patch 8.07",
+                "map_vetos": "100T ban Lotus; 100T ban Icebox; 100T pick Bind; G2 pick Breeze; 100T pick Sunset; G2 pick Ascent; Split remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "120",
+                        "name": "100 Thieves",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+                        "score": "3",
+                        "is_winner": true
+                    },
+                    {
+                        "id": "11058",
+                        "name": "G2 Esports",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/633822848a741.png",
+                        "score": "0",
+                        "is_winner": false
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "VCT Americas",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant Brazil",
+                        "url": ""
+                    },
+                    {
+                        "name": "Valorant LATAM",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT Americas (YT)",
+                        "url": "https://www.youtube.com/@valorant_americas/live"
+                    },
+                    {
+                        "name": "VAL Esports BR (YT)",
+                        "url": "https://www.youtube.com/@valesportsbr/live"
+                    },
+                    {
+                        "name": "VAL Esports LA (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsLA/live"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/ztMZA21fsTo?t=2403"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/n1EHskYGybE?t=445"
+                    },
+                    {
+                        "name": "Map 3",
+                        "url": "https://youtu.be/C4NYRPDU6SE?t=463"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "BindPICK",
+                        "picked_by": "",
+                        "duration": "1:04:29",
+                        "score": {
+                            "team1": 13,
+                            "team2": 9
+                        },
+                        "score_ct": {
+                            "team1": "9",
+                            "team2": "8"
+                        },
+                        "score_t": {
+                            "team1": "4",
+                            "team2": "1"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "bang",
+                                    "agent": "Viper",
+                                    "rating": "1.42",
+                                    "acs": "240",
+                                    "kills": "21",
+                                    "deaths": "13",
+                                    "assists": "2",
+                                    "kd_diff": "+8",
+                                    "kast": "77%",
+                                    "adr": "163",
+                                    "hs_pct": "48%",
+                                    "fk": "4",
+                                    "fd": "3",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "eeiu",
+                                    "agent": "Fade",
+                                    "rating": "1.40",
+                                    "acs": "239",
+                                    "kills": "20",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "+6",
+                                    "kast": "73%",
+                                    "adr": "153",
+                                    "hs_pct": "42%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Gekko",
+                                    "rating": "0.83",
+                                    "acs": "178",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "8",
+                                    "kd_diff": "-3",
+                                    "kast": "77%",
+                                    "adr": "116",
+                                    "hs_pct": "17%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Raze",
+                                    "rating": "0.78",
+                                    "acs": "189",
+                                    "kills": "14",
+                                    "deaths": "17",
+                                    "assists": "6",
+                                    "kd_diff": "-3",
+                                    "kast": "59%",
+                                    "adr": "129",
+                                    "hs_pct": "16%",
+                                    "fk": "3",
+                                    "fd": "6",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Brimstone",
+                                    "rating": "0.73",
+                                    "acs": "176",
+                                    "kills": "12",
+                                    "deaths": "18",
+                                    "assists": "8",
+                                    "kd_diff": "-6",
+                                    "kast": "64%",
+                                    "adr": "127",
+                                    "hs_pct": "20%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "valyn",
+                                    "agent": "Brimstone",
+                                    "rating": "1.24",
+                                    "acs": "264",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "+4",
+                                    "kast": "82%",
+                                    "adr": "175",
+                                    "hs_pct": "25%",
+                                    "fk": "6",
+                                    "fd": "3",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "leaf",
+                                    "agent": "Viper",
+                                    "rating": "1.04",
+                                    "acs": "243",
+                                    "kills": "20",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "+3",
+                                    "kast": "77%",
+                                    "adr": "164",
+                                    "hs_pct": "27%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "icy",
+                                    "agent": "Raze",
+                                    "rating": "0.93",
+                                    "acs": "192",
+                                    "kills": "16",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "-1",
+                                    "kast": "73%",
+                                    "adr": "122",
+                                    "hs_pct": "21%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "JonahP",
+                                    "agent": "Skye",
+                                    "rating": "0.88",
+                                    "acs": "177",
+                                    "kills": "14",
+                                    "deaths": "16",
+                                    "assists": "10",
+                                    "kd_diff": "-2",
+                                    "kast": "91%",
+                                    "adr": "113",
+                                    "hs_pct": "30%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "trent",
+                                    "agent": "Gekko",
+                                    "rating": "0.71",
+                                    "acs": "131",
+                                    "kills": "9",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "-6",
+                                    "kast": "64%",
+                                    "adr": "99",
+                                    "hs_pct": "56%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "BreezePICK",
+                        "picked_by": "",
+                        "duration": "47:17",
+                        "score": {
+                            "team1": 13,
+                            "team2": 7
+                        },
+                        "score_ct": {
+                            "team1": "6",
+                            "team2": "1"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "6"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Cypher",
+                                    "rating": "1.49",
+                                    "acs": "269",
+                                    "kills": "22",
+                                    "deaths": "10",
+                                    "assists": "2",
+                                    "kd_diff": "+12",
+                                    "kast": "80%",
+                                    "adr": "174",
+                                    "hs_pct": "43%",
+                                    "fk": "4",
+                                    "fd": "1",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "eeiu",
+                                    "agent": "Sova",
+                                    "rating": "1.35",
+                                    "acs": "233",
+                                    "kills": "16",
+                                    "deaths": "10",
+                                    "assists": "8",
+                                    "kd_diff": "+6",
+                                    "kast": "75%",
+                                    "adr": "157",
+                                    "hs_pct": "25%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "bang",
+                                    "agent": "Viper",
+                                    "rating": "1.24",
+                                    "acs": "218",
+                                    "kills": "17",
+                                    "deaths": "11",
+                                    "assists": "5",
+                                    "kd_diff": "+6",
+                                    "kast": "90%",
+                                    "adr": "133",
+                                    "hs_pct": "36%",
+                                    "fk": "5",
+                                    "fd": "2",
+                                    "fk_diff": "+3"
+                                },
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Kayo",
+                                    "rating": "1.08",
+                                    "acs": "197",
+                                    "kills": "12",
+                                    "deaths": "12",
+                                    "assists": "12",
+                                    "kd_diff": "0",
+                                    "kast": "90%",
+                                    "adr": "138",
+                                    "hs_pct": "27%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Jett",
+                                    "rating": "1.04",
+                                    "acs": "183",
+                                    "kills": "14",
+                                    "deaths": "12",
+                                    "assists": "2",
+                                    "kd_diff": "+2",
+                                    "kast": "80%",
+                                    "adr": "122",
+                                    "hs_pct": "21%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "icy",
+                                    "agent": "Yoru",
+                                    "rating": "0.89",
+                                    "acs": "212",
+                                    "kills": "16",
+                                    "deaths": "18",
+                                    "assists": "1",
+                                    "kd_diff": "-2",
+                                    "kast": "55%",
+                                    "adr": "145",
+                                    "hs_pct": "47%",
+                                    "fk": "0",
+                                    "fd": "4",
+                                    "fk_diff": "-4"
+                                },
+                                {
+                                    "name": "JonahP",
+                                    "agent": "Viper",
+                                    "rating": "0.86",
+                                    "acs": "153",
+                                    "kills": "9",
+                                    "deaths": "14",
+                                    "assists": "9",
+                                    "kd_diff": "-5",
+                                    "kast": "60%",
+                                    "adr": "104",
+                                    "hs_pct": "35%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "valyn",
+                                    "agent": "Astra",
+                                    "rating": "0.73",
+                                    "acs": "154",
+                                    "kills": "10",
+                                    "deaths": "16",
+                                    "assists": "1",
+                                    "kd_diff": "-6",
+                                    "kast": "60%",
+                                    "adr": "104",
+                                    "hs_pct": "29%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "leaf",
+                                    "agent": "Cypher",
+                                    "rating": "0.68",
+                                    "acs": "191",
+                                    "kills": "13",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "-4",
+                                    "kast": "60%",
+                                    "adr": "125",
+                                    "hs_pct": "29%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "trent",
+                                    "agent": "Sova",
+                                    "rating": "0.51",
+                                    "acs": "104",
+                                    "kills": "7",
+                                    "deaths": "16",
+                                    "assists": "5",
+                                    "kd_diff": "-9",
+                                    "kast": "55%",
+                                    "adr": "78",
+                                    "hs_pct": "29%",
+                                    "fk": "1",
+                                    "fd": "4",
+                                    "fk_diff": "-3"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "map_name": "SunsetPICK",
+                        "picked_by": "",
+                        "duration": "42:51",
+                        "score": {
+                            "team1": 13,
+                            "team2": 8
+                        },
+                        "score_ct": {
+                            "team1": "8",
+                            "team2": "4"
+                        },
+                        "score_t": {
+                            "team1": "5",
+                            "team2": "4"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "Asuna",
+                                    "agent": "Raze",
+                                    "rating": "1.42",
+                                    "acs": "299",
+                                    "kills": "21",
+                                    "deaths": "14",
+                                    "assists": "5",
+                                    "kd_diff": "+7",
+                                    "kast": "71%",
+                                    "adr": "196",
+                                    "hs_pct": "19%",
+                                    "fk": "4",
+                                    "fd": "5",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "bang",
+                                    "agent": "Omen",
+                                    "rating": "1.29",
+                                    "acs": "241",
+                                    "kills": "18",
+                                    "deaths": "12",
+                                    "assists": "8",
+                                    "kd_diff": "+6",
+                                    "kast": "95%",
+                                    "adr": "139",
+                                    "hs_pct": "63%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Cryocells",
+                                    "agent": "Gekko",
+                                    "rating": "1.14",
+                                    "acs": "232",
+                                    "kills": "19",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+4",
+                                    "kast": "86%",
+                                    "adr": "159",
+                                    "hs_pct": "27%",
+                                    "fk": "2",
+                                    "fd": "0",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Boostio",
+                                    "agent": "Cypher",
+                                    "rating": "1.10",
+                                    "acs": "195",
+                                    "kills": "16",
+                                    "deaths": "13",
+                                    "assists": "3",
+                                    "kd_diff": "+3",
+                                    "kast": "71%",
+                                    "adr": "132",
+                                    "hs_pct": "48%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "eeiu",
+                                    "agent": "Sova",
+                                    "rating": "0.58",
+                                    "acs": "108",
+                                    "kills": "8",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "76%",
+                                    "adr": "85",
+                                    "hs_pct": "21%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "icy",
+                                    "agent": "Raze",
+                                    "rating": "1.21",
+                                    "acs": "241",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "+2",
+                                    "kast": "81%",
+                                    "adr": "170",
+                                    "hs_pct": "16%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "valyn",
+                                    "agent": "Omen",
+                                    "rating": "1.08",
+                                    "acs": "197",
+                                    "kills": "14",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-2",
+                                    "kast": "76%",
+                                    "adr": "138",
+                                    "hs_pct": "26%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "trent",
+                                    "agent": "Gekko",
+                                    "rating": "0.90",
+                                    "acs": "191",
+                                    "kills": "13",
+                                    "deaths": "16",
+                                    "assists": "7",
+                                    "kd_diff": "-3",
+                                    "kast": "71%",
+                                    "adr": "130",
+                                    "hs_pct": "32%",
+                                    "fk": "2",
+                                    "fd": "2",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "leaf",
+                                    "agent": "Cypher",
+                                    "rating": "0.81",
+                                    "acs": "188",
+                                    "kills": "14",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "-3",
+                                    "kast": "62%",
+                                    "adr": "116",
+                                    "hs_pct": "30%",
+                                    "fk": "2",
+                                    "fd": "5",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "JonahP",
+                                    "agent": "Breach",
+                                    "rating": "0.54",
+                                    "acs": "140",
+                                    "kills": "10",
+                                    "deaths": "18",
+                                    "assists": "11",
+                                    "kd_diff": "-8",
+                                    "kast": "81%",
+                                    "adr": "89",
+                                    "hs_pct": "30%",
+                                    "fk": "1",
+                                    "fd": "1",
+                                    "fk_diff": "0"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        "economy": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2024/05/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/337411/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/10",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/337410/leviat-n-vs-100-thieves-champions-tour-2024-americas-stage-1-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "LOUD",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/337408/100-thieves-vs-loud-champions-tour-2024-americas-stage-1-ko"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "NRG",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/314651/nrg-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w5"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/04/30",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/314648/kr-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w4"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/12",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "LEVIAT\u00c1N",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 2",
+                        "url": "https://www.vlr.gg/337414/g2-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-lbf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/337411/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-ubf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/10",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "KR\u00dc Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/337409/kr-esports-vs-g2-esports-champions-tour-2024-americas-stage-1-ubsf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Cloud9",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/337407/cloud9-vs-g2-esports-champions-tour-2024-americas-stage-1-ko"
+                    },
+                    {
+                        "event": "",
+                        "date": "2024/05/06",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "LOUD",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/314654/g2-esports-vs-loud-champions-tour-2024-americas-stage-1-w5"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [
+                        {
+                            "player": "",
+                            "kills_vs": {
+                                "1": "valyn G2",
+                                "2": "leaf G2",
+                                "3": "trent G2",
+                                "4": "icy G2",
+                                "5": "JonahP G2"
+                            }
+                        },
+                        {
+                            "player": "Boostio 100T",
+                            "kills_vs": {
+                                "1": "7 10 -3",
+                                "2": "13 5 +8",
+                                "3": "12 7 +5",
+                                "4": "10 12 -2",
+                                "5": "9 5 +4"
+                            }
+                        },
+                        {
+                            "player": "Asuna 100T",
+                            "kills_vs": {
+                                "1": "11 10 +1",
+                                "2": "12 10 +2",
+                                "3": "10 6 +4",
+                                "4": "8 10 -2",
+                                "5": "6 7 -1"
+                            }
+                        },
+                        {
+                            "player": "bang 100T",
+                            "kills_vs": {
+                                "1": "11 3 +8",
+                                "2": "10 11 -1",
+                                "3": "10 7 +3",
+                                "4": "15 11 +4",
+                                "5": "10 4 +6"
+                            }
+                        },
+                        {
+                            "player": "Cryocells 100T",
+                            "kills_vs": {
+                                "1": "6 14 -8",
+                                "2": "11 10 +1",
+                                "3": "8 3 +5",
+                                "4": "7 10 -3",
+                                "5": "13 8 +5"
+                            }
+                        },
+                        {
+                            "player": "eeiu 100T",
+                            "kills_vs": {
+                                "1": "12 6 +6",
+                                "2": "5 11 -6",
+                                "3": "7 6 +1",
+                                "4": "10 6 +4",
+                                "5": "10 9 +1"
+                            }
+                        }
+                    ],
+                    "advanced_stats": [
+                        {
+                            "player": "Asuna 100T",
+                            "1": "",
+                            "2": "11",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "63",
+                            "12": "5",
+                            "13": "3"
+                        },
+                        {
+                            "player": "Boostio 100T",
+                            "1": "",
+                            "2": "10",
+                            "3": "4",
+                            "4": "",
+                            "5": "",
+                            "6": "2",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "57",
+                            "12": "7",
+                            "13": "4"
+                        },
+                        {
+                            "player": "eeiu 100T",
+                            "1": "",
+                            "2": "3",
+                            "3": "2",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "49",
+                            "12": "2",
+                            "13": "1"
+                        },
+                        {
+                            "player": "bang 100T",
+                            "1": "",
+                            "2": "10",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "61",
+                            "12": "3",
+                            "13": "1"
+                        },
+                        {
+                            "player": "Cryocells 100T",
+                            "1": "",
+                            "2": "14",
+                            "3": "",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "52",
+                            "12": "5",
+                            "13": "0"
+                        },
+                        {
+                            "player": "valyn G2",
+                            "1": "",
+                            "2": "7",
+                            "3": "1",
+                            "4": "1",
+                            "5": "",
+                            "6": "1",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "58",
+                            "12": "6",
+                            "13": "0"
+                        },
+                        {
+                            "player": "JonahP G2",
+                            "1": "",
+                            "2": "6",
+                            "3": "1",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "41",
+                            "12": "2",
+                            "13": "0"
+                        },
+                        {
+                            "player": "leaf G2",
+                            "1": "",
+                            "2": "5",
+                            "3": "1",
+                            "4": "2",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "53",
+                            "12": "0",
+                            "13": "3"
+                        },
+                        {
+                            "player": "icy G2",
+                            "1": "",
+                            "2": "9",
+                            "3": "3",
+                            "4": "1",
+                            "5": "",
+                            "6": "",
+                            "7": "",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "54",
+                            "12": "2",
+                            "13": "2"
+                        },
+                        {
+                            "player": "trent G2",
+                            "1": "",
+                            "2": "3",
+                            "3": "2",
+                            "4": "",
+                            "5": "",
+                            "6": "",
+                            "7": "1",
+                            "8": "",
+                            "9": "",
+                            "10": "",
+                            "11": "46",
+                            "12": "10",
+                            "13": "1"
+                        }
+                    ],
+                    "by_map": [
+                        {
+                            "game_id": "168987",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "168988",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "168989",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "168990",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "game_id": "168991",
+                            "kill_matrix": [
+                                {
+                                    "player": "",
+                                    "kills_vs": {
+                                        "1": "valyn G2",
+                                        "2": "leaf G2",
+                                        "3": "trent G2",
+                                        "4": "icy G2",
+                                        "5": "JonahP G2"
+                                    }
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "kills_vs": {
+                                        "1": "7 10 -3",
+                                        "2": "13 5 +8",
+                                        "3": "12 7 +5",
+                                        "4": "10 12 -2",
+                                        "5": "9 5 +4"
+                                    }
+                                },
+                                {
+                                    "player": "Asuna 100T",
+                                    "kills_vs": {
+                                        "1": "11 10 +1",
+                                        "2": "12 10 +2",
+                                        "3": "10 6 +4",
+                                        "4": "8 10 -2",
+                                        "5": "6 7 -1"
+                                    }
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "kills_vs": {
+                                        "1": "11 3 +8",
+                                        "2": "10 11 -1",
+                                        "3": "10 7 +3",
+                                        "4": "15 11 +4",
+                                        "5": "10 4 +6"
+                                    }
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "kills_vs": {
+                                        "1": "6 14 -8",
+                                        "2": "11 10 +1",
+                                        "3": "8 3 +5",
+                                        "4": "7 10 -3",
+                                        "5": "13 8 +5"
+                                    }
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "kills_vs": {
+                                        "1": "12 6 +6",
+                                        "2": "5 11 -6",
+                                        "3": "7 6 +1",
+                                        "4": "10 6 +4",
+                                        "5": "10 9 +1"
+                                    }
+                                }
+                            ],
+                            "advanced_stats": [
+                                {
+                                    "player": "Asuna 100T",
+                                    "1": "",
+                                    "2": "11",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "63",
+                                    "12": "5",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "Boostio 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "4",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "2",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "57",
+                                    "12": "7",
+                                    "13": "4"
+                                },
+                                {
+                                    "player": "eeiu 100T",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "49",
+                                    "12": "2",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "bang 100T",
+                                    "1": "",
+                                    "2": "10",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "61",
+                                    "12": "3",
+                                    "13": "1"
+                                },
+                                {
+                                    "player": "Cryocells 100T",
+                                    "1": "",
+                                    "2": "14",
+                                    "3": "",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "52",
+                                    "12": "5",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "valyn G2",
+                                    "1": "",
+                                    "2": "7",
+                                    "3": "1",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "1",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "58",
+                                    "12": "6",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "JonahP G2",
+                                    "1": "",
+                                    "2": "6",
+                                    "3": "1",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "41",
+                                    "12": "2",
+                                    "13": "0"
+                                },
+                                {
+                                    "player": "leaf G2",
+                                    "1": "",
+                                    "2": "5",
+                                    "3": "1",
+                                    "4": "2",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "53",
+                                    "12": "0",
+                                    "13": "3"
+                                },
+                                {
+                                    "player": "icy G2",
+                                    "1": "",
+                                    "2": "9",
+                                    "3": "3",
+                                    "4": "1",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "54",
+                                    "12": "2",
+                                    "13": "2"
+                                },
+                                {
+                                    "player": "trent G2",
+                                    "1": "",
+                                    "2": "3",
+                                    "3": "2",
+                                    "4": "",
+                                    "5": "",
+                                    "6": "",
+                                    "7": "1",
+                                    "8": "",
+                                    "9": "",
+                                    "10": "",
+                                    "11": "46",
+                                    "12": "10",
+                                    "13": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "economy": [
+                    {
+                        "0": "100T",
+                        "1": "2",
+                        "2": "2 (2)",
+                        "3": "2 (0)",
+                        "4": "6 (3)",
+                        "5": "12 (8)"
+                    },
+                    {
+                        "0": "G2",
+                        "1": "0",
+                        "2": "4 (0)",
+                        "3": "1 (0)",
+                        "4": "2 (0)",
+                        "5": "15 (9)"
+                    }
+                ],
+                "economy_by_map": [
+                    {
+                        "game_id": "168987",
+                        "rows": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "168988",
+                        "rows": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "168989",
+                        "rows": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "168990",
+                        "rows": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    },
+                    {
+                        "game_id": "168991",
+                        "rows": [
+                            {
+                                "0": "100T",
+                                "1": "2",
+                                "2": "2 (2)",
+                                "3": "2 (0)",
+                                "4": "6 (3)",
+                                "5": "12 (8)"
+                            },
+                            {
+                                "0": "G2",
+                                "1": "0",
+                                "2": "4 (0)",
+                                "3": "1 (0)",
+                                "4": "2 (0)",
+                                "5": "15 (9)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}

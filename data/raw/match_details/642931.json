@@ -1,0 +1,911 @@
+{
+    "status": "success",
+    "data": {
+        "status": 200,
+        "segments": [
+            {
+                "match_id": "642931",
+                "event": {
+                    "name": "VCT 2026: China Stage 1 Group Stage: Week 2",
+                    "series": "Group Stage: Week 2",
+                    "logo": "https://owcdn.net/img/65dd97cea9a25.png"
+                },
+                "date": "Thursday, April 9 5:00 PM PST",
+                "map_vetos": "JDG ban Breeze; AG ban Fracture; JDG pick Lotus; AG pick Haven; JDG ban Pearl; AG ban Split; Bind remains",
+                "status": "final",
+                "teams": [
+                    {
+                        "id": "13576",
+                        "name": "JD Mall JDG Esports",
+                        "tag": "(JDG Esports)",
+                        "logo": "https://owcdn.net/img/64f9825408326.png",
+                        "score": "0",
+                        "is_winner": false
+                    },
+                    {
+                        "id": "1119",
+                        "name": "All Gamers",
+                        "tag": "",
+                        "logo": "https://owcdn.net/img/6549c2b905061.png",
+                        "score": "2",
+                        "is_winner": true
+                    }
+                ],
+                "streams": [
+                    {
+                        "name": "Valorant Esports CN",
+                        "url": ""
+                    },
+                    {
+                        "name": "Project Horizon",
+                        "url": ""
+                    },
+                    {
+                        "name": "VCT CN (YT)",
+                        "url": "https://www.youtube.com/@VALORANTEsportsCN/live"
+                    },
+                    {
+                        "name": "Project HRZN (YT)",
+                        "url": "https://www.youtube.com/@projhrzn/live"
+                    },
+                    {
+                        "name": "VCT (Bilibili)",
+                        "url": "https://live.bilibili.com/22908869"
+                    },
+                    {
+                        "name": "VCT (Douyu)",
+                        "url": "https://www.douyu.com/602"
+                    },
+                    {
+                        "name": "VCT (Huya)",
+                        "url": "https://www.huya.com/660679"
+                    },
+                    {
+                        "name": "VCT (QQ)",
+                        "url": "https://val.qq.com/act/a20230418esports/live.html?gameId=1"
+                    }
+                ],
+                "vods": [
+                    {
+                        "name": "Map 1",
+                        "url": "https://youtu.be/2LpU_Wy3gyE?t=3983"
+                    },
+                    {
+                        "name": "Map 2",
+                        "url": "https://youtu.be/2LpU_Wy3gyE?t=7261"
+                    }
+                ],
+                "maps": [
+                    {
+                        "map_name": "LotusPICK",
+                        "picked_by": "",
+                        "duration": "55:16",
+                        "score": {
+                            "team1": 5,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "5",
+                            "team2": "6"
+                        },
+                        "score_t": {
+                            "team1": "0",
+                            "team2": "7"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "zhe",
+                                    "agent": "Viper",
+                                    "rating": "1.20",
+                                    "acs": "272",
+                                    "kills": "17",
+                                    "deaths": "14",
+                                    "assists": "3",
+                                    "kd_diff": "+3",
+                                    "kast": "61%",
+                                    "adr": "159",
+                                    "hs_pct": "19%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "coconut",
+                                    "agent": "Fade",
+                                    "rating": "0.78",
+                                    "acs": "167",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "3",
+                                    "kd_diff": "-5",
+                                    "kast": "61%",
+                                    "adr": "113",
+                                    "hs_pct": "24%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "jkuro",
+                                    "agent": "Omen",
+                                    "rating": "0.71",
+                                    "acs": "151",
+                                    "kills": "10",
+                                    "deaths": "15",
+                                    "assists": "8",
+                                    "kd_diff": "-5",
+                                    "kast": "83%",
+                                    "adr": "93",
+                                    "hs_pct": "38%",
+                                    "fk": "1",
+                                    "fd": "3",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "stew",
+                                    "agent": "Raze",
+                                    "rating": "0.56",
+                                    "acs": "166",
+                                    "kills": "9",
+                                    "deaths": "17",
+                                    "assists": "3",
+                                    "kd_diff": "-8",
+                                    "kast": "67%",
+                                    "adr": "116",
+                                    "hs_pct": "21%",
+                                    "fk": "3",
+                                    "fd": "1",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Yuicaw",
+                                    "agent": "Killjoy",
+                                    "rating": "0.53",
+                                    "acs": "107",
+                                    "kills": "7",
+                                    "deaths": "16",
+                                    "assists": "0",
+                                    "kd_diff": "-9",
+                                    "kast": "50%",
+                                    "adr": "76",
+                                    "hs_pct": "25%",
+                                    "fk": "0",
+                                    "fd": "1",
+                                    "fk_diff": "-1"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "K1ra",
+                                    "agent": "Cypher",
+                                    "rating": "1.93",
+                                    "acs": "336",
+                                    "kills": "22",
+                                    "deaths": "8",
+                                    "assists": "3",
+                                    "kd_diff": "+14",
+                                    "kast": "78%",
+                                    "adr": "208",
+                                    "hs_pct": "28%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Shr1mp",
+                                    "agent": "Fade",
+                                    "rating": "1.67",
+                                    "acs": "257",
+                                    "kills": "19",
+                                    "deaths": "6",
+                                    "assists": "4",
+                                    "kd_diff": "+13",
+                                    "kast": "94%",
+                                    "adr": "165",
+                                    "hs_pct": "27%",
+                                    "fk": "0",
+                                    "fd": "0",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "f4ngeer",
+                                    "agent": "Waylay",
+                                    "rating": "1.60",
+                                    "acs": "309",
+                                    "kills": "21",
+                                    "deaths": "11",
+                                    "assists": "10",
+                                    "kd_diff": "+10",
+                                    "kast": "83%",
+                                    "adr": "211",
+                                    "hs_pct": "38%",
+                                    "fk": "4",
+                                    "fd": "2",
+                                    "fk_diff": "+2"
+                                },
+                                {
+                                    "name": "Youze",
+                                    "agent": "Neon",
+                                    "rating": "0.50",
+                                    "acs": "137",
+                                    "kills": "8",
+                                    "deaths": "14",
+                                    "assists": "4",
+                                    "kd_diff": "-6",
+                                    "kast": "56%",
+                                    "adr": "83",
+                                    "hs_pct": "22%",
+                                    "fk": "2",
+                                    "fd": "4",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "iamgrq",
+                                    "agent": "Omen",
+                                    "rating": "0.39",
+                                    "acs": "117",
+                                    "kills": "7",
+                                    "deaths": "14",
+                                    "assists": "6",
+                                    "kd_diff": "-7",
+                                    "kast": "78%",
+                                    "adr": "77",
+                                    "hs_pct": "17%",
+                                    "fk": "0",
+                                    "fd": "3",
+                                    "fk_diff": "-3"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "",
+                                "side": ""
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [],
+                            "advanced_stats": []
+                        },
+                        "economy": []
+                    },
+                    {
+                        "map_name": "HavenPICK",
+                        "picked_by": "",
+                        "duration": "55:05",
+                        "score": {
+                            "team1": 10,
+                            "team2": 13
+                        },
+                        "score_ct": {
+                            "team1": "3",
+                            "team2": "5"
+                        },
+                        "score_t": {
+                            "team1": "7",
+                            "team2": "8"
+                        },
+                        "score_ot": {
+                            "team1": "",
+                            "team2": ""
+                        },
+                        "players": {
+                            "team1": [
+                                {
+                                    "name": "coconut",
+                                    "agent": "Sova",
+                                    "rating": "1.47",
+                                    "acs": "273",
+                                    "kills": "21",
+                                    "deaths": "15",
+                                    "assists": "9",
+                                    "kd_diff": "+6",
+                                    "kast": "70%",
+                                    "adr": "186",
+                                    "hs_pct": "35%",
+                                    "fk": "2",
+                                    "fd": "1",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "Yuicaw",
+                                    "agent": "Cypher",
+                                    "rating": "1.20",
+                                    "acs": "230",
+                                    "kills": "19",
+                                    "deaths": "17",
+                                    "assists": "7",
+                                    "kd_diff": "+2",
+                                    "kast": "70%",
+                                    "adr": "155",
+                                    "hs_pct": "27%",
+                                    "fk": "3",
+                                    "fd": "3",
+                                    "fk_diff": "0"
+                                },
+                                {
+                                    "name": "jkuro",
+                                    "agent": "Omen",
+                                    "rating": "0.89",
+                                    "acs": "163",
+                                    "kills": "12",
+                                    "deaths": "16",
+                                    "assists": "13",
+                                    "kd_diff": "-4",
+                                    "kast": "74%",
+                                    "adr": "105",
+                                    "hs_pct": "23%",
+                                    "fk": "0",
+                                    "fd": "2",
+                                    "fk_diff": "-2"
+                                },
+                                {
+                                    "name": "zhe",
+                                    "agent": "Neon",
+                                    "rating": "0.65",
+                                    "acs": "208",
+                                    "kills": "16",
+                                    "deaths": "22",
+                                    "assists": "2",
+                                    "kd_diff": "-6",
+                                    "kast": "57%",
+                                    "adr": "136",
+                                    "hs_pct": "36%",
+                                    "fk": "2",
+                                    "fd": "5",
+                                    "fk_diff": "-3"
+                                },
+                                {
+                                    "name": "stew",
+                                    "agent": "Chamber",
+                                    "rating": "0.55",
+                                    "acs": "107",
+                                    "kills": "10",
+                                    "deaths": "17",
+                                    "assists": "2",
+                                    "kd_diff": "-7",
+                                    "kast": "61%",
+                                    "adr": "73",
+                                    "hs_pct": "12%",
+                                    "fk": "0",
+                                    "fd": "5",
+                                    "fk_diff": "-5"
+                                }
+                            ],
+                            "team2": [
+                                {
+                                    "name": "Shr1mp",
+                                    "agent": "Skye",
+                                    "rating": "1.41",
+                                    "acs": "268",
+                                    "kills": "21",
+                                    "deaths": "13",
+                                    "assists": "12",
+                                    "kd_diff": "+8",
+                                    "kast": "74%",
+                                    "adr": "173",
+                                    "hs_pct": "22%",
+                                    "fk": "1",
+                                    "fd": "2",
+                                    "fk_diff": "-1"
+                                },
+                                {
+                                    "name": "f4ngeer",
+                                    "agent": "Waylay",
+                                    "rating": "1.31",
+                                    "acs": "255",
+                                    "kills": "22",
+                                    "deaths": "15",
+                                    "assists": "5",
+                                    "kd_diff": "+7",
+                                    "kast": "70%",
+                                    "adr": "166",
+                                    "hs_pct": "30%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                },
+                                {
+                                    "name": "K1ra",
+                                    "agent": "Cypher",
+                                    "rating": "1.13",
+                                    "acs": "201",
+                                    "kills": "17",
+                                    "deaths": "15",
+                                    "assists": "4",
+                                    "kd_diff": "+2",
+                                    "kast": "74%",
+                                    "adr": "125",
+                                    "hs_pct": "29%",
+                                    "fk": "5",
+                                    "fd": "1",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "iamgrq",
+                                    "agent": "Omen",
+                                    "rating": "1.07",
+                                    "acs": "193",
+                                    "kills": "15",
+                                    "deaths": "15",
+                                    "assists": "16",
+                                    "kd_diff": "0",
+                                    "kast": "78%",
+                                    "adr": "117",
+                                    "hs_pct": "26%",
+                                    "fk": "4",
+                                    "fd": "0",
+                                    "fk_diff": "+4"
+                                },
+                                {
+                                    "name": "Youze",
+                                    "agent": "Neon",
+                                    "rating": "0.50",
+                                    "acs": "150",
+                                    "kills": "12",
+                                    "deaths": "20",
+                                    "assists": "6",
+                                    "kd_diff": "-8",
+                                    "kast": "70%",
+                                    "adr": "96",
+                                    "hs_pct": "13%",
+                                    "fk": "3",
+                                    "fd": "2",
+                                    "fk_diff": "+1"
+                                }
+                            ]
+                        },
+                        "rounds": [
+                            {
+                                "round_num": 1,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 2,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 3,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 4,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 5,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 6,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 7,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 8,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 9,
+                                "winner": "team2",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 10,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 11,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 12,
+                                "winner": "team1",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 13,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 14,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 15,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 16,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 17,
+                                "winner": "team1",
+                                "side": "ct"
+                            },
+                            {
+                                "round_num": 18,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 19,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 20,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 21,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 22,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 23,
+                                "winner": "team2",
+                                "side": "t"
+                            },
+                            {
+                                "round_num": 24,
+                                "winner": "",
+                                "side": ""
+                            }
+                        ],
+                        "performance": {
+                            "kill_matrix": [],
+                            "advanced_stats": []
+                        },
+                        "economy": []
+                    }
+                ],
+                "head_to_head": [
+                    {
+                        "event": "",
+                        "date": "2026/04/05",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Bilibili Gaming",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/642925/bilibili-gaming-vs-jdg-esports-vct-2026-china-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/04/01",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "FunPlus Phoenix",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/642916/jdg-esports-vs-funplus-phoenix-vct-2026-china-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/21",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Any Questions Gaming",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "3 - 0",
+                        "url": "https://www.vlr.gg/640027/any-questions-gaming-vs-jdg-esports-china-evolution-series-2026-act-1-cf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/20",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Bilibili Gaming",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/640025/jdg-esports-vs-bilibili-gaming-china-evolution-series-2026-act-1-sf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/19",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Trace Esports",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 0",
+                        "url": "https://www.vlr.gg/640022/trace-esports-vs-jdg-esports-china-evolution-series-2026-act-1-qf"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/04/03",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "FunPlus Phoenix",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/642921/funplus-phoenix-vs-all-gamers-vct-2026-china-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/31",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Titan Esports Club",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/642914/titan-esports-club-vs-all-gamers-vct-2026-china-stage-1-w1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/11",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "Paper Rex",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "1 - 2",
+                        "url": "https://www.vlr.gg/626547/paper-rex-vs-all-gamers-valorant-masters-santiago-2026-lr2"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/09",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": true
+                            },
+                            {
+                                "name": "Gentle Mates",
+                                "is_winner": false
+                            }
+                        ],
+                        "score": "2 - 1",
+                        "url": "https://www.vlr.gg/626545/gentle-mates-vs-all-gamers-valorant-masters-santiago-2026-lr1"
+                    },
+                    {
+                        "event": "",
+                        "date": "2026/03/08",
+                        "teams": [
+                            {
+                                "name": "",
+                                "is_winner": false
+                            },
+                            {
+                                "name": "G2 Esports",
+                                "is_winner": true
+                            }
+                        ],
+                        "score": "0 - 2",
+                        "url": "https://www.vlr.gg/626538/all-gamers-vs-g2-esports-valorant-masters-santiago-2026-ubqf"
+                    }
+                ],
+                "performance": {
+                    "kill_matrix": [],
+                    "advanced_stats": [],
+                    "by_map": [
+                        {
+                            "game_id": "257973",
+                            "kill_matrix": [],
+                            "advanced_stats": []
+                        },
+                        {
+                            "game_id": "257974",
+                            "kill_matrix": [],
+                            "advanced_stats": []
+                        },
+                        {
+                            "game_id": "257975",
+                            "kill_matrix": [],
+                            "advanced_stats": []
+                        }
+                    ]
+                },
+                "economy": [],
+                "economy_by_map": [
+                    {
+                        "game_id": "257973",
+                        "rows": []
+                    },
+                    {
+                        "game_id": "257974",
+                        "rows": []
+                    },
+                    {
+                        "game_id": "257975",
+                        "rows": []
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": null,
+    "message": null
+}
